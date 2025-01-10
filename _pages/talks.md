@@ -7,8 +7,7 @@ author_profile: true
 
 Calendar
 ======
-{% include base_path %}
-<div class="wordwrap"> You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
+You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.
 
 Conferences
 ======
