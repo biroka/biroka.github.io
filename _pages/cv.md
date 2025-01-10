@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <div class="wordwrap"> You can check my detailed resume on  <a href="https://www.linkedin.com/in/biroattila"> LinkedIn</a> here.</div>
 
-Resumes
+
 ======
 * Resume EN [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_EN.pdf">[ Download ENGLISH CV ]</a> 
 * Resume HU [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_HU.pdf">[ Download HUNGARIAN CV ]</a> 
