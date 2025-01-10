@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Resume - Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Resumes
+======
+* Resume EN [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_EN.pdf">[ Download ENGLISH CV ]</a> 
+* Resume HU [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_HU.pdf">[ Download HUNGARIAN CV ]</a> 
+* Resume RO [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_RO.pdf">[ Download ROMANIAN CV ]</a> 
+* Resume ES [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_ES.pdf">[ Download SPANISH CV ]</a>
+
+
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +71,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
