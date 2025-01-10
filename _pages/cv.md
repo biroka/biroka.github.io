@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="wordwrap"> You can check my detailed resume on  <a href="{{site.author.linkedin}}"> LinkedIn</a> here.</div>
+<div class="wordwrap"> You can check my detailed resume on  <a href="https://www.linkedin.com/in/biroattila"> LinkedIn</a> here.</div>
 
 Resumes
 ======
