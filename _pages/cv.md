@@ -12,10 +12,10 @@ redirect_from:
 
 
 ======
-* Resume EN [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_EN.pdf">[ Download ENGLISH CV ]</a> 
-* Resume HU [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_HU.pdf">[ Download HUNGARIAN CV ]</a> 
-* Resume RO [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_RO.pdf">[ Download ROMANIAN CV ]</a> 
-* Resume ES [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_ES.pdf">[ Download SPANISH CV ]</a>
+* Resume EN [Update: 2025.01.10]: <a href="http://biroka.github.io/files/CV_AttilaBiro_EN.pdf">[ Download ENGLISH CV ]</a> 
+* Resume HU [Update: 2025.01.10]: <a href="http://biroka.github.io/files/CV_AttilaBiro_HU.pdf">[ Download HUNGARIAN CV ]</a> 
+* Resume RO [Update: 2025.01.10]: <a href="http://biroka.github.io/files/CV_AttilaBiro_RO.pdf">[ Download ROMANIAN CV ]</a> 
+* Resume ES [Update: 2025.01.10]: <a href="http://biroka.github.io/files/CV_AttilaBiro_ES.pdf">[ Download SPANISH CV ]</a>
 
 
 <!-- 
