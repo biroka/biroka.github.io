@@ -9,6 +9,7 @@ References
 ======
 * You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 * You can check my papers <a href="https://www.attila.phd/papers">ordered yearly</a> here.
+* Some of my conference papers are listed at <a href="https://ieeexplore.ieee.org/author/38110388500">IEEE Profile</a>.
 
 Journal Articles
 ======
