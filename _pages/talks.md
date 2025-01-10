@@ -5,11 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
-<div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
-
-
-
 Conferences
 ======
 * 2024.10.10 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024), Topic: "Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control ",  Kuching, Sarawak, Malaysia
@@ -40,6 +35,12 @@ Workshops and Seminars
 * 2022.02.01 - AI Hungary Akcelerátor Központ, „ADAT-FALAT” – AZ ÉLELMISZERIPAR ADATSZINTŰ KIHÍVÁSAI, Topic: "Digitalizáció és MI kihívások a gombatermesztésben", Webinar
 * 2019.02.28-03.01 - ITware, "First 10 years in Japan", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan 
 * 2019.10.24-30 - JETRO, "Digital Innovation" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
+
+
+Conference Calendar
+======
+{% include base_path %}
+<div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
 
 <!--div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
