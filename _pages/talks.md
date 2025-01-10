@@ -7,7 +7,7 @@ author_profile: true
 
 Calendar
 ======
-You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.
+* You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.
 
 Conferences
 ======
