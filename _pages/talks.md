@@ -41,6 +41,8 @@ Workshops and Seminars
 * 2019.10.24-30 - JETRO, "Digital Innovation" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
 
 
+
+
 <!--div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
 {% if site.talkmap_link == true %}
