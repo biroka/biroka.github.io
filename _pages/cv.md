@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="wordwrap"> You can check my detailed resume on  <a href="{{site.author.linkedin}}"> LinkedIn</a> here.</div>
 
 Resumes
 ======
@@ -16,9 +17,6 @@ Resumes
 * Resume RO [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_RO.pdf">[ Download ROMANIAN CV ]</a> 
 * Resume ES [Update: 2025.01.10]: <a href="http://mhd-hanif.github.io/files/CV_AttilaBiro_ES.pdf">[ Download SPANISH CV ]</a>
 
-LinkedIn
-======
-You can check my detailed resume on  <a href="{{site.author.linkedin}}"> LinkedIn</a> here.
 
 <!-- 
 Education
