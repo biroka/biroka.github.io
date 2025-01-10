@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 <div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
+
+
 Conferences
 ======
 * 2024.10.10 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024), Topic: "Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control ",  Kuching, Sarawak, Malaysia
