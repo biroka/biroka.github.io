@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "Conferences and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+Calendar
+======
+{% include base_path %}
+<div class="wordwrap"> You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
 Conferences
 ======
@@ -35,12 +40,6 @@ Workshops and Seminars
 * 2022.02.01 - AI Hungary Akcelerátor Központ, „ADAT-FALAT” – AZ ÉLELMISZERIPAR ADATSZINTŰ KIHÍVÁSAI, Topic: "Digitalizáció és MI kihívások a gombatermesztésben", Webinar
 * 2019.02.28-03.01 - ITware, "First 10 years in Japan", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan 
 * 2019.10.24-30 - JETRO, "Digital Innovation" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
-
-
-Conference Calendar
-======
-{% include base_path %}
-<div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
 
 <!--div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
