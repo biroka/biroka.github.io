@@ -22,6 +22,13 @@ Updates
 5. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
 6. 2024.10.10 - Presented my research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
 
+Peer Reviewer Activity
+------
+* IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+* Interdisciplinarity in Engineering (Inter-Eng)
+* JMIR Serious Games
+* 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025) 
+
 Academic Profiles
 ------
 [ <a href="https://orcid.org/0000-0002-0430-9932">ORCID</a> ][ <a href="https://scholar.google.com/citations?user=E6aVwnEAAAAJ"> Google Scholar</a> ][ <a href="https://www.researchgate.net/profile/Attila-Biro-2">ResearchGate</a> ][ <a href="https://loop.frontiersin.org/people/1141792/overview">Loop</a> ][ <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Attila+Biro">Pubmed</a> ][ <a href="https://www.scopus.com/authid/detail.uri?authorId=57220745742">Scopus</a> ][ <a href="https://www.lens.org/lens/profile/629976571/scholar">Lens</a> ][ <a href="https://app.dimensions.ai/details/entities/publication/author/ur.015542601301.99">Dimensions</a> ][ <a href="https://explore.openalex.org/authors/a5079667303">OpenAlex</a> ][ <a href="https://profiles.impactstory.org/u/0000-0002-0430-9932">Impactstory</a> ][ <a href="https://www.aminer.cn/profile/attila-bir/637d1654f789b382beb14a88">Aminer</a> ][ <a href="https://sciprofiles.com/profile/biroattila">Sci Profiles</a> ][ <a href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ][ <a href="https://www.brainmap.ro/attila-biro">BrainMap</a> ]
