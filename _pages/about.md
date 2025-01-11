@@ -24,11 +24,11 @@ Updates
 
 Affiliations
 ------
-* 2024.04 - ... - Physiological Controls Research Center, Óbuda University, Budapest, Hungary
-* 2021.02 - ... - Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga, Málaga, Spain
-* 2021.02 - ... - Instituto de Investigación Biomédica de Málaga (IBIMA), Málaga, Spain
-* 2020.09 - ... - ⁠Department of Electrical Engineering and Information Technology, George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures, Romania
-* 2012.12 - ... - ITware, Budapest, Hungary
+* 2024.04... - Physiological Controls Research Center, Óbuda University, Budapest, Hungary
+* 2021.02... - Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA), Málaga, Spain
+* 2021.02... - Instituto de Investigación Biomédica de Málaga (IBIMA), Málaga, Spain
+* 2020.09... - ⁠Department of Electrical Engineering and Information Technology, George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
+* 2012.12... - ITware, Budapest, Hungary
 
 Peer Reviewer Activity
 ------
