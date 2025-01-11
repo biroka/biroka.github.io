@@ -16,7 +16,7 @@ My motivation is to ensure business development as a continuous improvement proj
 Updates
 ======
 1. 2025.01.07 - Doctoral Thesis Deposit Report in the Institutional Repository of the University of Malaga (RIUMA).
-2. 2025.01.05 - Working on a Vitiligo-based research paper. Stage: last adjustments before sugmission.
+2. 2025.01.05 - Working on a Vitiligo-based research paper. Stage: last adjustments before submission.
 3. 2024.12.14 - Submitted paper to the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025) to be held on April 9-11, 2025 on Seychelle Islands. Under review.
 4. 2024.10.26 - Successfully defended my double PhD thesis with Excellent (Summa Cum Laude) and Sobresaliente (Excellent) grades at Informatics (UMFST GE Palade of Targu Mures, Romania) and respectively in Health Sciences (University of Malaga, Spain).
 5. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
