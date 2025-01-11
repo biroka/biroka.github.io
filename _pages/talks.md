@@ -32,6 +32,7 @@ Conferences
 
 Workshops and Seminars
 ======
+* 2024.11.26 - HPC Wkrshop és User Fórum 2024, HPC ECHO 2024 publikációi, Topic: "_Hibrid, szakmai nyelvre OCR_", AI Workshop
 * 2023.10.24 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), Topic: "_HPC tapasztalatok első komplex nyelvi projekten_", AI Workshop
 * 2023.09.13 - DANA - HIPA - JETRO, Topic: "_Intelligens megoldások vagy mesterséges intelligencia (MI), mint költséghatékonysági komponens_", Workshop
 * 2022.03.10 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN II Webinar, Topic: "_Gyökeres változások az MI hatására az Agráriumban_", Webinar 
