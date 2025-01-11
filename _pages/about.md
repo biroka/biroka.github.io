@@ -22,6 +22,14 @@ Updates
 5. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
 6. 2024.10.10 - Presented my research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
 
+Affiliations
+------
+* 2024.04 - ... - Physiological Controls Research Center, Óbuda University, Budapest, Hungary
+* 2021.02 - ... - Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga, Málaga, Spain
+* 2021.02 - ... - Instituto de Investigación Biomédica de Málaga (IBIMA), Málaga, Spain
+* 2020.09 - ... - ⁠Department of Electrical Engineering and Information Technology, George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures, Romania
+* 2012.12 - ... - ITware, Budapest, Hungary
+
 Peer Reviewer Activity
 ------
 * IEEE International Conference on Systems, Man, and Cybernetics (SMC)
