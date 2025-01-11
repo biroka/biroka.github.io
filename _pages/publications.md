@@ -7,9 +7,9 @@ author_profile: true
 
 References
 ======
-* You can also find my articles on my<a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
-* You can check my papers <a href="https://www.attila.phd/papers">ordered yearly</a> here.
-* Some of my conference papers are listed at <a href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a> profile.
+* More deatils on <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
+* Paper schdule <a href="https://www.attila.phd/papers">Calendar</a> here.
+* Conference papers are listed on <a href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a>.
 
 Journal Articles
 ======
