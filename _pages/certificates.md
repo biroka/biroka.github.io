@@ -8,7 +8,7 @@ author_profile: true
 * Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
 * Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
-##  Certificates connected to Research/AI domains
+##  Research/AI Certificates
 
 * 2024.07.28, Coursera. **Being a researcher (in Information Science and Technology)** by Politecnico di Milano [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
 * 2024.07.24, Coursera, **Ethics, Technology and Engineering** by Eindhoven University of Technology [[coursera]](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ)
@@ -32,7 +32,7 @@ author_profile: true
 * 2021.06.08, Coursera, **Understanding Research Methods** by University of London & SOAS University of London [[coursera]](https://www.coursera.org/account/accomplishments/verify/P59MZUUDAAYZ)
 * 2021.05.25, Coursera, **Introduction to Systematic Review and Meta-Analysis** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/DKNUCDD8H9EK)
 
-##  Technical Coursera certificates
+##  Technical Coursera Certificates
 
 * 2024.07.25, Coursera, **Principles of Management** by Johns Hopkins University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Principles%20of%20Management_UX2LR7CMEGK5.pdf)
 * 2024.07.24, Coursera, **Ethics,Technology and Engineering** by Eindhoven University of Technology and 4TU.Ethics [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Ethics-Technology%20and%20Engineering_KYV5NR5ZUJYZ.pdf)
