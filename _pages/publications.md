@@ -7,9 +7,9 @@ author_profile: true
 
 References
 ======
-* More deatils on <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
-* Paper schdule <a href="https://www.attila.phd/papers">Calendar</a> here.
-* Conference papers are listed on <a href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a>.
+* More details on <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
+* Publication schedule <a href="https://www.attila.phd/papers">Calendar</a> here.
+* IEEE Conference papers on <a href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a>.
 
 <!--
    <a href="xxx">
