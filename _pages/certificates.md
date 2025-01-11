@@ -5,8 +5,8 @@ permalink: /certificates/
 author_profile: true
 ---
 
-* You can also find my Coursera on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
-* You can check some of my badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
+* Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
+* Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
 ##  Certificates connected to Research/AI domains
 
