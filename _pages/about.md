@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,4 +24,4 @@ Updates
 
 Academic Profiles
 ------
-[ <a href="https://orcid.org/0000-0002-0430-9932">ORCID</a> ][ <a href="https://scholar.google.com/citations?user=E6aVwnEAAAAJ"> Google Scholar</a> ][ <a href="https://www.researchgate.net/profile/Attila-Biro-2">ResearchGate</a> ][ <a href="https://loop.frontiersin.org/people/1141792/overview">Loop</a> ][ <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Attila+Biro">Pubmed</a> ][ <a href="https://www.scopus.com/authid/detail.uri?authorId=57220745742">Scopus</a> ][ <a href="https://app.dimensions.ai/details/entities/publication/author/ur.015542601301.99">Dimensions</a> ][ <a href="https://explore.openalex.org/authors/a5079667303">OpenAlex</a> ][ <a href="https://profiles.impactstory.org/u/0000-0002-0430-9932">Impactstory</a> ][ <a href="https://www.lens.org/lens/profile/629976571/scholar">Lens</a> ][ <a href="https://www.aminer.cn/profile/attila-bir/637d1654f789b382beb14a88">Aminer</a> ][ <a href="https://sciprofiles.com/profile/biroattila">Sci Profiles</a> ][ <a href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ][ <a href="https://www.brainmap.ro/attila-biro">BrainMap</a> ]
+[ <a href="https://orcid.org/0000-0002-0430-9932">ORCID</a> ][ <a href="https://scholar.google.com/citations?user=E6aVwnEAAAAJ"> Google Scholar</a> ][ <a href="https://www.researchgate.net/profile/Attila-Biro-2">ResearchGate</a> ][ <a href="https://loop.frontiersin.org/people/1141792/overview">Loop</a> ][ <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Attila+Biro">Pubmed</a> ][ <a href="https://www.scopus.com/authid/detail.uri?authorId=57220745742">Scopus</a> ][ <a href="https://www.lens.org/lens/profile/629976571/scholar">Lens</a> ][ <a href="https://app.dimensions.ai/details/entities/publication/author/ur.015542601301.99">Dimensions</a> ][ <a href="https://explore.openalex.org/authors/a5079667303">OpenAlex</a> ][ <a href="https://profiles.impactstory.org/u/0000-0002-0430-9932">Impactstory</a> ][ <a href="https://www.aminer.cn/profile/attila-bir/637d1654f789b382beb14a88">Aminer</a> ][ <a href="https://sciprofiles.com/profile/biroattila">Sci Profiles</a> ][ <a href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ][ <a href="https://www.brainmap.ro/attila-biro">BrainMap</a> ]
