@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-References
+Publication References
 ======
 * More details on <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
 * Publication schedule <a href="https://www.attila.phd/papers">Calendar</a> here.
