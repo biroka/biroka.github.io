@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Calendar
+Conference Calendar
 ======
 * You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.
 
