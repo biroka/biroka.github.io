@@ -10,7 +10,7 @@ author_profile: true
 
 ##  Research/AI Certificates
 
-* 2024.07.28, Coursera. **Being a researcher (in Information Science and Technology)** by Politecnico di Milano [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
+* 2024.07.28, Coursera, **Being a researcher (in Information Science and Technology)** by Politecnico di Milano [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
 * 2024.07.24, Coursera, **Ethics, Technology and Engineering** by Eindhoven University of Technology [[Certificate]](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ)
 * 2023.10.01, Coursera, **Reproducible Research** by Johns Hopkins University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/TB9QEMK487JG)
 * 2023.09.29, Coursera, **Hypothesis Testing in Public Health** by Johns Hopkins University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/JL8QEEUDVL2H)
