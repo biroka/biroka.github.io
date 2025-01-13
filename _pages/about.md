@@ -11,7 +11,7 @@ I am an accomplished and performance-driven professional with extensive experien
 
 Motivation
 ======
-My motivation is to ensure business development as a continuous improvement project. I am committed to building strong, efficient, professional development teams through technically challenging projects. I'm passionate about inspiring my teammates and colleagues to dream, learn, become, innovate, and work continuously with passion!
+My motivation is to ensure the business development /software development /reseach as a continuous improvement projects. I am committed to building strong, efficient, professional teams through technically challenging projects. I'm passionate about inspiring my teammates and colleagues to dream, learn, become, innovate, and work continuously with passion!
 
 Updates
 ======
@@ -24,11 +24,11 @@ Updates
 
 Affiliations
 ------
-* 2024.04... - Physiological Controls Research Center, Óbuda University, Budapest, Hungary
-* 2021.02... - Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA), Málaga, Spain
-* 2021.02... - Instituto de Investigación Biomédica de Málaga (IBIMA), Málaga, Spain
-* 2020.09... - ⁠Department of Electrical Engineering and Information Technology, George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
-* 2012.12... - ITware, Budapest, Hungary
+* 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center, Óbuda University</a>, Budapest, Hungary 
+* 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>, Málaga, Spain
+* 2021.02... - <a target="_new" href="http://clinimetria.es">Instituto de Investigación Biomédica de Málaga (IBIMA)</a>, Málaga, Spain
+* 2020.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures</a>, Romania
+* 2012.12... - <a target="_new" href="https://itware.en">ITware</a>, Budapest, Hungary
 
 Peer Reviewer Activity
 ------
