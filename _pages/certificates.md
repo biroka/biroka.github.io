@@ -8,12 +8,6 @@ author_profile: true
 * Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
 * Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
-##  Specialization Certificates
-* 2024.08.02, Coursera, _Cybersecurity Leadership and Management_ (Specialization Certificate) by Infosec [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG)
-* 2022.10.28, Coursera, _Security Analyst Fundamentals_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV)
-* 2022.09.28, Coursera, _AI Foundations for Everyone_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR)
-* 2022.08.16, Coursera, _Leading the Modern Day Business_ (Specialization Certificate) by University of Virginia [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ)
-
 ##  Research/AI Certificates
 
 * 2024.07.28, Coursera, _Being a researcher (in Information Science and Technology)_ by Politecnico di Milano [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
@@ -63,6 +57,12 @@ author_profile: true
 * 2021.09.20, Coursera, _Model Thinking_ by University of Michigan [[Certificate]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Model%20Thinking_82Z5AVGFJJBG.pdf)
 * 2021.07.26, Coursera, _English for Business and Entrepreneurship_ by University of Pennsylvania [[Certificate]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_English%20for%20Business%20and%20Entrepreneurship_YUNJ46C7WACN.pdf)
 * 2021.05.26, Coursera, _Successful Negotiation - Essential Strategies and Skills_ by University of Michigan [[Certificate]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera%20_Successful%20Negotiation-%20Essential%20Strategies%20and%20Skills_FXNVXS4GLFLM.pdf)
+
+##  Specialization Certificates
+* 2024.08.02, Coursera, _Cybersecurity Leadership and Management_ (Specialization Certificate) by Infosec [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG)
+* 2022.10.28, Coursera, _Security Analyst Fundamentals_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV)
+* 2022.09.28, Coursera, _AI Foundations for Everyone_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR)
+* 2022.08.16, Coursera, _Leading the Modern Day Business_ (Specialization Certificate) by University of Virginia [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ)
   
 ##  IEEE certificates
 
