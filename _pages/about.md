@@ -28,7 +28,7 @@ Affiliations
 * 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>, Málaga, Spain
 * 2021.02... - <a target="_new" href="http://clinimetria.es">Instituto de Investigación Biomédica de Málaga (IBIMA)</a>, Málaga, Spain
 * 2020.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures</a>, Romania
-* 2012.12... - <a target="_new" href="https://itware.en">ITware</a>, Budapest, Hungary
+* 2012.12... - <a target="_new" href="https://itware.eu">ITware</a>, Budapest, Hungary
 
 Peer Reviewer Activity
 ------
