@@ -33,6 +33,7 @@ Conferences
 Workshops and Seminars
 ======
 * 2024.11.26 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), HPC Workshop és User Fórum 2024, HPC ECHO 2024 publikációi, Topic: "_Hibrid, szakmai nyelvre OCR_", AI Workshop
+* 2024.06.19 - MILAB, Topic: "_Machine vision and OCR in geo-distributed collaborations and sports_", AI Workshop 
 * 2023.10.24 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), Topic: "_HPC tapasztalatok első komplex nyelvi projekten_", AI Workshop
 * 2023.09.13 - DANA - HIPA - JETRO, Topic: "_Intelligens megoldások vagy mesterséges intelligencia (MI), mint költséghatékonysági komponens_", Workshop
 * 2022.03.10 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN II Webinar, Topic: "_Gyökeres változások az MI hatására az Agráriumban_", Webinar 
@@ -41,8 +42,23 @@ Workshops and Seminars
 * 2019.02.28-03.01 - ITware, "_First 10 years in Japan_", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan 
 * 2019.10.24-30 - JETRO, "_Digital Innovation_" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
 
-
-
+Internal Meetups and Trainings
+======
+* 2024.11.19 - CI/CD demistification for Geeks and Newbies
+* 2024.11.07 - "Speech to text" és generatív AI alkalmazása a mindennapi életben
+* 2024.07.26 - The future of H2020 iGAME Project
+* 2024.05.03 - Developing Gamification Toolkits
+* 2024.05.10 - Injury Assessment solution design for performance sports in Japan 
+* 2024.04.26 - AI Chatbot, the NGBot
+* 2023.10.05 - Siemens Energy - Automation in the world of industrial furnaces
+* 2023.02.03 - Japan, the Empire of Signs
+* 2023.02.10 - Firebease Quick Tour for Newbies
+* 2022.07.21 - Training CleanCode
+* 2022.01.31 - Steps in Japan
+* 2022.01.19 - Prototyping in Software Development
+* 2022.01.12 - HW/SW IPR in Cross-border and Cross-sector Collaboration Consortial R+D (H2020) Projects
+* 2021.04.28 - Model Ensembling
+* 2021.11.19 - Code of Ethics and Professional Conduct in Multicultural Project Management
 
 <!--div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
