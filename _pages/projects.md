@@ -162,7 +162,7 @@ Delivery: 2014
 
 ### Somody Group (2009 - 2012)
  * Intelligent pill dispenser (R+D)(Gyógyszerfutár Kft.) (HU)
- * Complex Compliance solutions for the pharmaceutical sector (Gyógyszerfutár Kft.) (HU)
+ * Complex Compliance HW/SW infrastructure and with call-center solution for the pharmaceutical sector (Gyógyszerfutár Kft.) (HU)
  * Medicines courier service and model (Gyógyszerfutár Kft.) (HU)
  * Design, construction and project management of a high-end complex infertility clinic development (CIRIS Kft.) (HU)
  * Development and project management of regional specialized health care centers for outpatients (Szécsény, Ibrány, Pannonhalma) (ESZM Kft.) (HU)
