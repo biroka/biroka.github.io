@@ -163,10 +163,10 @@ Delivery: 2014
  * EVOLware - ITware
 
 ### Somody Group (2009 - 2012)
- * Intelligent pill dispenser (R+D) (HU)
- * Complex Compliance solutions for the pharmaceutical sector (HU)
- * Medicines courier service and model (Gyógyszerfutár) (HU)
- * Development and project management of regional specialized health care centers for outpatients (Szécsény, Ibrány, Pannonhalma) (HU)
- * Design and construction of a complex infertility clinic (CIRIS) (HU)
- * Design and modernization of equipments for building technology, pastry, and kitchen technology (Centrál Kávéház, Budapest) (HU)
+ * Intelligent pill dispenser (R+D)(Gyógyszerfutár Kft.) (HU)
+ * Complex Compliance solutions for the pharmaceutical sector (Gyógyszerfutár Kft.) (HU)
+ * Medicines courier service and model (Gyógyszerfutár Kft.) (HU)
+ * Design and construction of a complex infertility clinic (CIRIS Kft.) (HU)
+ * Development and project management of regional specialized health care centers for outpatients (Szécsény, Ibrány, Pannonhalma) (ESZM Kft.) (HU)
+ * Design and modernization of equipments for building technology, pastry, and kitchen technology (Centrál Kávéház, Budapest) (Somody Kft.) (HU)
 
