@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-## Software Development / Infrastructure Development / R+D / Grants
+## KEY PROJECTS: Software + Infrastructure Development / R+D / Grants
 ### ITware Kft. | iGAME H2020 RISE (EU)
  * Community support chat development
  * Role: Project Leader, Research Director
@@ -112,7 +112,7 @@ Delivery: 2014
  * Project size: 2.990.000 EUR
 
 
-## Software Development / R+D / Grants
+## PROJECT LISTING: Software Development / R+D / Grants
 
 ### ITware (2012 - ...)
  * KOJIMORI automatized firmware upgrade, (JP) 
