@@ -164,7 +164,7 @@ Delivery: 2014
  * Intelligent pill dispenser (R+D)(Gyógyszerfutár Kft.) (HU)
  * Complex Compliance solutions for the pharmaceutical sector (Gyógyszerfutár Kft.) (HU)
  * Medicines courier service and model (Gyógyszerfutár Kft.) (HU)
- * Design and construction of a complex infertility clinic (CIRIS Kft.) (HU)
+ * Design, construction and project management of a high-end complex infertility clinic development (CIRIS Kft.) (HU)
  * Development and project management of regional specialized health care centers for outpatients (Szécsény, Ibrány, Pannonhalma) (ESZM Kft.) (HU)
  * Design and modernization of equipments for building technology, pastry, and kitchen technology (Centrál Kávéház, Budapest) (Somody Kft.) (HU)
 
