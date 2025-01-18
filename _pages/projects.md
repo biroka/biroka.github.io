@@ -7,7 +7,6 @@ redirect_from:
   - /projects.html
 ---
 
-# Project References (Key projects)
 ## Software Development / Infrastructure Development / R+D / Grants
 ### ITware Kft. | iGAME H2020 RISE (EU)
  * Community support chat development
@@ -113,7 +112,6 @@ Delivery: 2014
  * Project size: 2.990.000 EUR
 
 
-# Project References 
 ## Software Development / R+D / Grants
 
 ### ITware (2012 - ...)
