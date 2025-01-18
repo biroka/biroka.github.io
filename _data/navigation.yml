@@ -14,8 +14,8 @@ main:
   - title: "Certificates"
     url: /certificates/   
 
-  - title: "Projects"
-    url: /projects/   
+ # - title: "Projects"
+ #  url: /projects/   
 
  # - title: "Teaching"
  #   url: /teaching/    
