@@ -2,9 +2,6 @@
 permalink: /projects/
 title: "Projects"
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
 ---
 
 ## KEY PROJECTS: Software + Infrastructure Development / R+D / Grants
