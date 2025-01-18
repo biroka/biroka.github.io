@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Life philosophy: "Set a goal so big that you can't achieve it until you grow into the person who can."—  Dokeshi no Michi
+Motto: "Set a goal so big that you can't achieve it until you grow into the person who can."—  Dokeshi no Michi
 
 
 I am an accomplished and performance-driven professional with extensive experience in international business, software development, and scientific research in the IT and healthcare sectors. I hold two PhDs: one in 🧬 Health Sciences and another in 🧬 Computer Science. I deliver secure, stable, innovative technology solutions as CTO and CBDO (at ITware, Hungary). I bring creative problem-solving to B2B and B2C projects by removing complexity and identifying clear implementation paths for efficient business operations.
