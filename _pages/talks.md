@@ -7,7 +7,7 @@ author_profile: true
 
 Conference Calendar
 ======
-* You can check my conference, workshop, webinar, meetup <a href="https://www.attila.phd/conferences"> Calendar</a> here.
+* You can check my conference, workshop, webinar, meetup <a target="_new" href="https://www.attila.phd/conferences"> Calendar</a> here.
 
 Conferences
 ======
@@ -39,7 +39,8 @@ Workshops and Seminars
 * 2022.03.10 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN II Webinar, Topic: "_Gyökeres változások az MI hatására az Agráriumban_", Webinar 
 * 2022.02.17 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN I Webinar, Topic: "_Ki mint digitalizál, úgy arat - Digitalizáció és MI az Agráriumban_", Webinar
 * 2022.02.01 - AI Hungary Akcelerátor Központ, „ADAT-FALAT” – AZ ÉLELMISZERIPAR ADATSZINTŰ KIHÍVÁSAI, Topic: "_Digitalizáció és MI kihívások a gombatermesztésben_", Webinar
-* 2019.02.28-03.01 - ITware, "_First 10 years in Japan_", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan 
+* 2019.02.28-03.01 - ITware, "_First 10 years in Japan_", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan
+* 2019.10.30 - <a target="_new" href="https://oi.nttdata.com/forum/history/20191030/">Open Innovation Forum</a> at the NDD DATA, Tokyo, Japan
 * 2019.10.24-30 - JETRO, "_Digital Innovation_" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
 
 Internal Meetups and Trainings
