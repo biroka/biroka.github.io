@@ -63,3 +63,4 @@ Academic Profiles
 [ <a target="_new" href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ]
 [ <a target="_new" href="https://www.scilit.com/scholars/16248794">Scilit</a> ]
 [ <a target="_new" href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a> ]
+[ <a target="_new" href="https://www.adscientificindex.com/scientist/attila-biro/5929036">AD Scientific Index</a> ]
