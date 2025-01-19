@@ -23,8 +23,8 @@ Conferences
 * 2023.10.02 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2023), Topic: "_Real-Time Disease and COVID-19 Detection Pipeline from Voice for Performance Sports_",  Oahu, Hawaii, USA
 * 2023.09.22 - IEEE 21st International Symposium on Intelligent Systems and Informatics (SISY 2023), Topic: "_Applied AI for real-time detection of lesions and tumors following severe head injuries_",  Pula, Croatia
 * 2023.09.21 - IEEE 21st International Symposium on Intelligent Systems and Informatics (SISY 2023), Topic: "_Predictive sports strategy approach using YOLO and YOLO-NAS in performance sports_", Pula, Croatia
-* 2022.12.07 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_AI PROXY IN SPORTS SAFETY FOR MULTILINGUAL COLLABORATIVE VIDEODIAGNOSIS SOLUTIONS_", Targu Mures, Romania
 * 2022.12.16 - II Jornadas Doctorales en Ciencias de la Salud, Programa de Doctorado en Ciencias de la Salud, Organized by The Academic Commission of Malaga University, Linea 3, Topic: ”_Applied ensemble learning methods and ML models to support multilingual, real-time distant diagnostics_”, Malaga, Spain
+* 2022.12.07 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_AI PROXY IN SPORTS SAFETY FOR MULTILINGUAL COLLABORATIVE VIDEODIAGNOSIS SOLUTIONS_", Targu Mures, Romania
 * 2022.05.11 - PREGA Konferencia, Adattudomány a gyakorlatban szekció, Topic: "_Az adat(r)evolúció és adatvirágzás kora: Digitális átállás/digitalizáció az Agráriumban_", Budapest, Hungary
 * 2022.02.18 - Divulgando a Pacientes - VIII Jornadas de Transferencia Grupo de Investigacion Clinimetrıa”, Topic: "_Real-time multilingual collaborative tools and applied artificial intelligence in remote diagnosis_”, Clinimetria F-14 (IBIMA) and CTS-631 (PAIDI) research groups. Organizer: Faculty of Health Sciences, University of Malaga. This event was part of the "VIII Conference of the Clinimetrics Research Group" on the transfer of health knowledge worked within the group to patients in a clear and familiar language. Focus: balance between innovation and dissemination, Malaga, Spain
 * 2021.12.09 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_APPLIED ENSEMBLE LEARNING METHODS AND ML MODELS TO SUPPORT MULTILINGUAL, REALTIME DISTANT DIAGNOSTICS_", Targu Mures, Romania
@@ -39,27 +39,27 @@ Workshops and Seminars
 * 2022.03.10 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN II Webinar, Topic: "_Gyökeres változások az MI hatására az Agráriumban_", Webinar 
 * 2022.02.17 - AI Hungary Akcelerátor Központ, MESTERSÉGES INTELLIGENCIA ALKALMAZÁSOK ÉS ADATGAZDÁLKODÁS AZ AGRÁRIUMBAN I Webinar, Topic: "_Ki mint digitalizál, úgy arat - Digitalizáció és MI az Agráriumban_", Webinar
 * 2022.02.01 - AI Hungary Akcelerátor Központ, „ADAT-FALAT” – AZ ÉLELMISZERIPAR ADATSZINTŰ KIHÍVÁSAI, Topic: "_Digitalizáció és MI kihívások a gombatermesztésben_", Webinar
-* 2019.02.28-03.01 - ITware, "_First 10 years in Japan_", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan
-* 2019.10.30 - <a target="_new" href="https://oi.nttdata.com/forum/history/20191030/">Open Innovation Forum</a> at the NDD DATA, Tokyo, Japan
+* 2019.10.30 - <a target="_new" href="https://oi.nttdata.com/forum/history/20191030/">_Open Innovation Forum_</a> at the NDD DATA, Tokyo, Japan
 * 2019.10.24-30 - JETRO, "_Digital Innovation_" CEE Entrepreneurs Delegation to Japan program organized by JETRO Budapest (Japan External Trade Organization) at Tokyo and Chiba, Japan
+* 2019.02.28-03.01 - ITware, "_First 10 years in Japan_", két napos szakmai szeminárium az automatizált tesztelésről és mesterséges intelligenciáról, Tokyo, Japan
 
 Internal Meetups and Trainings
 ======
 * 2024.11.19 - CI/CD demistification for Geeks and Newbies
 * 2024.11.07 - "Speech to text" és generatív AI alkalmazása a mindennapi életben
 * 2024.07.26 - The future of H2020 iGAME Project
+* 2024.05.10 - Injury Assessment solution design for performance sports in Japan
 * 2024.05.03 - Developing Gamification Toolkits
-* 2024.05.10 - Injury Assessment solution design for performance sports in Japan 
 * 2024.04.26 - AI Chatbot, the NGBot
 * 2023.10.05 - Siemens Energy - Automation in the world of industrial furnaces
-* 2023.02.03 - Japan, the Empire of Signs
 * 2023.02.10 - Firebease Quick Tour for Newbies
+* 2023.02.03 - Japan, the Empire of Signs
 * 2022.07.21 - Training CleanCode
 * 2022.01.31 - Steps in Japan
 * 2022.01.19 - Prototyping in Software Development
 * 2022.01.12 - HW/SW IPR in Cross-border and Cross-sector Collaboration Consortial R+D (H2020) Projects
-* 2021.04.28 - Model Ensembling
 * 2021.11.19 - Code of Ethics and Professional Conduct in Multicultural Project Management
+* 2021.04.28 - Model Ensembling
 
 <!--div class="wordwrap"> You can check my conference <a href="https://www.attila.phd/conferences"> Calendar</a> here.</div>
 
