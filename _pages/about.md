@@ -57,7 +57,7 @@ Academic Profiles
 [ <a target="_new" href="https://www.aminer.cn/profile/attila-bir/637d1654f789b382beb14a88">Aminer</a> ]
 [ <a target="_new" href="https://profiles.impactstory.org/u/0000-0002-0430-9932">Impact story</a> ]
 [ <a target="_new" href="https://www.brainmap.ro/attila-biro">BrainMap</a> ]
-[ <a target="_new" href="https://m2.mtmt.hu/api/author/10098709">MTMT2</a> ]
+[ <a target="_new" href="https://m2.mtmt.hu/api/author/10098709?&labelLang=eng">MTMT2</a> ]
 [ <a target="_new" href="https://scite.ai/users/attila-biro-D1xKW">scite_</a> ]
 [ <a target="_new" href="https://rescognito.com/0000-0002-0430-9932">Rescognito</a> ]
 [ <a target="_new" href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ]
