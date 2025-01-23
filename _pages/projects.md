@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 ## KEY PROJECTS: Software + Infrastructure Development / R+D / Grants
-### ITware Kft. | iGAME H2020 RISE (EU)
- * Community support chat development
- * Role: Project Leader, Research Director
- * Type of project: Software Development
- * Delivery: 2019 - ...
 
 ### ITware Kft. | Japanese customer | Sunbears Cloud Campus Ecosystem (JP)
  * Development of a cloud-based service to collect and manage statistics of ice hockey matches for a Japanese client.
@@ -24,7 +19,14 @@ author_profile: true
  * Tech stack: Eclipse RAP, EJB3, JPA, Google Maps, JS, Ruby on Rails
  * Role: Business Analyst, Product owner
  * Type of project: Software Development, Logistics
- * Delivery: 2017- ...
+ * Delivery: 2017- ...
+
+### ITware Kft. | iGAME H2020 RISE (EU)
+ * Community support chat development
+ * Role: Project Leader, Research Director
+ * Type of project: Software Development
+ * Delivery: (2019 - ) 2024
+
 
 ### ITware Kft. | Japanese customer |  Bears Playback Android (JP)
  * Gesture-based event recording app for Android
@@ -113,6 +115,7 @@ Delivery: 2014
 ## PROJECT LISTING: Software Development / R+D / Grants
 
 ### ITware (2012 - ...)
+ * Operational Capacity Management Dashboard, Volán (HU)
  * KOJIMORI automatized firmware upgrade, (JP) 
  * iGAME H2020 RISE -  cross-country (ES, UK, IT, MK, HU) consortium project (EU)
  * KITE -  Service and Agronomical Android tablet development, (HU)
