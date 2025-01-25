@@ -21,12 +21,12 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
     * [x] Full paper submission: December 14, 2024
 
 ## 2026 Conference Plans
-  * [ ] **SMC 2026**: October xx-xx, 2026, xx [Submission: 2026.04.04]() 
-  * [ ] **SISY 2026**: September xx-xx, 2026, xx [Submission: 2026.05.15]() 
-  * [ ] **INES 2026**: June xx-xx, 2026, xx [Submission: 2026.02.04]() 
-  * [ ] **SACI 2026**: May xx-xx, 2026, Timisoara [Submission: 2026.02.07]()
-  * [ ] **ICCC 2026**: April xx-xx, 2026, xx [Submission: 2025.12.14]()
-  * [ ] **SAMI 2026**: April xx-xx, 2026, Slovakia [Submission: 2025.12.14]()
+  * [ ] **SMC 2026**: October xx-xx, 2026, xx [Submission: 2026.04.04](https://www.ieeesmc2026.org/) 
+  * [ ] **SISY 2026**: September xx-xx, 2026, xx [Submission: 2026.05.15](https://conf.uni-obuda.hu/sisy2026/) 
+  * [ ] **INES 2026**: June xx-xx, 2026, xx [Submission: 2026.02.04](http://www.ines-conf.org/ines-conf/2026index.html) 
+  * [ ] **SACI 2026**: May xx-xx, 2026, Timisoara [Submission: 2026.02.07](https://conf.uni-obuda.hu/saci2026)
+  * [ ] **ICCC 2026**: April xx-xx, 2026, xx [Submission: 2025.12.14](https://conf.uni-obuda.hu/iccc2026)
+  * [ ] **SAMI 2026**: April xx-xx, 2026, Slovakia [Submission: 2025.12.14](https://conf.uni-obuda.hu/sami2026)
 
 ## 2025 Conference Plans
   * [ ] **SMC 2025**: October 5-8, 2025, Austrian Center Vienna (ACV), Vienna, Austria [Submission: 2025.04.04](https://www.ieeesmc2025.org/) 
