@@ -24,7 +24,6 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 ## 2025 Conference Plans
   * :date: **SMC 2025** [2]: October 5-8, 2025, Austrian Center Vienna (ACV), Vienna, Austria [Submission: 2025.04.04](https://www.ieeesmc2025.org/) 
   * :date: **SISY 2025** [2]: September 25-27, 2025, Subotica, Serbia [Submission: 2025.05.15](https://conf.uni-obuda.hu/sisy2025/) 
-  * :unlock: **SACI 2025** [2]: May 19-24, 2025, Timisoara [Submission: 2025.02.07](https://conf.uni-obuda.hu/saci2025/)
   * :memo: **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.04](http://www.ines-conf.org/ines-conf/2025index.html) 
   * :rocket: **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
 
