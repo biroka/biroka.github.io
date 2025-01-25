@@ -23,8 +23,8 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 ## 2025 Conference Plans
   * [ ] **SMC 2025** [2]: October 5-8, 2025, Austrian Center Vienna (ACV), Vienna, Austria [Submission: 2025.04.04](https://www.ieeesmc2025.org/) 
   * [ ] **SISY 2025** [2]: September 25-27, 2025, Subotica, Serbia [Submission: 2025.05.15](https://conf.uni-obuda.hu/sisy2025/) 
-  * [ ] **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.04](http://www.ines-conf.org/ines-conf/2025index.html) 
   * [ ] **SACI 2025** [2]: May 19-24, 2025, Timisoara [Submission: 2025.02.07](https://conf.uni-obuda.hu/saci2025/)
+  * [ ] **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.04](http://www.ines-conf.org/ines-conf/2025index.html) 
   * [x] **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
 
 ## 2025 Papers
@@ -39,7 +39,7 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 ## 2026 Conference Plans
   * [ ] **SMC 2026** [2]: October xx-xx, 2026, xx [Submission: 2026.04.04](https://www.ieeesmc2026.org/) 
   * [ ] **SISY 2026** [2]: September xx-xx, 2026, xx [Submission: 2026.05.15](https://conf.uni-obuda.hu/sisy2026/) 
-  * [ ] **INES 2026** [2]: June xx-xx, 2026, xx [Submission: 2026.02.04](http://www.ines-conf.org/ines-conf/2026index.html) 
   * [ ] **SACI 2026** [2]: May xx-xx, 2026, Timisoara [Submission: 2026.02.07](https://conf.uni-obuda.hu/saci2026)
+  * [ ] **INES 2026** [2]: June xx-xx, 2026, xx [Submission: 2026.02.04](http://www.ines-conf.org/ines-conf/2026index.html) 
   * [ ] **ICCC 2026** [2]: April xx-xx, 2026, xx [Submission: 2025.12.14](https://conf.uni-obuda.hu/iccc2026)
   * [ ] **SAMI 2026** [2]: April xx-xx, 2026, Slovakia [Submission: 2025.12.14](https://conf.uni-obuda.hu/sami2026)
