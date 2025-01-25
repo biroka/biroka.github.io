@@ -26,7 +26,7 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
   * :date: **SISY 2025** [2]: September 25-27, 2025, Subotica, Serbia [Submission: 2025.05.15](https://conf.uni-obuda.hu/sisy2025/) 
   * :unlock: **SACI 2025** [2]: May 19-24, 2025, Timisoara [Submission: 2025.02.07](https://conf.uni-obuda.hu/saci2025/)
   * :memo: **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.04](http://www.ines-conf.org/ines-conf/2025index.html) 
-  * :heavy_check_mark: **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
+  * :rocket: **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
 
 ## 2025 Papers
   * :date:  **XXX**, Systematic Review 2: AI-Supported Drug Compliance: A Systematic Review
@@ -34,7 +34,7 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
   * :memo:  **XXX**, Topic: Shoulder MRI Research with UMA (Research: On-Going)
   * :memo:  **MDPI, Applied Sciences**, Topics: RAG/CAG, Sports
   * :memo:  **MDPI, Sensors**: Topic: Research with IMU dataset (Research: On-Going)
-  * :white_check_mark:  **Frontiers**: "AI-Driven Vitiligo Autoimmune Disorder Detection and Mental Health Monitoring: Integrating YOLOv11 for Diagnosis and Sentiment Analysis for Psychological Well-being"
+  * :rocket:  **Frontiers**: "AI-Driven Vitiligo Autoimmune Disorder Detection and Mental Health Monitoring: Integrating YOLOv11 for Diagnosis and Sentiment Analysis for Psychological Well-being"
 
 # 2026
 ## 2026 Conference Plans
