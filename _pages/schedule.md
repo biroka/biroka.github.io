@@ -29,18 +29,18 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
   * :rocket: **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
 
 ## 2025 Papers
-  * :date:  **XXX**, Systematic Review 2: AI-Supported Drug Compliance: A Systematic Review
-  * :date:  **XXX**, Systematic Review 1: Artificial Intelligence Methods and Applications for Preventing and Predicting the Sport Injuries and Fatigue in the Performance Sports: A Systematic Review
-  * :memo:  **XXX**, Topic: Shoulder MRI Research with UMA (Research: On-Going)
-  * :memo:  **MDPI, Applied Sciences**, Topics: RAG/CAG, Sports
-  * :memo:  **MDPI, Sensors**: Topic: Research with IMU dataset (Research: On-Going)
-  * :rocket:  **Frontiers**: "AI-Driven Vitiligo Autoimmune Disorder Detection and Mental Health Monitoring: Integrating YOLOv11 for Diagnosis and Sentiment Analysis for Psychological Well-being"
+  * :date:  Systematic Review: AI-Supported Drug Compliance: A Systematic Review
+  * :date:  Systematic Review: Artificial Intelligence Methods and Applications for Preventing and Predicting the Sport Injuries and Fatigue in the Performance Sports: A Systematic Review
+  * :memo:  Topic: Shoulder MRI Research with UMA (Research: On-Going)
+  * :memo:  Topic: RAG/CAG, Sports
+  * :memo:  Topic: Research with IMU dataset (Research: On-Going)
+  * :rocket: Topic: "AI-Driven Vitiligo Autoimmune Disorder Detection and Mental Health Monitoring: Integrating YOLOv11 for Diagnosis and Sentiment Analysis for Psychological Well-being"
 
 # 2026
 ## 2026 Conference Plans
-  * :lock:  **SMC 2026** [2]: October xx-xx, 2026, xx [Submission: 2026.04.04](https://www.ieeesmc2026.org/) 
-  * :lock:  **SISY 2026** [2]: September xx-xx, 2026, xx [Submission: 2026.05.15](https://conf.uni-obuda.hu/sisy2026/) 
-  * :lock:  **SACI 2026** [2]: May xx-xx, 2026, Timisoara [Submission: 2026.02.07](https://conf.uni-obuda.hu/saci2026)
-  * :lock:  **INES 2026** [2]: June xx-xx, 2026, xx [Submission: 2026.02.04](http://www.ines-conf.org/ines-conf/2026index.html) 
-  * :lock:  **ICCC 2026** [2]: April xx-xx, 2026, xx [Submission: 2025.12.14](https://conf.uni-obuda.hu/iccc2026)
-  * :lock:  **SAMI 2026** [2]: April xx-xx, 2026, Slovakia [Submission: 2025.12.14](https://conf.uni-obuda.hu/sami2026)
+  * :lock:  **SMC 2026** [2]: October, 2026, xx [Submission: 2026.04.xx](https://www.ieeesmc2026.org/) 
+  * :lock:  **SISY 2026** [2]: September, 2026, xx [Submission: 2026.05.xx](https://conf.uni-obuda.hu/sisy2026/) 
+  * :lock:  **SACI 2026** [2]: May, 2026, Timisoara [Submission: 2026.02.xx](https://conf.uni-obuda.hu/saci2026)
+  * :lock:  **INES 2026** [2]: June, 2026, xx [Submission: 2026.02.xx](http://www.ines-conf.org/ines-conf/2026index.html) 
+  * :lock:  **ICCC 2026** [2]: April, 2026, xx [Submission: 2025.12.xx](https://conf.uni-obuda.hu/iccc2026)
+  * :lock:  **SAMI 2026** [2]: April, 2026, Slovakia [Submission: 2025.12.xx](https://conf.uni-obuda.hu/sami2026)
