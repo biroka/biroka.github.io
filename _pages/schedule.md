@@ -9,9 +9,10 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 
 # 2025
 ## Pending Conferences
-### ICCC | 2025 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems
+### **ICCC 2025** | 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems
   * Location: Seychelle Islands
   * Submitted paper: Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports
+  * Authors: Attila Biró, László Szilágyi
   * Status:
     * [ ] Published in IEEE Xplore
     * [ ] Presentation: April 9-11, 2025
