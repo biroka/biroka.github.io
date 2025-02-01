@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can check my detailed resume on  <a target="_new" href="https://www.linkedin.com/in/biroattila"> LinkedIn</a> here.
+You can view my simple resume at <a target="_new" href="https://cv.biroattila.com"> cv.biroattila.com </a>, or a more thorough one on <a target="_new" href="https://www.linkedin.com/in/biroattila"> LinkedIn</a>.
 
  
 Resume versions
