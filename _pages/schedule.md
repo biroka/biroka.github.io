@@ -42,3 +42,4 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
   * :lock:  **INES 2026** [2]: June, 2026, xx [Submission: 2026.02.xx](http://www.ines-conf.org/ines-conf/2026index.html) 
   * :lock:  **ICCC 2026** [2]: April, 2026, xx [Submission: 2025.12.xx](https://conf.uni-obuda.hu/iccc2026)
   * :lock:  **SAMI 2026** [2]: April, 2026, Slovakia [Submission: 2025.12.xx](https://conf.uni-obuda.hu/sami2026)
+  * :lock:  **IFAC WC 2026** [2]: Busan Korea
