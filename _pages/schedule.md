@@ -37,9 +37,10 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 # 2026
 ## 2026 Conference Plans
   * :lock:  **SMC 2026** [2]: October, 2026, xx [Submission: 2026.04.xx](https://www.ieeesmc2026.org/) 
-  * :lock:  **SISY 2026** [2]: September, 2026, xx [Submission: 2026.05.xx](https://conf.uni-obuda.hu/sisy2026/) 
+  * :lock:  **SISY 2026** [2]: September, 2026, xx [Submission: 2026.05.xx](https://conf.uni-obuda.hu/sisy2026/)
+  * :lock:  **IFAC WC 2026** [2]: August 23-28, 2026, Busan, Korea [Submission: 2026.xx.xx](https://www.ifac-control.org/conferences/ifac-world-congress-23rd-wc-2026tm)
   * :lock:  **SACI 2026** [2]: May, 2026, Timisoara [Submission: 2026.02.xx](https://conf.uni-obuda.hu/saci2026)
   * :lock:  **INES 2026** [2]: June, 2026, xx [Submission: 2026.02.xx](http://www.ines-conf.org/ines-conf/2026index.html) 
   * :lock:  **ICCC 2026** [2]: April, 2026, xx [Submission: 2025.12.xx](https://conf.uni-obuda.hu/iccc2026)
   * :lock:  **SAMI 2026** [2]: April, 2026, Slovakia [Submission: 2025.12.xx](https://conf.uni-obuda.hu/sami2026)
-  * :lock:  **IFAC WC 2026** [2]: Busan Korea
+
