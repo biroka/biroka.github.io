@@ -9,6 +9,18 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 
 # 2025
 ## Pending Conferences
+### **INES 2025** | IEEE 29th International Conference on Intelligent Engineering Systems 2025
+  * Location: Palermo, Italy
+  * Submitted paper: An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11
+  * Authors: Attila Biró, László Szilágyi
+  * Status:
+    - :lock:  Published in IEEE Xplore
+    - :lock:  Presentation: June 11-13, 2025
+    - :lock: Registration (Payment and administration)
+    - :lock: Final paper submission: May 2, 2025
+    - :lock: Notification: March 18, 2025
+    - :heavy_check_mark: Full paper submission: February 18, 2025
+      
 ### **ICCC 2025** | 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems
   * Location: Seychelle Islands
   * Submitted paper: Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports
@@ -23,7 +35,7 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
 
 ## 2025 Conference Plans
   * :date: **SMC 2025** [2]: October 5-8, 2025, Austrian Center Vienna (ACV), Vienna, Austria [Submission: 2025.04.04](https://www.ieeesmc2025.org/) 
-  * :memo: **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.18](http://www.ines-conf.org/ines-conf/2025index.html) 
+  * :heavy_check_mark: **INES 2025** [2]: June 11-14, 2025, Palermo, Italy [Submission: 2025.02.18](http://www.ines-conf.org/ines-conf/2025index.html) 
   * :heavy_check_mark: **ICCC 2025** [1]: April 9-11, 2025, Seychelle Islands [Submission: 2024.12.14](https://conf.uni-obuda.hu/iccc2025/)
 
 ## 2025 Papers
