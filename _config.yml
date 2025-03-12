@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "ba_2.jpg"
   name             : "Dr. Attila Biró"
-  pronouns         : "biroka"  
+  pronouns         : #"biroka"  
   bio              : "Innovation and Technology Leader, Researcher with 2xPhD"
   location         : "Budapest, Hungary"
   employer         : "ITware"
