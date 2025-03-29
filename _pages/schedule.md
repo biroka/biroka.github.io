@@ -18,7 +18,7 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
     - :lock:  Presentation: June 11-13, 2025
     - :lock: Registration (Payment and administration)
     - :lock: Final paper submission: May 2, 2025
-    - :lock: Notification: March 18, 2025
+    - :heavy_check_mark: Notification: March 18, 2025
     - :heavy_check_mark: Full paper submission: February 18, 2025
       
 ### **ICCC 2025** | 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems
@@ -28,10 +28,6 @@ The starting point is 2025, as the date for obtaining PhD degrees in Computer Sc
   * Status:
     - :lock:  Published in IEEE Xplore
     - :lock:  Presentation: April 9-11, 2025
-    - :heavy_check_mark: Registration (Payment and administration)
-    - :heavy_check_mark: Final paper submission: February 12, 2025
-    - :heavy_check_mark: Notification: January 10, 2025
-    - :heavy_check_mark: Full paper submission: December 14, 2024
 
 ## 2025 Conference Plans
   * :date: **SMC 2025** [2]: October 5-8, 2025, Austrian Center Vienna (ACV), Vienna, Austria [Submission: 2025.04.04](https://www.ieeesmc2025.org/) 
