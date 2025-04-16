@@ -47,6 +47,7 @@ Workshops and Seminars
 
 Internal Meetups and Trainings
 ======
+* 2025.03.18 - RAG-Enabled AI Chatbots
 * 2024.11.19 - CI/CD demistification for Geeks and Newbies
 * 2024.11.07 - "Speech to text" és generatív AI alkalmazása a mindennapi életben
 * 2024.07.26 - The future of H2020 iGAME Project
