@@ -12,7 +12,7 @@ Conference Calendar
 Conferences
 ======
 * 2025.06.11-13 - IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025), Topic: "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_", Palermo, Italy
-* 2025.04.09-11 - IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025), Topic: "_Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports_", Seychelle Islands
+* 2025.04.10 - IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025), Topic: "_Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports_", Seychelle Islands
 * 2024.10.10 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024), Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_",  Kuching, Sarawak, Malaysia
 * 2024.10.16 - 2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology, segment: Motor-cognitive function and AI in aging, Topic: "_Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer_", Budapest, Hungary
 * 2024.05.24 - IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI 2024), Topic: "_Gamification, GenAI and Reinforcement Learning as Motivational Assets in Performance Sports_", Timisoara, Romania
