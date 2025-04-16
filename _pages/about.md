@@ -18,7 +18,7 @@ My motivation is to ensure the business development /software development /resea
 
 Updates
 ======
-1. 2025.04.10 - Presented the research at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands.
+1. 2025.04.10 - Presented the research "Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports" at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands.
 2. 2025.02.28 - Special Issue [Advances in Intelligent Systems, Technologies and Applications](https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42) has been set up at the Applied Sciences, MDPI. Journal Rank: JCR - Q1 (Engineering, Multidisciplinary) / CiteScore - Q1 (General Engineering). Impact Factor: 2.5 (2023); 5-Year Impact Factor: 2.7 (2023)
 3. 2025.02.18 - Submitted paper to the _IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025)_ to be held on June 11-13, 2025 on Palermo. Italy. (ACCEPTED).
 4. 2025.01.20 - The proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC2024) are now available online [HERE on IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10830919/proceeding)
