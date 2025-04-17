@@ -13,7 +13,7 @@ Dr. Biró holds two PhDs: one in 🧬 Health Sciences (from the University of Ma
 
 Motivation
 ======
-His motivation is to ensure the business development /software development /reseach as a continuous improvement projects. He is committed to building strong, efficient, professional teams through technically challenging projects. He is passionate about inspiring his teammates and colleagues to dream, learn, become, innovate, and work continuously with passion!
+His motivation is to ensure the business development /software development /reseach as a continuous improvement projects. He is committed to building strong, efficient, professional teams through technically challenging projects. He is passionate about inspiring his teammates and colleagues to dream more, learn more, become more, innovate more, and work continuously with passion!
 
 Updates
 ======
