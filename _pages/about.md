@@ -13,7 +13,7 @@ Dr. Biró is am an accomplished and performance-driven professional with extensi
 
 Motivation
 ======
-My motivation is to ensure the business development /software development /reseach as a continuous improvement projects. I am committed to building strong, efficient, professional teams through technically challenging projects. I'm passionate about inspiring my teammates and colleagues to dream, learn, become, innovate, and work continuously with passion!
+His motivation is to ensure the business development /software development /reseach as a continuous improvement projects. He is committed to building strong, efficient, professional teams through technically challenging projects. He is passionate about inspiring his teammates and colleagues to dream, learn, become, innovate, and work continuously with passion!
 
 Updates
 ======
