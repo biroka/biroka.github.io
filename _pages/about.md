@@ -68,5 +68,6 @@ Academic Profiles
 [ <a target="_new" href="https://www.adscientificindex.com/scientist/attila-biro/5929036">AD Scientific Index</a> ]
 [ <a target="_new" href="https://uma.academia.edu/AttilaBiro">Academia.edu</a> ]
 [ <a target="_new" href="https://www.qeios.com/profile">Qeios</a> ]
+[ <a target="_new" href="https://peerj.com/abiro">PeerJ</a> ]
 
 
