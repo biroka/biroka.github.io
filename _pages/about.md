@@ -37,10 +37,12 @@ Affiliations
 
 Peer Reviewer Activity
 ------
-* IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-* Interdisciplinarity in Engineering (Inter-Eng)
-* JMIR Serious Games
+* PeerJ Computer Science
+* MDPI Applied Sciences
 * 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025) 
+* IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+* JMIR Serious Games
+* Interdisciplinarity in Engineering (Inter-Eng)
 
 Academic Profiles
 ------
