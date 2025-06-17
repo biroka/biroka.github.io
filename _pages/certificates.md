@@ -8,12 +8,12 @@ author_profile: true
 * Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
 * Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
-##  Research/ (Applied) Mathematics Certificates
+##  Research / (Applied) Mathematics Certificates
 
 * 2022.10.01, Coursera, _Basic Statistics_ by University of Amsterdam [[Certificate]](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
 * 2021.09.26, Coursera, _Data Science Math Skills_ by Duke University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
   
-##  Research/AI Certificates
+##  Research / AI Certificates
 
 * 2024.07.28, Coursera, _Being a researcher (in Information Science and Technology)_ by Politecnico di Milano [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
 * 2024.07.24, Coursera, _Ethics, Technology and Engineering_ by Eindhoven University of Technology [[Certificate]](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ)
