@@ -30,7 +30,11 @@ Conferences
 * 2022.05.11 - PREGA Konferencia, Adattudomány a gyakorlatban szekció, Topic: "_Az adat(r)evolúció és adatvirágzás kora: Digitális átállás/digitalizáció az Agráriumban_", Budapest, Hungary
 * 2022.02.18 - Divulgando a Pacientes - VIII Jornadas de Transferencia Grupo de Investigacion Clinimetrıa”, Topic: "_Real-time multilingual collaborative tools and applied artificial intelligence in remote diagnosis_”, Clinimetria F-14 (IBIMA) and CTS-631 (PAIDI) research groups. Organizer: Faculty of Health Sciences, University of Malaga. This event was part of the "VIII Conference of the Clinimetrics Research Group" on the transfer of health knowledge worked within the group to patients in a clear and familiar language. Focus: balance between innovation and dissemination, Malaga, Spain
 * 2021.12.09 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_APPLIED ENSEMBLE LEARNING METHODS AND ML MODELS TO SUPPORT MULTILINGUAL, REALTIME DISTANT DIAGNOSTICS_", Targu Mures, Romania
-* 2019.04.02 - SMART Konferencia, Topic: "_AI boosted development_", Budapest, Hungary 
+* 2019.04.02 - SMART Konferencia, Topic: "_AI boosted development_", Budapest, Hungary
+
+Attended IEEE Conferences
+------
+[ SISY 2023 ][ SMC 2023 ][ SAMI 2024 ][ SACI 2024 ][ SMC 2024 ][ ICCC 2025 ][ INES 2025 ]
 
 Workshops and Seminars
 ======
