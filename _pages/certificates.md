@@ -8,6 +8,11 @@ author_profile: true
 * Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
 * Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
+##  Research/ (Applied) Mathematics Certificates
+
+* 2022.10.01, Coursera, _Basic Statistics_ by University of Amsterdam [[Certificate]](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
+* 2021.09.26, Coursera, _Data Science Math Skills_ by Duke University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
+  
 ##  Research/AI Certificates
 
 * 2024.07.28, Coursera, _Being a researcher (in Information Science and Technology)_ by Politecnico di Milano [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
@@ -21,12 +26,11 @@ author_profile: true
 * 2023.04.09, Coursera, _Case Studies in Personalized Medicine_ by University of Virginia [[Certificate]](https://www.coursera.org/account/accomplishments/verify/SN2X64SS6CRN)
 * 2022.08.15, Coursera, _Digital Transformation_ by Vanderbilt University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/5VEFEF8Y5MQU)
 * 2022.10.22, Coursera, _Qualitative Research Methods_ by University of Amsterdam [[Certificate]](https://www.coursera.org/account/accomplishments/verify/7V8M7J6J3TRR)
-* 2022.10.01, Coursera, _Basic Statistics_ by University of Amsterdam [[Certificate]](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
 * 2022.09.28, Coursera, _AI Foundations for Everyone (Specialization Certificate)_ by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR)
+* 2021.09.26, Coursera, _Data Science Math Skills_ by Duke University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
 * 2022.09.28, Coursera, _COVID-19 Contact Tracing_ by Johns Hopkins University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/BHHLUTZEDFMP)
 * 2022.08.16, Coursera, _Design Thinking for Innovation_ by University of Virginia [[Certificate]](https://www.coursera.org/account/accomplishments/verify/D2D4NEZ994AS)
 * 2022.06.13, Coursera, _A Crash Course in Data Science_ by Johns Hopkins University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/JYGR5JUKEA4M)
-* 2021.09.26, Coursera, _Data Science Math Skills_ by Duke University [[Certificate]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
 * 2021.09.20, Coursera, _Model Thinking_ by University of Michigan [[Certificate]](https://www.coursera.org/account/accomplishments/verify/82Z5AVGFJJBG)
 * 2021.06.08, Coursera, _COVID19 Data Analysis Using Python_ by Coursera Project Network [[Certificate]](https://www.coursera.org/account/accomplishments/verify/N3EDFV4HJFCT)
 * 2021.06.08, Coursera, _Understanding Research Methods_ by University of London & SOAS University of London [[Certificate]](https://www.coursera.org/account/accomplishments/verify/P59MZUUDAAYZ)
@@ -59,10 +63,15 @@ author_profile: true
 * 2021.05.26, Coursera, _Successful Negotiation - Essential Strategies and Skills_ by University of Michigan [[Certificate]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera%20_Successful%20Negotiation-%20Essential%20Strategies%20and%20Skills_FXNVXS4GLFLM.pdf)
 
 ##  Specialization Certificates
+
 * 2024.08.02, Coursera, _Cybersecurity Leadership and Management_ (Specialization Certificate) by Infosec [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG)
 * 2022.10.28, Coursera, _Security Analyst Fundamentals_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV)
 * 2022.09.28, Coursera, _AI Foundations for Everyone_ (Specialization Certificate) by IBM [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR)
 * 2022.08.16, Coursera, _Leading the Modern Day Business_ (Specialization Certificate) by University of Virginia [[Certificate]](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ)
+  
+##  Language Certificates
+
+* 2021.07.26, Coursera, _English for Business and Entrepreneurship_ by University of Pennsylvania [[Certificate]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_English%20for%20Business%20and%20Entrepreneurship_YUNJ46C7WACN.pdf)
   
 ##  IEEE certificates
 
@@ -77,8 +86,10 @@ author_profile: true
 * 2024, inLearning, _Amplify Your Critical Thinking with Generative AI_ by Becki Saltzman [[Certificate]](https://www.linkedin.com/learning/certificates/43da6c0701fb97bed0d6c5af52e0d5948ebc3fc8ba98a95bc51f02ed42b96f87)
 
 ##  Honors and Awards
+
 * 2023.12 - _1st price award for the best indexed ISI article published in the academic year 2022/ 2023_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
 * 2022.12 - _1st price award for the best indexed ISI article published in the academic year 2021/ 2022_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
 
 ##  Japan
+
 * 2016.06 - Human Resources Training Programme (HRTP), Credential ID: 2016-52-H-661, Issued by EU-Japan Centre for Industrial Cooperation, Tokyo, Japan
