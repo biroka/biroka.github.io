@@ -76,6 +76,6 @@ Academic Profiles
 [ <a target="_blank" href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a> ]
 [ <a target="_blank" href="https://www.adscientificindex.com/scientist/attila-biro/5929036">AD Scientific Index</a> ]
 [ <a target="_blank" href="https://uma.academia.edu/AttilaBiro">Academia.edu</a> ]
-[ <a target="_blank" href="https://www.qeios.com/profile/10166">Qeios</a> ]
+[ <a target="_blank" href="https://www.qeios.com/profile/101667">Qeios</a> ]
 [ <a target="_blank" href="https://peerj.com/abiro">PeerJ</a> ]
 
