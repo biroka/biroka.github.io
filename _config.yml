@@ -26,7 +26,7 @@ author:
   pronouns         : #"biroka"  
   bio              : "Innovation and Technology Leader, Researcher with 2xPhD"
   location         : "Budapest, Hungary"
-  employer         : "ITware"
+  employer         : "ITware, Obuda University"
   uri              : "https://abiro.me"
   email            : "abiro@ieee.org" 
 
@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Attila+Biro"
   researchgate     : "https://www.researchgate.net/profile/Attila-Biro-2"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57220745742"
+  scopus           :  # "https://www.scopus.com/authid/detail.uri?authorId=57220745742"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,18 +49,18 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "biroka.bsky.social" # Replace this with you Bluesky username
+  bluesky          :  # "biroka.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "biroattila"
+  goodreads        : #  "biroattila"
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "b1r0"
+  instagram        : #  "b1r0"
   lastfm           : # Username
   linkedin         : "biroattila"
   mastodon         : # URL
-  medium           : "https://biroattila.medium.com"
+  medium           :  # "https://biroattila.medium.com"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "biroka"
+  youtube          :  # "biroka"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -89,7 +89,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : true # (old false)      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
