@@ -10,8 +10,8 @@ author_profile: true
 
 ##  Research / (Applied) Mathematics Certificates
 
-* 2022.10.01, Coursera, [_Basic Statistics_ by University of Amsterdam](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
-* 2021.09.26, Coursera, [_Data Science Math Skills_ by Duke University](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
+* 2022.10.01, Coursera, [_Basic Statistics_](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM) by University of Amsterdam
+* 2021.09.26, Coursera, [_Data Science Math Skills_](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ) by Duke University
   
 ##  Research / AI Certificates
 
