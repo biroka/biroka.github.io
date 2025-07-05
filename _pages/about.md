@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Motto: "Set a goal so big that you can't achieve it until you grow into the person who can."—  Dokeshi no Michi
+Motto: "_Set a goal so big that you can't achieve it until you grow into the person who can_."—  Dokeshi no Michi
 
-Dr. Biró holds two PhDs: one in 🧬 Health Sciences (from the University of Malaga, Spain) and another in 🧬 Informatics (from the UMFST G.E. Palade Târgu Mures, Romania). He earned his electrical engineering degree (MEng) in 2001 in Automatics and Industrial Informatics, followed by a second MEng degree in 2002 in Advanced Automated Systems, specializing in industrial and energy process control. Since 2017, he has been deeply involved in sports science and medicine with Japanese and H2020 projects. Since 2024, he has been a researcher at Óbuda University and became a scientific associate there in 2025, effectively bridging research areas linked to project activities. He delivers secure, stable, innovative technology solutions as CTO and CBDO (at ITware, Hungary) and brings creative problem-solving to B2B and B2C projects by removing complexity and identifying clear implementation paths for efficient business operations. His primary research interests include sports medicine, rehabilitation, and AI-supported cybernetics.
+Dr. Biró holds two PhDs: one in 🧬 _Health Sciences_ (from the University of Malaga, Spain) and another in 🧬 _Informatics_ (from the UMFST G.E. Palade Târgu Mures, Romania). He earned his electrical engineering degree (MEng) in 2001 in Automatics and Industrial Informatics, followed by a second MEng degree in 2002 in Advanced Automated Systems, specializing in industrial and energy process control. Since 2017, he has been deeply involved in sports science and medicine with Japanese and H2020 projects. Since 2024, he has been a researcher at Óbuda University and became a scientific associate there in 2025, effectively bridging research areas linked to project activities. He delivers secure, stable, innovative technology solutions as CTO and CBDO (at ITware, Hungary) and brings creative problem-solving to B2B and B2C projects by removing complexity and identifying clear implementation paths for efficient business operations. His primary research interests include sports medicine, rehabilitation, and AI-supported cybernetics.
 
 Motivation
 ======
@@ -104,3 +104,53 @@ Social Profiles
 [ <a target="_blank" href="https://www.buymeacoffee.com/biroka">BuyMeACoffee</a> ]
 [ <a target="_blank" href="https://g.dev/biroka">Google Developers</a> ]
 [ <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e6f385fa-6214-4daa-a63c-2647c72ffa43">Google Cloud Skills Boost</a> ]
+
+
+Proposed tools, libs and tech
+------
+[ <a target="_blank" href="https://www.latex-project.org/">LaTeX</a> ]
+[ <a target="_blank" href="https://www.overleaf.com/">Overleaf</a> ]
+[ <a target="_blank" href="https://www.python.org/">Python</a> ]
+[ <a target="_blank" href="https://www.r-project.org/">R</a> ]
+[ <a target="_blank" href="https://github.com/"> GitHub</a> ]
+[ <a target="_blank" href="https://matlab.mathworks.com/"> Matlab</a> ]
+[ <a target="_blank" href="https://code.visualstudio.com/"> Visual Studio Code</a> ]
+[ <a target="_blank" href="https://cursor.com/"> Cursor</a> ]
+[ <a target="_blank" href="https://www.jetbrains.com/pycharm/"> PyCharm</a> ]
+[ <a target="_blank" href="https://www.sublimetext.com/"> Sublime Text</a> ]
+[ <a target="_blank" href="https://numi.app/"> Numi</a> ]
+[ <a target="_blank" href="https://www.notion.com/"> Notion</a> ]
+[ <a target="_blank" href="https://www.rayyan.ai/"> Rayyan</a> ]
+[ <a target="_blank" href="https://www.anaconda.com/"> Anaconda</a> ]
+[ <a target="_blank" href="https://jupyter.org/"> JupyterLab</a> ]
+[ <a target="_blank" href="https://colab.google/"> Google Colab Pro</a> ]
+[ <a target="_blank" href="https://roboflow.com/"> Roboflow</a> ]
+[ <a target="_blank" href="https://www.ibm.com/products/spss-statistics"> SPSS</a> ]
+[ <a target="_blank" href="https://opencv.org/"> opencv</a> ]
+[ <a target="_blank" href="https://www.tensorflow.org/"> Tensorflow</a> ]
+[ <a target="_blank" href="https://scikit-learn.org/stable/"> scikit-learn</a> ]
+[ <a target="_blank" href="https://numpy.org/"> numpy</a> ]
+[ <a target="_blank" href="https://pandas.pydata.org/"> pandas</a> ]
+[ <a target="_blank" href="https://pycaret.org/"> pycaret</a> ]
+[ <a target="_blank" href="https://scipy.org/"> scipy</a> ]
+[ <a target="_blank" href="https://librosa.org/"> Librosa</a> ]
+[ <a target="_blank" href="https://trello.com/"> Trello</a> ]
+[ <a target="_blank" href="https://www.atlassian.com/software/jira"> JIRA</a> ]
+[ <a target="_blank" href="https://xmind.com/"> xMind</a> ]
+[ <a target="_blank" href="https://www.mindnode.com/"> MindNote</a> ]
+[ <a target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software"> VISIO</a> ]
+[ <a target="_blank" href="https://app.diagrams.net/"> Draw.io</a> ]
+[ <a target="_blank" href="https://www.canva.com/"> Canva</a> ]
+[ <a target="_blank" href="https://www.figma.com/"> Figma</a> ]
+[ <a target="_blank" href="https://www.sketch.com/"> Sketch</a> ]
+[ <a target="_blank" href="https://miro.com/"> Miro</a> ]
+[ <a target="_blank" href="https://quillbot.com/"> Quillbot</a> ]
+[ <a target="_blank" href="https://www.turnitin.com/"> Turnitin</a> ]
+[ <a target="_blank" href="https://www.semanticscholar.org/"> Semantic Scholar</a> ]
+[ <a target="_blank" href="https://elicit.com/"> Elicit</a> ]
+[ <a target="_blank" href="https://www.researchrabbit.ai/"> Research Rabbit</a> ]
+[ <a target="_blank" href="https://scite.ai/"> Scite</a> ]
+[ <a target="_blank" href="https://sistemantiplagiat.ro/"> Sistem Antiplagiat (RO)</a> ]
+
+
+
