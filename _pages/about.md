@@ -89,8 +89,6 @@ Social Profiles
 [ <a target="_blank" href="https://www.facebook.com/B1R0K4">Facebook</a> ]
 [ <a target="_blank" href="https://www.goodreads.com/biroattila">Goodreads</a> ]
 [ <a target="_blank" href="https://www.youtube.com/user/biroka">YouTube</a> ]
-[ <a target="_blank" href="https://wa.me/36309990222">WhatsApp</a> ]
-[ <a target="_blank" href="https://t.me/biroattila">Telegram</a> ]
 [ <a target="_blank" href="https://www.duolingo.com/profile/biroka">Duolingo</a> ]
 [ <a target="_blank" href="https://www.strava.com/athletes/6273043">Strava</a> ]
 [ <a target="_blank" href="https://huggingface.co/biroka">Hugging Face</a> ]
