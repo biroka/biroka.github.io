@@ -3,20 +3,15 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
 main:
    - title: "Schedule"
     url: /schedule/    
-    
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
     url: /talks/    
-
   - title: "Certificates"
     url: /certificates/   
-
   - title: "CV"
    url: /cv/
     # url: "https://cv.biroattila.com"
