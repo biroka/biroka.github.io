@@ -12,14 +12,14 @@ author_profile: true
  * Tech stack: Android, Firebase (Storage, Realtime Database, Hosting, Analytics, Auth, Functions, CLI, Bolt compiler), Stripe, Angular4+, Angular Material, Stripe, HTML5, CSS3, TypeScript, SonarQube, Docker, FlywayDB, Selenium, Cucumber, Teslink, IntelliJ, Appium, JIRA, Confluence, GIT, Gitlab.
  * Role: Product Owner, Business Analyst
  * Type of project: Software Development
- * Delivery: 2017- ...
+ * Delivery: 2017-...
 
 ### ITware Kft. | Domestic customer | FLEETware (HU)
  * Preparation of GPS/GSM based fleet tracking software for the Japanese market, with integration of OBD-connectable modems. Fleetware includes features such as geofencing, performance, and location tracking, as well as the latest Google Maps features or alerts for basic driving behavior analysis functions
  * Tech stack: Eclipse RAP, EJB3, JPA, Google Maps, JS, Ruby on Rails
  * Role: Business Analyst, Product owner
  * Type of project: Software Development, Logistics
- * Delivery: 2017- ...
+ * Delivery: 2017-...
 
 ### ITware Kft. | iGAME H2020 RISE (EU)
  * Community support chat development
@@ -114,7 +114,7 @@ Delivery: 2014
 
 ## PROJECT LISTING: Software Development / R+D / Grants
 
-### ITware (2012 - ...)
+### ITware (2012 -...)
 
 
 2018 FB Triangle - Bears Drill testing, contact person
