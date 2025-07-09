@@ -111,26 +111,28 @@ Delivery: 2014
  * Delivery date: 2011
  * Project size: 2.990.000 EUR
 
+## PRODUCT DEVELOPMENT PROJECTS
+* ITWARE AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
+* ITWARE FLEETWARE - Fleet tracking solution for Hungarian market (HU)
+* ITWARE APPAWARE - Multiplatform low-code no-code platform development (HU)
 
 ## PROJECT LISTING: Software Development / R+D / Grants
 
 ### ITware (2012 -...)
-
-
-2018 FB Triangle - Bears Drill testing, contact person
+ * 2018 FB Triangle - Bears Drill testing, contact person
  * VOLANBUSZ - Operational Capacity Management Dashboard, Volán (HU)
  * ITWARE AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
  * FBT KOJIMORI  - automatized firmware upgrade, (JP) 
  * HORIZON 2020 - iGAME H2020 RISE -  cross-country (ES, UK, IT, MK, HU) consortium project (EU)
  * KITE - Service and Agronomical Android tablet development, (HU)
  * FBT SUNBEARS – SunBears Cloud Campus Sport Ecosystem development (JP)
- * ASIAL – Hitachi parcel tracking application
- * ASIAL – Panasonic LinkRay technology implementation
+ * ASIAL – Hitachi parcel tracking application (JP)
+ * ASIAL – Panasonic LinkRay technology implementation (JP)
  * FBT Bears Playback – Android real-time action recorder app (JP)
- * VODAFONE - VodaSMS bulk SMS sending service modernization development(HU)
+ * VODAFONE - VodaSMS bulk SMS sending service modernization development (HU)
  * JAPANESE AUTOMOTIVE COMPANY - Development and service provision of QR-based logistics system - Automotive industry (HU, JP)
  * ODIGEO LILIGO - Extranet portal development, legacy system redesign dev (HU, FR, ES)
- * ODIGEO LILIGO – Metasearch mobile- and web application
+ * ODIGEO LILIGO – Metasearch mobile- and web application (HU, FR, ES)
  * LAMBDA SYSTEME - Interactive quote calculator and template generator system with webshop synchronizer (HU)
  * MAGYAR POSTA - Internet payment vouchers (iKifut) web application (HU)
  * BHE - Agile testing audit and implementation of a complex test framework (HU)
@@ -139,7 +141,7 @@ Delivery: 2014
  * FTE HUNGARY - Sequence projector module for an interactive workbench (Industry) (HU)
  * TARR - Agile Audit for a Complex Telco Service and their legacy systems (Expert) (HU)
  * MAGYAR POSTA - Customs Customer Database (CCD) web application - Hungarian Post (HU)
- * HIDENORI - Stone App (JPÖ
+ * HIDENORI - Stone App (JP)
  * FXWARE – Mobil thematic video generation app for iOS (JP, EU) 
  * Microservice developments for Fleetware (fleet tracking solution) – Vietnam (VN)
  * FLEETware – Migration and reengineering project - Ready for Japan (JP, HU)
@@ -160,7 +162,7 @@ Delivery: 2014
  * FBT KOJIMORI SE5301 M2M Development (JP)
  * ITWARE FLEETware integrated fleet environment based on a new technology (HU)
  * ITWARE Agentware (Android) (HU)
- * IHDENORY eBook solution for Japanese market (iOS)  (JP)
+ * IHDENORY eBook solution for Japanese market (iOS) (JP)
  * MAGYAR TELEKOM - My T-Systems integration project management (HU)
  * MAGYAR TELEKOM - Távszámla (HU)
  * MAGYAR TELEKOM - JAZZ STC Development (HU)
@@ -172,6 +174,52 @@ Delivery: 2014
  * MAGYAR TELEKOM - Improving the mobile number porting process (HU)
  * MAGYAR TELEKOM - Pillangó consolidation project (HU)
  * ITware EVOLware(HU)
+
+### International projects
+ * FBT KOJIMORI  - automatized firmware upgrade, (JP) 
+ * HORIZON 2020 - iGAME H2020 RISE -  cross-country (ES, UK, IT, MK, HU) consortium project (EU)
+ * FBT SUNBEARS – SunBears Cloud Campus Sport Ecosystem development (JP)
+ * ASIAL – Hitachi parcel tracking application (JP)
+ * ASIAL – Panasonic LinkRay technology implementation (JP)
+ * FBT Bears Playback – Android real-time action recorder app (JP)
+ * JAPANESE AUTOMOTIVE COMPANY - Development and service provision of QR-based logistics system - Automotive industry (HU, JP)
+ * ODIGEO LILIGO - Extranet portal development, legacy system redesign dev (HU, FR, ES)
+ * ODIGEO LILIGO – Metasearch mobile- and web application (HU, FR, ES)
+ * HIDENORI - Stone App (JP)
+ * FXWARE – Mobil thematic video generation app for iOS (JP, EU) 
+ * Microservice developments for Fleetware (fleet tracking solution) – Vietnam (VN)
+ * FLEETware – Migration and reengineering project - Ready for Japan (JP, HU)
+ * DOCLER Holding – Online streaming services (L)
+ * DOCLER Holding - Community Support Chat, MusicRecognition, MoWii-Luxemburg (L)
+ * FBT MyAIDE – Vital Radar Sensor mHealth solution development (IoT) (JP)
+ * ECOLANE - Smart Scheduling and Dispatching - Finland (FI, USA)
+ * FBT KOJIMORI SE5901 DAQ M2M/IoT embedded system development (JP)
+ * FBT KAMIKATSU M2M mobile app (Android) (JP)
+ * FBT MOROMIKUN M2M mobile app (Android) (JP)
+ * FBT MIO M2M mHealth mobile solution (Android) (JP)
+ * HIDENORY - Happy Wedding innovative professional video editor tool (Android) (JP)
+ * ITWARE APPaware- multiplatform application development platform (Android, iOS) (HU)
+ * FBT KOJIMORI SE5301 M2M Development (JP)
+ * HIDENORY eBook solution for Japanese market (iOS) (JP)
+   
+### Japanese Projects
+ * FBT KOJIMORI  - automatized firmware upgrade, (JP) 
+ * FBT SUNBEARS – SunBears Cloud Campus Sport Ecosystem development (JP)
+ * ASIAL – Hitachi parcel tracking application (JP)
+ * ASIAL – Panasonic LinkRay technology implementation (JP)
+ * FBT Bears Playback – Android real-time action recorder app (JP)
+ * JAPANESE AUTOMOTIVE COMPANY - Development and service provision of QR-based logistics system - Automotive industry (HU, JP)
+ * HIDENORI - Stone App (JP)
+ * FXWARE – Mobil thematic video generation app for iOS (JP, EU) 
+ * FLEETware – Migration and reengineering project - Ready for Japan (JP, HU)
+ * FBT MyAIDE – Vital Radar Sensor mHealth solution development (IoT) (JP)
+ * FBT KOJIMORI SE5901 DAQ M2M/IoT embedded system development (JP)
+ * FBT KAMIKATSU M2M mobile app (Android) (JP)
+ * FBT MOROMIKUN M2M mobile app (Android) (JP)
+ * FBT MIO M2M mHealth mobile solution (Android) (JP)
+ * HIDENORY - Happy Wedding innovative professional video editor tool (Android) (JP)
+ * FBT KOJIMORI SE5301 M2M Development (JP)
+ * HIDENORY eBook solution for Japanese market (iOS) (JP)
 
 ### Somody Group (2009 - 2012)
  * GYOGYSZERFUTAR - Intelligent pill dispenser (R+D)(Gyógyszerfutár Kft.) (HU)
