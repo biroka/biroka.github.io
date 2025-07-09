@@ -238,7 +238,7 @@ Delivery: 2014
 * 2011 ESZM - TIOP 2.1.2-07 Kistérségi Szakorvosi Rendelőintézet kialakítása Szécsényben, 3.366.000 EUR (HU)
 * 2011 ESZM - TIOP 2.1.2-07 Kistérségi járóbeteg-szakellátó központ kialakítása Pannonhalmán, 2.990.000 EUR (HU)
 
-### GRANT FRAMEWORKS
+### GRANT EXPERIENCE
 ------
 [ DIMOP ][ GVOP ][ HEFOP ][ KMOP ][ GOP ][ GINOP ][ EUREKA ][ HU-RIZONT ][ VEKOP ][ H2020 ][ RISE ][ Horizon Europe ][ AAL ][ INNOWWIDE ][ EUROSTARS ][ TIOP ]
 
