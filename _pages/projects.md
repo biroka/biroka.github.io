@@ -10,11 +10,12 @@ author_profile: true
 ### ITware Kft. | Japanese customer | Sunbears Cloud Campus Ecosystem (JP)
  * Development of a cloud-based service to collect and manage statistics of ice hockey matches for a Japanese client. SunBears is the only real-time, data-driven, and cloud-based sports solution ecosystem with a dedicated Android action tracker app and multiplatform PWA for multiple sports that records, analyzes, shows, and saves game/player/strategy-related data and statistics when you need it in between the game! The solution is for every coach and player in team and personal sports to learn and develop through their successes or failures constantly, wins or losses, based on real-time data!
  * Tech stack: Android, Firebase (Storage, Realtime Database, Hosting, Analytics, Auth, Functions, CLI, Bolt compiler), Stripe, Angular5+, Vue, PWA, Material Design, Stripe, HTML5, CSS3, Sass (Syntactically Awesome Style Sheets), SPA, TypeScript, JS, SonarQube, Docker, FlywayDB, Selenium, Cucumber, Teslink, IntelliJ, Appium, JIRA, Confluence, GIT, Gitlab,  Android, FlywayDB (@migration).
+ * Dedicated applications of SBCC ecosystem: Desktop App, Mobile App (PWA), Android Tablet App 
  * Role: Product Owner, Business Analyst
  * Type of project: Software Development
  * Project URL: www.sunbears.com
  * Market: Global with focus on Japan, USA, EU
- * Delivery: 2017-...
+ * Delivery: 2017-...(Development at the Phase8 stage)
 
 ### ITware Kft. | Domestic customer | FLEETware (HU, JP)
  * Preparation of GPS/GSM based fleet tracking software for the Japanese market, with integration of OBD-connectable modems. Fleetware includes features such as geofencing, performance, and location tracking, as well as the latest Google Maps features or alerts for basic driving behavior analysis functions
@@ -22,7 +23,7 @@ author_profile: true
  * Role: Business Analyst, Product owner
  * Type of project: Software Development, Logistics
  * Market: UK, Spain, Hungary, Italy, North Macedonia
- * Delivery: 2017-...
+ * Delivery: 2017-... 
 
 ### ITware Kft. | iGAME H2020 RISE (EU)
  * Budget: 837.200 EUR 
@@ -31,21 +32,7 @@ author_profile: true
  * Consortium: BU, UMA, ITware, ArtHaus, SensorID, SAS
  * Role: Project Leader, Research Director
  * Type of project: Software Development
- * Delivery: 2019 - 2024
-
-### ITware Kft. | Japanese customer |  Bears Playback Android (JP)
- * Gesture-based event recording app for Android
- * Tech Stack: Android (Java), Firebase (Realtime Database, Storage, Analytics, DB, Sync)
- * Role: Product Owner, Business Analyst
- * Type of project: Software Development
- * Delivery: 2017
-
-### ITware Kft. | Japanese customer (JP)
- * Kojimori SE5901 - Development of a cloud-based automated metering M2M system for Japanese customers.
- * Tech stack: Embedded C/C++, RTOS, JQuery, HTML5
- * Role: Product Owner, Business Analyst
- * Type of project: Software Development, R+D, Hardware design, M2M/IoT
- * Delivery: 2016
+ * Delivery: 2024
 
 ### ITware Kft. | Ecolane Logistics Systems Redesign (FI, USA)
  * Budget: 190.000+ EUR 
@@ -55,68 +42,6 @@ author_profile: true
  * Type of project: Software Development
  * Market: Finland, USA
  * Delivery: 2015
-
-### ITware Kft. | Docler CSC (L)
- * Community support chat development.
- * Role: Project Manager
- * Type of project: Software Development
- * Delivery: 2015
-
-### ITware Kft. | Magyar Telekom – My T-Systems Redesign (HU)
- * Project management and integration tasks towards suppliers-customers, suppliers-subcontractors.
- * Role: Project Manager
- * Type of project: Software Development, Telecom
-Delivery: 2014
-
-### ITware Kft. | Magyar Telekom – JAZZ development 13R3 (HU)
- * JAZZ Development for 13R3 shipment. Managing the software development projects relating to several mobile billing systems in a telecommunications enterprise environment. Subprojects: Temporary account - registration process improvement, JAZZ STC development, RCSe implementation, JAZZ INV serial number product receipt process improvement, SAS Remote Invoice Discount, Travel Talk roaming option
- * Role: Project Manager
- * Type of project: Software Development, Telecom
- * Delivery: 2013
-
-### ITware Kft. | Magyar Telekom – JAZZ development 13R2 (HU)
- * JAZZ Development for 13R2 shipment. Subprojects involved: T Point pickup solution, off-line pickup features development, Jazz interface exported to OSB, Remote account registration discount, CMS functionality improvements, Development of BRANDed versions of Domino user capture mode in DOLA,  Tariff discounts for online orders, Public ipV4 addresses per user, Mobile number portability process improvement, Mapping of potential based segmentation, JAZZ development for 13R2 shipment2, Universal voucher development.
- * Role: Project Manager
- * Type of project: Software Development, Telecom
- * Delivery: 2013
-
-### ITware Kft. | Magyar Telekom – Pillangó projekt (ITware) (HU)
- * Realization of several sub-projects as a supplier in the biggest integration project in Central-Eastern Europe, in compliance with the project’s processes and other ongoing sub-projects. 
- * Role: Project Manager
- * Type of project: Software Development, Telecom
- * Delivery: 2013
-
-### ITware Kft. | Multifunkciós, multi-protokol, univerzális, alacsony költségű, nagy megbízhatóságú szenzorhálózati technológia (M3S) fejlesztése KKV-k számára (HU)
- * Grant ID: GOP 1.3.1-11/A-2011-0125
- * Role: Project Manager
- * Type of project: Research and Development
- * Delivery: 2013
- * Project size: 182.000 EUR
-
-### GYÓGYSZERFUTÁR Kft. | Betegek gyógyszer compliance szintjének eredményességét fejlesztő technológia és szolgáltatás (HU)
- * Grant ID:  DA_TECH_07
- * Role: Project Manager
- * Type of project: Research and Development
- * Delivery: 2012
- * Project size: 229.000 EUR
-
-### ESZM Kft. | TIOP 2.1.2-07 Ibrány-Nagyhalászi Kistérségi járóbeteg szakellátó központ kialakítása (HU) 
- * Role: Project Manager
- * Type of project: Complex infrastructure
- * Delivery date: 2011
- * Project size: 3.397.000 EUR
-
-### ESZM Kft. | TIOP 2.1.2-07 Kistérségi Szakorvosi Rendelőintézet kialakítása Szécsényben (HU)
- * Role: Project Manager
- * Type of project: Complex infrastructure
- * Delivery date: 2011
- * Project size:  3.366.000 EUR
-
-### ESZM Kft. | TIOP 2.1.2-07 Kistérségi járóbeteg-szakellátó központ kialakítása Pannonhalmán (HU)
- * Role: Project Manager
- * Type of project: Complex infrastructure
- * Delivery date: 2011
- * Project size: 2.990.000 EUR
 
 ## PRODUCT DEVELOPMENT PROJECTS
 * ITWARE AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
@@ -135,7 +60,7 @@ Delivery: 2014
  * FBT SUNBEARS – SunBears Cloud Campus Sport Ecosystem development (JP)
  * ASIAL – Hitachi parcel tracking application (JP)
  * ASIAL – Panasonic LinkRay technology implementation (JP)
- * FBT Bears Playback – Android real-time action recorder app (JP)
+ * FBT Bears Playback – Android real-time action recorder app. Stack: Android (Java), Firebase (Realtime Database, Storage, Analytics, DB, Sync) (JP)
  * VODAFONE - VodaSMS bulk SMS sending service modernization development (HU)
  * JAPANESE AUTOMOTIVE COMPANY - Development and service provision of QR-based logistics system - Automotive industry (HU, JP)
  * ODIGEO LILIGO - Extranet portal development, legacy system redesign dev (HU, FR, ES)
@@ -156,7 +81,7 @@ Delivery: 2014
  * DOCLER Holding - Community Support Chat, MusicRecognition, MoWii-Luxemburg (L)
  * FBT MyAIDE – Vital Radar Sensor mHealth solution development (IoT) (JP)
  * ECOLANE - Smart Scheduling and Dispatching - Finland (FI, USA)
- * FBT KOJIMORI SE5901 DAQ M2M/IoT embedded system development (JP)
+ * FBT KOJIMORI SE5901 DAQ M2M/IoT embedded system development. Tech stack: Embedded C/C++, RTOS, JQuery, HTML5 (JP)
  * FBT KAMIKATSU M2M mobile app (Android) (JP)
  * FBT MOROMIKUN M2M mobile app (Android) (JP)
  * FBT MIO M2M mHealth mobile solution (Android) (JP)
