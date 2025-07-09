@@ -25,8 +25,7 @@ author_profile: true
  * Community support chat development
  * Role: Project Leader, Research Director
  * Type of project: Software Development
- * Delivery: (2019 - ) 2024
-
+ * Delivery: 2019 - 2024
 
 ### ITware Kft. | Japanese customer |  Bears Playback Android (JP)
  * Gesture-based event recording app for Android
@@ -230,4 +229,12 @@ Delivery: 2014
  * ESZM - Development and project management of regional specialized health care centers for outpatients - PANNONHALMA (ESZM Kft.) (HU)
  * ESZM - Development and project management of regional specialized health care centers for outpatients - IBRÁNY (ESZM Kft.) (HU)
  * SOMODY - Design and modernization of equipments for building technology, pastry, and kitchen technology (Centrál Kávéház, Budapest) (Somody Kft.) (HU)
+
+## GRANTS
+* 2024 ITWARE - iGAME H2020 RISE -  cross-country (ES, UK, IT, MK, HU) consortium project (EU)
+* 2013 ITWARE - GOP 1.3.1-11/A-2011-0125 Multifunkciós, multi-protokol, univerzális, alacsony költségű, nagy megbízhatóságú szenzorhálózati technológia (M3S) fejlesztése KKV-k számára, 182.000 EUR (HU)
+* 2012 GYÓGYSZERFUTÁR - DA_TECH_07 Betegek gyógyszer compliance szintjének eredményességét fejlesztő technológia és szolgáltatás, 229.000 EUR(HU)
+* 2011 ESZM - TIOP 2.1.2-07 Ibrány-Nagyhalászi Kistérségi járóbeteg szakellátó központ kialakítása, 3.397.000 EUR(HU) 
+* 2011 ESZM - TIOP 2.1.2-07 Kistérségi Szakorvosi Rendelőintézet kialakítása Szécsényben, 3.366.000 EUR (HU)
+* 2011 ESZM - TIOP 2.1.2-07 Kistérségi járóbeteg-szakellátó központ kialakítása Pannonhalmán, 2.990.000 EUR (HU)
 
