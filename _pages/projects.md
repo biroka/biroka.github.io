@@ -51,12 +51,12 @@ author_profile: true
 ## PROJECT LISTING: Software Development / R+D / Grants
 
 ### ITware (2012 -...)
- * 2018 FB Triangle - Bears Drill testing, contact person
- * VOLANBUSZ - Operational Capacity Management Dashboard, Volán (HU)
+ * DXC - Internal Cybersecurity audit to quickreview the ISO27001 and enterprise level's cybersec compliance grade (HU)
+ * VOLANBUSZ - Operational Capacity Management Dashboard, Field: Logistics (HU)
  * ITWARE AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
- * FBT KOJIMORI  - automatized firmware upgrade, (JP) 
- * HORIZON 2020 - iGAME H2020 RISE -  cross-country (ES, UK, IT, MK, HU) consortium project (EU)
- * KITE - Service and Agronomical Android tablet development, (HU)
+ * FBT KOJIMORI  - Automatized, remote HW/SW firmware upgrade for SE5901 device family, Field: IoT/M2M (JP) 
+ * HORIZON 2020 - iGAME H2020 RISE - Cross-country (ES, UK, IT, MK, HU) consortium project (EU)
+ * KITE - Service and Agronomical Android tablet development (HU)
  * FBT SUNBEARS – SunBears Cloud Campus Sport Ecosystem development (JP)
  * ASIAL – Hitachi parcel tracking application (JP)
  * ASIAL – Panasonic LinkRay technology implementation (JP)
