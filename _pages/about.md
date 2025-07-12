@@ -104,6 +104,7 @@ Social Profiles
 [ <a target="_blank" href="https://www.buymeacoffee.com/biroka">BuyMeACoffee</a> ]
 [ <a target="_blank" href="https://g.dev/biroka">Google Developers</a> ]
 [ <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e6f385fa-6214-4daa-a63c-2647c72ffa43">Google Cloud Skills Boost</a> ]
+[ <a target="_blank" href="https://substack.com/@biroka">Substack</a> ]
 
 
 Proposed tools, libs and tech
