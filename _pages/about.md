@@ -17,7 +17,7 @@ His motivation is to ensure the business development, software development as we
 
 Updates
 ======
-1. 2025.07.16 - Getting the official letter of successful admission into the Applied Mathematics Programme at the Doctoral School of Applied Informatics and Applied Mathematics of Obuda University (OE), Hungary. PhD Topic: Development of Advanced Mathematical Optimization Models and Methods for Optimal Team Formation in Competitive Sports.
+1. 2025.07.16 - Getting the official letter of successful admission into the Applied Mathematics Programme at the Doctoral School of Applied Informatics and Applied Mathematics of Obuda University (OE), Hungary. PhD Topic: _Development of Advanced Mathematical Optimization Models and Methods for Optimal Team Formation in Competitive Sports_.
 2. 2025.06.12 - Presented the paper "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_" at the _IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025)_ on June 12, 2025 on Palermo. Italy.
 3. 2025.05.04 - Special Issue [Artificial intelligence in sports analytics and rehabilitation](https://bit.ly/3YqPdTL) has been set up at the BMC Sports Science, Medicine and Rehabilitation.
 4. 2025.04.10 - Presented the research "Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports" at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands.
