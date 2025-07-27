@@ -17,16 +17,17 @@ His motivation is to ensure the business development, software development as we
 
 Updates
 ======
-1. 2025.06.12 - Presented the paper "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_" at the _IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025)_ on June 12, 2025 on Palermo. Italy.
-2. 2025.05.04 - Special Issue [Artificial intelligence in sports analytics and rehabilitation](https://bit.ly/3YqPdTL) has been set up at the BMC Sports Science, Medicine and Rehabilitation.
-3. 2025.04.10 - Presented the research "Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports" at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands.
-4. 2025.02.28 - Special Issue [Advances in Intelligent Systems, Technologies and Applications](https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42) has been set up at the Applied Sciences, MDPI. Journal Rank: JCR - Q1 (Engineering, Multidisciplinary) / CiteScore - Q1 (General Engineering). Impact Factor: 2.5 (2023); 5-Year Impact Factor: 2.7 (2023)
-5. 2025.01.20 - The proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC2024) are now available online [HERE on IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10830919/proceeding)
-6. 2025.01.07 - Doctoral Thesis Deposit Report in the Institutional Repository of the University of Malaga (RIUMA).
-7. 2025.01.05 - Working on a Vitiligo-based research paper. Stage: last adjustments before submission.
-8. 2024.10.26 - Successfully defended my double PhD thesis with Excellent (Summa Cum Laude) and Sobresaliente (Excellent) grades at Informatics (UMFST GE Palade of Targu Mures, Romania) and respectively in Health Sciences (University of Malaga, Spain).
-9. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
-10. 2024.10.10 - Presented my research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
+1. 2025.07.16 - Getting the official letter of successful admission into the Applied Mathematics Programme at the Doctoral School of Applied Informatics and Applied Mathematics of Obuda University (OE), Hungary. PhD Topic: Development of Advanced Mathematical Optimization Models and Methods for Optimal Team Formation in Competitive Sports.
+2. 2025.06.12 - Presented the paper "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_" at the _IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025)_ on June 12, 2025 on Palermo. Italy.
+3. 2025.05.04 - Special Issue [Artificial intelligence in sports analytics and rehabilitation](https://bit.ly/3YqPdTL) has been set up at the BMC Sports Science, Medicine and Rehabilitation.
+4. 2025.04.10 - Presented the research "Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports" at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands.
+5. 2025.02.28 - Special Issue [Advances in Intelligent Systems, Technologies and Applications](https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42) has been set up at the Applied Sciences, MDPI. Journal Rank: JCR - Q1 (Engineering, Multidisciplinary) / CiteScore - Q1 (General Engineering). Impact Factor: 2.5 (2023); 5-Year Impact Factor: 2.7 (2023)
+6. 2025.01.20 - The proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC2024) are now available online [HERE on IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10830919/proceeding)
+7. 2025.01.07 - Doctoral Thesis Deposit Report in the Institutional Repository of the University of Malaga (RIUMA).
+8. 2025.01.05 - Working on a Vitiligo-based research paper. Stage: last adjustments before submission.
+9. 2024.10.26 - Successfully defended my double PhD thesis with Excellent (Summa Cum Laude) and Sobresaliente (Excellent) grades at Informatics (UMFST GE Palade of Targu Mures, Romania) and respectively in Health Sciences (University of Malaga, Spain).
+10. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
+11. 2024.10.10 - Presented my research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
 
 Affiliations
 ------
