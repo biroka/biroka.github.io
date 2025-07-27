@@ -27,7 +27,7 @@ Updates
 8. 2025.01.05 - Working on a Vitiligo-based research paper. Stage: last adjustments before submission.
 9. 2024.10.26 - Successfully defended my double PhD thesis with Excellent (Summa Cum Laude) and Sobresaliente (Excellent) grades at Informatics (UMFST GE Palade of Targu Mures, Romania) and respectively in Health Sciences (University of Malaga, Spain).
 10. 2024.10.16 - _2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology_, segment: Motor-cognitive function and AI in aging, Topic: "Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer", Budapest, Hungary
-11. 2024.10.10 - Presented my research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
+11. 2024.10.10 - Presented the research paper at the _IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)_, Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", Kuching, Sarawak, Malaysia
 
 Affiliations
 ------
@@ -39,6 +39,7 @@ Affiliations
 
 Academic Journal Section Editor
 ------
+* MDPI Sensors
 * BMC Sports Science Medicine and Rehabilitation
 * MDPI Applied Sciences
 
