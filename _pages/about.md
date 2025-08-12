@@ -9,7 +9,7 @@ redirect_from:
 
 Motto: "_Set a goal so big that you can't achieve it until you grow into the person who can_."—  Dokeshi no Michi
 
-Dr. Biró holds two PhDs: one in 🧬 _Health Sciences_ (from the University of Malaga, Spain) and another in 🧬 _Informatics_ (from the UMFST G.E. Palade Târgu Mures, Romania), and he is currently pursuing his third PhD degree in 🧬 _Applied Mathematics_ at Obuda University (Hungary). He earned his electrical engineering degree (MEng) in 2001 in Automatics and Industrial Informatics, followed by a second MEng degree in 2002 in Advanced Automated Systems, specializing in Industrial and Energetic Process Control. Since 2017, he has been deeply involved in sports science and medicine with Japanese and H2020 projects. Since 2024, he has been a researcher at Óbuda University and became a scientific associate there in 2025, effectively bridging research areas linked to project activities. He delivers secure, stable, innovative technology solutions as CTO and CBDO (at ITware, Hungary) and brings creative problem-solving to B2B and B2C projects by removing complexity and identifying clear implementation paths for efficient business operations. His primary research interests include sports medicine, rehabilitation, and AI-supported cybernetics.
+Dr. Biró holds two PhDs: one in 🧬 _Health Sciences_ (from the University of Malaga, Spain) and another in 🧬 _Informatics_ (from the UMFST G.E. Palade Târgu Mures, Romania), and he is currently pursuing his third PhD degree in 🧬 _Applied Mathematics_ at Obuda University (Hungary). He earned his electrical engineering degree (MEng) in 2001 in Automatics and Industrial Informatics (AII), followed by a second MEng degree in 2002 in Advanced Automated Systems, specializing in Industrial and Energetic Process Control. Since 2017, he has been deeply involved in sports science and medicine with Japanese and H2020 projects. Since 2024, he has been a researcher at Obuda University and became a scientific associate there in 2025, effectively bridging research areas linked to project activities. He delivers secure, stable, innovative technology solutions as CTO and CBDO (at ITware, Hungary) and brings creative problem-solving to B2B and B2C projects by removing complexity and identifying clear implementation paths for efficient business operations. His primary research interests include sports medicine, rehabilitation, and AI-supported cybernetics.
 
 Motivation
 ======
@@ -28,7 +28,8 @@ Last Updates
 
 Affiliations
 ------
-* 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center, Óbuda University</a>, Budapest, Hungary 
+* 2025.08... - <a target="_new" href="https://aiamdi.uni-obuda.hu">Doctoral School of Applied Informatics and Applied Mathematics, Obuda University</a>, Budapest, Hungary 
+* 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center (PHYSCON), Obuda University</a>, Budapest, Hungary 
 * 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>, Málaga, Spain
 * 2021.02... - <a target="_new" href="http://clinimetria.es">Instituto de Investigación Biomédica de Málaga (IBIMA)</a>, Málaga, Spain
 * 2020.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures</a>, Romania
@@ -36,9 +37,9 @@ Affiliations
 
 Academic Journal Section Editor
 ------
-* MDPI Sensors
-* BMC Sports Science Medicine and Rehabilitation
-* MDPI Applied Sciences
+* <a target="_new" href="https://lnkd.in/dYaGmxhB">MDPI Sensors</a>
+* <a target="_new" href="https://bit.ly/3YqPdTL">BMC Sports Science Medicine and Rehabilitation</a>
+* <a target="_new" href="https://lnkd.in/dRNn3tiU">MDPI Applied Sciences</a>
 
 Peer Reviewer Activity
 ------
