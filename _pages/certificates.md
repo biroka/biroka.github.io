@@ -10,10 +10,11 @@ author_profile: true
 
 ##  Research / (Applied) Mathematics Certificates
 
+* 2025.08.22, Coursera, [_Foundational Mathematics for AI_](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1) by Johns Hopkins University
 * 2022.10.01, Coursera, [_Basic Statistics_](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM) by University of Amsterdam
 * 2021.09.26, Coursera, [_Data Science Math Skills_](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ) by Duke University
   
-##  Research / AI Certificates
+##  Research / AI and Health Sciences Certificates
 
 * 2024.07.28, Coursera, [_Being a researcher (in Information Science and Technology)_](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A) by Politecnico di Milano
 * 2024.07.24, Coursera, [_Ethics, Technology and Engineering_](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ) by Eindhoven University of Technology
