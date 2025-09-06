@@ -18,7 +18,6 @@ author_profile: true
   * :rocket: **ICETA 2025** [1-2 papers]: November 13-14, 2025, High Tatras, Slovakia [Submission: 2025.09.28](https://www.iceta.sk/) 
   * :hourglass: **CINTY 2025** [2 papers]: November 18-20, 2025, Budapest, Hungary [Submission: 2025.08.04](https://conf.uni-obuda.hu/cinti2025) 
   * :heavy_check_mark: **INES 2025** [1 paper]: June 12, 2025, Palermo, Italy
-  * :heavy_check_mark: **INES 2025** [1 paper]: June 12, 2025, Palermo, Italy
   * :heavy_check_mark: **ICCC 2025** [1 paper]: April 10, 2025, Seychelle Islands
 
 ## 2024 IEEE Conferences
