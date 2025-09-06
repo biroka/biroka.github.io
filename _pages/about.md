@@ -17,7 +17,7 @@ His motivation is to ensure the business development, software development as we
 
 Last Updates
 ======
-1. 2025.08.04 - Lecturer at Sapientia Hungarian University Of Transylvania [EMTE] (Marosvásárhely, Romania), Department of Mathematics and Computer Science (MIT), Course: _Bioinformatics Algorithms_, [SAPIENTIA](https://ms.sapientia.ro/)
+1. 2025.09.04 - Lecturer at Sapientia Hungarian University Of Transylvania [EMTE] (Marosvásárhely, Romania), Department of Mathematics and Computer Science (MIT), Course: _Bioinformatics Algorithms_, [SAPIENTIA](https://ms.sapientia.ro/)
 2. 2025.07.17 - The paper "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_" at the _IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025)_, presented at June 12, 2025 in Palermo, Italy was added to [IEEE Xplore](https://doi.org/10.1109/INES67149.2025.11078199)
 3. 2025.07.16 - Getting the official letter of successful admission into the Applied Mathematics Programme at the Doctoral School of Applied Informatics and Applied Mathematics of Obuda University (OE), Hungary. PhD Topic: _Development of Advanced Mathematical Optimization Models and Methods for Optimal Team Formation in Competitive Sports_.
 4. 2025.05.19 - The paper "Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports" presented at the _IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics_, Cyber-Medical Systems (ICCC 2025), Seychelle Islands was added to [IEEE Xplore](https://doi.org/10.1109/ICCC64928.2025.10999140)
