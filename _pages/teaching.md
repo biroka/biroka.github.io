@@ -1,15 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 Teaching activities
 ======
-* Sapientia EMTE (Marosvásárhely), Matematika-Informatika Tanszék (MIT), _Bioinformatikai algoritmusok_ <a target="_new" href="https://xxx"> xxx</a> here.
-
-Seasonal lecturer
-======
-* ---
-
+* Sapientia Hungarian University Of Transylvania [EMTE] (Marosvásárhely, Romania), Department of Mathematics and Computer Science (MIT), _ Bioinformatics Algorithms_ <a target="_new" href="https://ms.sapientia.ro/"> SAPI</a> here.
