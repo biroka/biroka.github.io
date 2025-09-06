@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule of the Research Activities"
+title: "Scientific Conference Schedule"
 permalink: /schedule/
 author_profile: true
 ---
