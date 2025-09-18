@@ -15,7 +15,7 @@ author_profile: true
   * :hourglass: **SAMI 2026** [1 paper]: January 29-31, 2026 in Stará Lesná, Slovakia [Submission: 2025.10.10](https://conf.uni-obuda.hu/sami2026)
 
 ## 2025 IEEE Conferences
-  * :hourglass: **CINTY 2025** [2 papers]: November 18-20, 2025, Budapest, Hungary [Accepted][Nex-up: Presentation](https://conf.uni-obuda.hu/cinti2025) 
+  * :hourglass: **CINTY 2025** [2 papers]: November 18-20, 2025, Budapest, Hungary [Accepted][[Next-Up: Presentation](https://conf.uni-obuda.hu/cinti2025)]
   * :heavy_check_mark: **INES 2025** [1 paper]: June 12, 2025, Palermo, Italy
   * :heavy_check_mark: **ICCC 2025** [1 paper]: April 10, 2025, Seychelle Islands
 
