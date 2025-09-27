@@ -12,11 +12,11 @@ author_profile: true
   * :lock: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [Submission: 2026.03.10](http://www.ines-conf.org/ines-conf/2026index.html) 
   * :rocket: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [1-2 papers]: April 16-18, 2026 in Brisbane, Australia [Submission: 2025.12.14](https://conf.uni-obuda.hu/iccc2026)
   * :rocket: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [1-2 papers]: August 23-28, 2026, Busan, Korea [Submission: 2026.10.26](https://www.ifac-control.org/conferences/ifac-world-congress-23rd-wc-2026tm)
-  * :hourglass: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [2 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Status: [Submitted](https://conf.uni-obuda.hu/sami2026) ]
+  * :hourglass: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [2 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Status: Submitted ]
 
 ## 2025 IEEE Conferences
-  * :date: [[ **CINTY 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 18-20, 2025, Budapest, Hungary [ Status: Accepted ][[Next-Up: Presentation](https://conf.uni-obuda.hu/cinti2025)]
-  * :hourglass: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13-24, 2025, High Tatras, Slovakia [ Status: [Submitted](https://www.iceta.sk/) ]
+  * :date: [[ **CINTY 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 18-20, 2025, Budapest, Hungary [ Next-Up: Presentation ]
+  * :hourglass: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13-24, 2025, High Tatras, Slovakia [ Status: Submitted ]
   * :heavy_check_mark: [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] [1 paper]: June 12, 2025, Palermo, Italy [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11078199/) ]
   * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
 
