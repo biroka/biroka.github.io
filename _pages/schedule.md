@@ -23,8 +23,8 @@ author_profile: true
 ## 2024 IEEE Conferences
   * :heavy_check_mark: **SMC 2024** [1 paper]: October 10, 2024, Kuching, Sarawak, Malaysia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10831505/) ]
   * :heavy_check_mark: **SACI 2024** [1 paper]: May 24, 2024, Timisoara, Romania [ Status: [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10619802/) ]
-  * :heavy_check_mark: **SAMI 2024** [2 papers]: January 26, 2024, Stará Lesná, Slovakia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10432817/), [P1](https://ieeexplore.ieee.org/document/10432911/) ]
+  * :heavy_check_mark: **SAMI 2024** [2 papers]: January 26, 2024, Stará Lesná, Slovakia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10432817/), [P2](https://ieeexplore.ieee.org/document/10432911/) ]
     
 ## 2023 IEEE Conferences
-  * :heavy_check_mark: **SMC 2023** [2 papers]: October 2-3, 2023, Oahu, Hawaii, USA [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10394349/), [P1](https://ieeexplore.ieee.org/document/10394396/) ]
-  * :heavy_check_mark: **SISY 2023** [2 papers]: September 21-22, 2023, Pula, Croatia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10417876/), [P1](https://ieeexplore.ieee.org/document/10417915/) ]
+  * :heavy_check_mark: **SMC 2023** [2 papers]: October 2-3, 2023, Oahu, Hawaii, USA [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10394349/), [P2](https://ieeexplore.ieee.org/document/10394396/) ]
+  * :heavy_check_mark: **SISY 2023** [2 papers]: September 21-22, 2023, Pula, Croatia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10417876/), [P2](https://ieeexplore.ieee.org/document/10417915/) ]
