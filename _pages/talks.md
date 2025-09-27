@@ -34,7 +34,13 @@ Conferences
 
 Attended IEEE Conferences
 ------
-[ SISY 2023 ][ SMC 2023 ][ SAMI 2024 ][ SACI 2024 ][ SMC 2024 ][ ICCC 2025 ][ INES 2025 ]
+[[ SISY 2023 ](https://conf.uni-obuda.hu/sisy2023/index.html) ]
+[[ SMC 2023 ](https://www.ieeesmc.org/conference-2023/) ]
+[[ SAMI 2024 ](https://conf.uni-obuda.hu/sami2024/) ]
+[[ SACI 2024 ](https://conf.uni-obuda.hu/saci2024/) ]
+[[ SMC 2024 ](https://www.ieeesmc2024.org/home) ]
+[[ ICCC 2025 ](https://conf.uni-obuda.hu/iccc2025/index.html) ]
+[[ INES 2025 ](http://www.ines-conf.org/ines-conf/2025index.html)]
 
 Workshops and Seminars
 ======
