@@ -7,4 +7,15 @@ author_profile: true
 
 Teaching activities
 ======
-* Sapientia Hungarian University Of Transylvania [EMTE] (Marosvásárhely, Romania), Department of Mathematics and Computer Science (MIT), _Bioinformatics Algorithms_ <a target="_new" href="https://ms.sapientia.ro/"> SAPI</a> here.
+
+# <a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE] 
+* Location: Marosvásárhely (Targu Mures), Romania
+* Department of Mathematics and Computer Science (MIT)
+* Course: _Bioinformatics Algorithms_.
+ 
+# <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
+* Location: Marosvásárhely (Targu Mures), Romania
+* Department of Mathematics and Computer Science (MIT)
+* Course 1: _Web Application Development_
+  * URL: https://umfst.ro/inginerie/informatii-studenti/informatii-specifice-facultatii/orar
+* Course 2: _Advanced Topics in Artificial Intelligence_
