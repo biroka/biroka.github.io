@@ -12,7 +12,7 @@ You can view my simple resume at <a target="_new" href="https://cv.biroattila.co
 Resume versions
 ======
 You can download my CV versions from here:
-  * Resume EN [Update: 2025.08.23]: <a target="_new" href="http://biroka.github.io/files/CV_AttilaBiro_EN.pdf">[Download]</a> 
+  * Resume EN [Update: 2025.10.04]: <a target="_new" href="http://biroka.github.io/files/CV_AttilaBiro_EN.pdf">[Download]</a> 
   * Resume RO [Update: 2025.01.25]: <a target="_new" href="http://biroka.github.io/files/CV_AttilaBiro_RO.pdf">[Download]</a> 
 
 
