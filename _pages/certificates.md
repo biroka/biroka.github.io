@@ -10,12 +10,14 @@ author_profile: true
 
 ##  Research / (Applied) Mathematics Certificates
 
+* 2025.10.11, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University 
 * 2025.08.22, Coursera, [_Foundational Mathematics for AI_](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1) by Johns Hopkins University
 * 2022.10.01, Coursera, [_Basic Statistics_](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM) by University of Amsterdam
 * 2021.09.26, Coursera, [_Data Science Math Skills_](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ) by Duke University
   
 ##  Research / AI and Health Sciences Certificates
 
+* 2025.10.11, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University 
 * 2024.07.28, Coursera, [_Being a researcher (in Information Science and Technology)_](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A) by Politecnico di Milano
 * 2024.07.24, Coursera, [_Ethics, Technology and Engineering_](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ) by Eindhoven University of Technology
 * 2023.10.01, Coursera, [_Reproducible Research_](https://www.coursera.org/account/accomplishments/verify/TB9QEMK487JG) by Johns Hopkins University
@@ -65,10 +67,11 @@ author_profile: true
 
 ##  Specialization Certificates
 
-* 2024.08.02, Coursera, [_Cybersecurity Leadership and Management_ (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG) by Infosec
-* 2022.10.28, Coursera, [_Security Analyst Fundamentals_ (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV) by IBM
-* 2022.09.28, Coursera, [_AI Foundations for Everyone_ (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM
-* 2022.08.16, Coursera, [_Leading the Modern Day Business_ (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ) by University of Virginia
+* 2025.10.11, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University 
+* 2024.08.02, Coursera, [_Cybersecurity Leadership and Management_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG) by Infosec
+* 2022.10.28, Coursera, [_Security Analyst Fundamentals_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV) by IBM
+* 2022.09.28, Coursera, [_AI Foundations for Everyone_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM
+* 2022.08.16, Coursera, [_Leading the Modern Day Business_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ) by University of Virginia
   
 ##  Language Certificates
 
