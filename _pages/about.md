@@ -83,6 +83,7 @@ Academic Profiles
 [ <a target="_blank" href="https://uma.academia.edu/AttilaBiro">Academia.edu</a> ]
 [ <a target="_blank" href="https://www.qeios.com/profile/101667">Qeios</a> ]
 [ <a target="_blank" href="https://peerj.com/abiro">PeerJ</a> ]
+[ <a target="_blank" href="https://engage.cochrane.org/profiles/31609">Cochrane</a> ]
 
 
 Social Profiles
