@@ -27,18 +27,17 @@ Last Updates
 8. 2025.05.04 - Special Issue [Artificial intelligence in sports analytics and rehabilitation](https://bit.ly/3YqPdTL) has been set up at the BMC Sports Science, Medicine and Rehabilitation.
 9. 2025.02.28 - Special Issue [Advances in Intelligent Systems, Technologies and Applications](https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42) has been set up at the Applied Sciences, MDPI. Journal Rank: JCR - Q1 (Engineering, Multidisciplinary) / CiteScore - Q1 (General Engineering). Impact Factor: 2.5 (2023); 5-Year Impact Factor: 2.7 (2023)
 10. 2025.01.20 - The proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC2024) are now available online [HERE on IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10830919/proceeding)
-11. 2025.01.07 - Doctoral Thesis Deposit Report in the Institutional Repository of the University of Malaga (RIUMA).
 
 
 Affiliations
 ------
-* 2025.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures</a>, Romania
-* 2025.09... - <a target="_new" href="https://umfst.ro">Sapientia Hungarian University of Transylvania (EMTE)</a>, Targu Mureș, Romania
-* 2025.08... - <a target="_new" href="https://aiamdi.uni-obuda.hu">Doctoral School of Applied Informatics and Applied Mathematics, Obuda University</a>, Budapest, Hungary 
-* 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center (PHYSCON), Obuda University</a>, Budapest, Hungary 
-* 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>, Málaga, Spain
-* 2021.02-2024.09 - <a target="_new" href="http://clinimetria.es">Instituto de Investigación Biomédica de Málaga (IBIMA)</a>, Málaga, Spain
-* 2020.09-2024.09 - <a target="_new" href="https://umfst.ro">Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures</a>, Romania
+* 2025.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures </a>, [ #ARTEMIS ], Romania
+* 2025.09... - <a target="_new" href="https://umfst.ro">Sapientia Hungarian University of Transylvania (EMTE)</a>, [ #CIRG ], Targu Mureș, Romania
+* 2025.08... - <a target="_new" href="https://aiamdi.uni-obuda.hu">Doctoral School of Applied Informatics and Applied Mathematics, Obuda University</a>, [ #AIAMDI #ODNEAI ], Budapest, Hungary 
+* 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center, Obuda University</a>, [ #EKIK #PHYSCON ], Budapest, Hungary 
+* 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>,[ #UMA #CLINIMETRIA ], Málaga, Spain
+* 2021.02-2024.09 - <a target="_new" href="http://clinimetria.es">Instituto de Investigación Biomédica de Málaga</a>, [ #IBIMA ], Málaga, Spain
+* 2020.09-2024.09 - <a target="_new" href="https://umfst.ro">Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures</a>, [ #UMFST ], Romania
 * 2012.12... - <a target="_new" href="https://itware.eu">ITware</a>, Budapest, Hungary
 
 Academic Journal Section Editor
