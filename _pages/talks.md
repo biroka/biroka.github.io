@@ -44,6 +44,8 @@ Attended IEEE Conferences
 [[ SMC 2024 ](https://www.ieeesmc2024.org/home) ]
 [[ ICCC 2025 ](https://conf.uni-obuda.hu/iccc2025/index.html) ]
 [[ INES 2025 ](http://www.ines-conf.org/ines-conf/2025index.html)]
+[[ ICETA 2025 ](https://www.iceta.sk/) ]
+[[ CINTI 2025 ](https://conf.uni-obuda.hu/cinti2025/)]
 
 Workshops and Seminars
 ======
