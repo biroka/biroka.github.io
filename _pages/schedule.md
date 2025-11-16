@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2025 IEEE Conferences
   * :date: [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 18-20, 2025, Budapest, Hungary [ Next-Up: Presentation ]
-  * :heavy_check_mark: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13-24, 2025, High Tatras, Slovakia [ Next-Up: Presentation ]
+  * :heavy_check_mark: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13-24, 2025, High Tatras, Slovakia [ Next-Up: IEEE Release ]
   * :heavy_check_mark: [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] [1 paper]: June 12, 2025, Palermo, Italy [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11078199/) ]
   * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
 
