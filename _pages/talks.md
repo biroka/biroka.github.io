@@ -9,6 +9,12 @@ Conference Calendar
 ======
 * You can check my conference, workshop, webinar, meetup <a target="_new" href="https://www.attila.phd/conferences"> Calendar</a> here.
 
+Upcoming Conferences
+======
+* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
+* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
+* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_", Stará Lesná, Slovakia
+  
 Conferences
 ======
 * 2025.11.19 - IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Topic: "_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_", Budapest, Hungary
