@@ -11,8 +11,8 @@ author_profile: true
   * :lock: **SISY 2026** [1-2 papers]: September, 2026, xx [Submission: 2026.xx.xx](https://conf.uni-obuda.hu/sisy2026/)
   * :lock: **SACI 2026** [1-2 papers]: May, 2026, Timisoara [Submission: 2026.xx.xx](https://conf.uni-obuda.hu/saci2026)
   * :rocket: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
-  * :fire: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [1 paper]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
   * :fire: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [1-2 papers]: August 23-28, 2026, Busan, Korea [ Status: On-Going Research ]
+  * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [1 paper]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
   * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Status: Accepted ]
 
 ## 2025 IEEE Conferences
