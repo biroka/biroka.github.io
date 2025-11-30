@@ -91,6 +91,7 @@ author_profile: true
 
 ##  Honors and Awards
 
+* 2025.11 - _Best Student Paper Award_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Issued by the IEEE Hungary Section, Obuda University, Budapest, Hungary
 * 2023.12 - _1st price award for the best indexed ISI article published in the academic year 2022/ 2023_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
 * 2022.12 - _1st price award for the best indexed ISI article published in the academic year 2021/ 2022_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania
 
