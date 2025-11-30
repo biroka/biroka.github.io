@@ -12,14 +12,14 @@ author_profile: true
   * :lock: **SACI 2026** [1-2 papers]: May, 2026, Timisoara [Submission: 2026.xx.xx](https://conf.uni-obuda.hu/saci2026)
   * :rocket: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
   * :fire: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [1-2 papers]: August 23-28, 2026, Busan, Korea [ Status: On-Going Research ]
-  * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [1 paper]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
+  * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [2 papers]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
   * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Status: Accepted ]
 
 ## 2025 IEEE Conferences
   * :heavy_check_mark: [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 19, 2025, Budapest, Hungary [ Next-Up: IEEE Release ]
   * :heavy_check_mark: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13, 2025, High Tatras, Slovakia [ Next-Up: IEEE Release ]
   * :heavy_check_mark: [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] [1 paper]: June 12, 2025, Palermo, Italy [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11078199/) ]
-  * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [2 papers]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
+  * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
 
 ## 2024 IEEE Conferences
   * :heavy_check_mark: [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] [1 paper]: October 10, 2024, Kuching, Sarawak, Malaysia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10831505/) ]
