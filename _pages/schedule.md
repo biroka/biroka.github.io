@@ -13,7 +13,7 @@ author_profile: true
   * :rocket: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
   * :fire: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [1-2 papers]: August 23-28, 2026, Busan, Korea [ Status: On-Going Research ]
   * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [2 papers]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
-  * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Status: Accepted ]
+  * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Next-Up: Presentation ]
 
 ## 2025 IEEE Conferences
   * :heavy_check_mark: [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 19, 2025, Budapest, Hungary [ Next-Up: IEEE Release ]
