@@ -19,7 +19,7 @@ author_profile: true
   * :heavy_check_mark: [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 19, 2025, Budapest, Hungary [ Next-Up: IEEE Release ]
   * :heavy_check_mark: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13, 2025, High Tatras, Slovakia [ Next-Up: IEEE Release ]
   * :heavy_check_mark: [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] [1 paper]: June 12, 2025, Palermo, Italy [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11078199/) ]
-  * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
+  * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [2 papers]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
 
 ## 2024 IEEE Conferences
   * :heavy_check_mark: [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] [1 paper]: October 10, 2024, Kuching, Sarawak, Malaysia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10831505/) ]
