@@ -7,11 +7,12 @@ author_profile: true
 
 
 ## 2026 IEEE Conferences
-  * :lock: [[ **SMC 2026** ](https://www.ieeesmc2026.org/) ] [1-2 papers]: October 4-7, 2026, Bellevue, WA, USA [Submission: 2026.xx.xx] 
-  * :lock: **SISY 2026** [1-2 papers]: September, 2026, xx [Submission: 2026.xx.xx](https://conf.uni-obuda.hu/sisy2026/)
-  * :lock: **SACI 2026** [1-2 papers]: May, 2026, Timisoara [Submission: 2026.xx.xx](https://conf.uni-obuda.hu/saci2026)
-  * :rocket: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
-  * :fire: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [1-2 papers]: August 23-28, 2026, Busan, Korea [ Status: On-Going Research ]
+  * :rocket: [[ **SMC 2026** ](https://www.ieeesmc2026.org/) ] [1-2 papers]: October 4-7, 2026, Bellevue, WA, USA [Submission: 2026.xx.xx] 
+  * :lock: [[ **MICCAI 2026** ](https://conferences.miccai.org/2026/en/default.asp) ] [1-2 papers]: October 4-8, 2026, Abu Dhabi, United Arab Emirates [ Abstract: 2026.02.12, Paper: 02.26 ]
+  * :rocket: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [1-2 papers]: September, 2026 [ Status: On-Going Research ] 
+  * :lock: [[ **GECCO 2026** ](http://gecco-2026.sigevo.org/HomePage) ] [1-2 papers]: July 13-17, 2026, San José, Costa Rica [ Abstract: 2026.01.19, Paper: 01.26 ]
+  * :fire: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
+  * :hourglass: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [2 papers]: August 23-28, 2026, Busan, Korea [ Status: Submitted ]
   * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [3 papers]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
   * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Next-Up: Presentation ]
 
