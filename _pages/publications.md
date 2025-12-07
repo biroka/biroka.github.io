@@ -15,6 +15,11 @@ Publication References
    <a href="xxx">
    </a>
  -->
+Pending Publications
+======
+*  **A. Biró**, L. Kovács, and L. Szilágyi, “_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary,**2025**, Xplore IEEE.
+*  **A. Biró**, L. Kovács, and L. Szilágyi, “_Disrupting the Critical 10 Seconds: An Optimization Framework for Lineup Changes and Strategy Shifts in Ice Hockey_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, Xplore IEEE.
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Enhanced workflow of the gamified analytics pipeline: individual players generate XP & badges, aggregated into team XP, adjusted for opponent difficulty (GTE), with KernelSHAP-based credit and optional Bayesian smoothing_”, IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA), Vysoké Tatry-Starý Smokovec, Slovakia, **2025**, Xplore IEEE.
 
 Journal Articles
 ======
