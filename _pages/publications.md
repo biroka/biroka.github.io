@@ -15,6 +15,7 @@ Publication References
    <a href="xxx">
    </a>
  -->
+ 
 Pending Publications
 ======
 *  **A. Biró**, L. Kovács, and L. Szilágyi, “_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary,**2025**, Xplore IEEE.
