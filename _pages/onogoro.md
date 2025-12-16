@@ -1,3 +1,4 @@
+```md
 ONOGORO NOTES ECOSYSTEM
 │
 ├── 1. **ENTRY: SOLO COACH (CAPTURE STAGE)**
@@ -123,3 +124,5 @@ ONOGORO NOTES ECOSYSTEM
     │
     └── Core Truth
         └── “A private diary that evolves into a team execution system”
+
+```
