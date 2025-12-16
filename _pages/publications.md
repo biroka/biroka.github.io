@@ -20,7 +20,7 @@ Pending Publications
 ======
 *  **A. Biró**, L. Kovács, and L. Szilágyi, “_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary,**2025**, Xplore IEEE.
 *  **A. Biró**, L. Kovács, and L. Szilágyi, “_Disrupting the Critical 10 Seconds: An Optimization Framework for Lineup Changes and Strategy Shifts in Ice Hockey_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, Xplore IEEE.
-* **A. Biró**, L. Kovács, and L. Szilágyi, “_Enhanced workflow of the gamified analytics pipeline: individual players generate XP & badges, aggregated into team XP, adjusted for opponent difficulty (GTE), with KernelSHAP-based credit and optional Bayesian smoothing_”, IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA), Vysoké Tatry-Starý Smokovec, Slovakia, **2025**, Xplore IEEE.
+
 
 Journal Articles
 ======
@@ -42,6 +42,7 @@ Journal Articles
 
 Conference Papers
 ======
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Enhanced workflow of the gamified analytics pipeline: individual players generate XP & badges, aggregated into team XP, adjusted for opponent difficulty (GTE), with KernelSHAP-based credit and optional Bayesian smoothing_”, IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA), Stary Smokovec, Slovakia, **2025**, pp. 95-100, [<a target="_new" href="https://doi.org/10.1109/ICETA67772.2025.11278907">Online</a>], Xplore IEEE
 * **A. Biró** and L. Szilágyi, "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_," 2025 IEEE 29th International Conference on Intelligent Engineering Systems (INES), Palermo, Italy, **2025**, pp. 000231-000236, [<a target="_new" href="https://doi.org/10.1109/INES67149.2025.11078199">Online</a>], Xplore IEEE.
 * **A. Biró** and L. Szilágyi, "_Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports_," 2025 IEEE 12th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC), Mahe Island, Beau Vallon, Seychelles, **2025**, pp. 000047-000052, [<a target="_new" href="https://doi.org/10.1109/ICCC64928.2025.10999140">Online</a>], Xplore IEEE.
 * **A. Biró**, A. I. Cuesta-Vargas and L. Szilágyi, "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_", 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, IEEE, **2025**, pp. 4855-4860, [<a target="_new" href="https://doi.org/10.1109/SMC54092.2024.10831505">Online</a>], Xplore IEEE.
