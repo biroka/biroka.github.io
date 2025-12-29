@@ -59,7 +59,7 @@ author_profile: true
  * 2025 - **Internal Cybersecurity ISO27001 quickreview audit for compliance grade check**, (DXC) (HU), Tech stack: Draw.io, Mindmap, Nagios, Munin, ISO 27001 standards
  * 2025 - **CR Priority Development '25 Pack for SBCC**, FBT (JP), Tech stack: Angular, Material Design, Firebase, Flutter, PWA (Vue), Speech-to-Text, Stripe, OpenAI
  * **Operational Capacity Management Dashboard**, Field: Logistics (VOLANBUSZ) (HU)
- * ITWARE **AI4DEV - AI4Developers Complex 3/4 Days AI Training program for Developers** (ITware) (HU)
+ * **AI4DEV - AI4Developers Complex 3/4 Days AI Training program for Developers** (ITware) (HU)
  * **KOJIMORI - Automatized, remote HW/SW firmware upgrade for SE5901 device family**, Field: IoT/M2M (FBT) (JP) 
  * **HORIZON 2020 - iGAME H2020 RISE** - Cross-country (ES, UK, IT, MK, HU) project (EU)
  * **Service and Agronomical Android tablet development** (KITE) (HU)
@@ -92,7 +92,7 @@ author_profile: true
  * **Smart Scheduling and Dispatching** - Finland (ECOLANE) (FI, USA)
  * **KOJIMORI SE5901 DAQ M2M/IoT embedded system development**, Tech stack: Embedded C/C++, RTOS, JQuery, HTML5 (FBT) (JP)
  * **KAMIKATSU M2M Agricultural mobile app** (Android) (FBT) (JP)
- * M**OROMIKUN M2M Agricultural mobile app** (Android) (FBT) (JP)
+ * **MOROMIKUN M2M Agricultural mobile app** (Android) (FBT) (JP)
  * **MIO M2M mHealth mobile solution** (Android) (FBT) (JP)
  * **Sales/Field-service mobile application** (Android) (KITE) (HU)
  * **Happy Wedding innovative professional video editor tool** (iOS Tablet) (HIDENORI) (JP)
