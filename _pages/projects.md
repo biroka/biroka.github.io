@@ -69,7 +69,7 @@ author_profile: true
  * **Hitachi parcel tracking application** (ASIAL) (JP)
  * **Panasonic LinkRay technology implementation** (ASIAL) (JP)
  * **Bears Playback – Android real-time action recorder app**, Stack: Android (Java), Firebase (Realtime Database, Storage, Analytics, DB, Sync) (FBT) (JP)
- * **Development and service provision of QR-based logistics system **, Automotive industry (JAPANESE AUTOMOTIVE COMPANY) (HU, JP)
+ * **Development and service provision of QR-based logistics system** , Automotive industry (JAPANESE AUTOMOTIVE COMPANY) (HU, JP)
  * **Extranet portal development**, legacy system redesign dev (ODIGEO LILIGO) (HU, FR, ES)
  * **Metasearch mobile- and web application** (ODIGEO LILIGO) (HU, FR, ES)
  * **Interactive quote calculator and template generator system with webshop synchronizer** (LAMBDA SYSTEME) (HU)
