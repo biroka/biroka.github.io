@@ -53,11 +53,11 @@ author_profile: true
 
 ### ITware (2012 -...)
 
- * 2026 - **RAG Chatbot Development**, Automotive industry (JAPANESE AUTOMOTIVE COMPANY) (HU, JP), Role: Project Manager, Tech stack: AnythingLLM, Laravel, Filament, Material Design, Ollama, Python, MS Entra, nginx reverse proxy 
- * 2026 - **SUNBEARS – SunBears Cloud Campus Sport Ecosystem development, Phase8 - Onogoro Note** (FBT) (JP), Role: Project Manager, BA, Researcher, Tech stack: Angular, Material Design, Firebase, Flutter, PWA (Vue), Speech-to-Text, Stripe, OpenAI
- * 2025 - **LLM/OCR/RULE-based Depersonalizer Service Development**, Nemzeti Adatvagyon Ügynökség (NAVÜ) (HU), Role: Project Manager, Tech stack: Ubuntu 22.04 LTS, Docker Engine 24.0+ és Docker Compose v2, Python 3.11, Node 22.0, Stripe, NVIDIA Container Toolkit, LLM, Ollama LLM (Gemma3, LLama3), Svelte, TypeScript, Python Flask, PostgreSQL, CloudFlare Turnstile, Prisma ORM, Kubernetes, OTP
- * 2025 - **Internal Cybersecurity ISO27001 quickreview audit for compliance grade check**, (DXC) (HU), Tech stack: Draw.io, Mindmap, Nagios, Munin, ISO 27001 standards
- * 2025 - **CR Priority Development '25 Pack for SBCC**, FBT (JP), Tech stack: Angular, Material Design, Firebase, Flutter, PWA (Vue), Speech-to-Text, Stripe, OpenAI
+ * **RAG Chatbot Development**, Automotive industry (JAPANESE AUTOMOTIVE COMPANY) (HU, JP), Role: Project Manager, Tech stack: AnythingLLM, Laravel, Filament, Material Design, Ollama, Python, MS Entra, nginx reverse proxy, 2026
+ * **SUNBEARS – SunBears Cloud Campus Sport Ecosystem development, Phase8 - Onogoro Note** (FBT) (JP), Role: Project Manager, BA, Researcher, Tech stack: Angular, Material Design, Firebase, Flutter, PWA (Vue), Speech-to-Text, Stripe, OpenAI, 2026
+ * **LLM/OCR/RULE-based Depersonalizer Service Development**, Nemzeti Adatvagyon Ügynökség (NAVÜ) (HU), Role: Project Manager, Tech stack: Ubuntu 22.04 LTS, Docker Engine 24.0+ és Docker Compose v2, Python 3.11, Node 22.0, Stripe, NVIDIA Container Toolkit, LLM, Ollama LLM (Gemma3, LLama3), Svelte, TypeScript, Python Flask, PostgreSQL, CloudFlare Turnstile, Prisma ORM, Kubernetes, OTP, 2025
+ * **Internal Cybersecurity ISO27001 quickreview audit for compliance grade check**, (DXC) (HU), Tech stack: Draw.io, Mindmap, Nagios, Munin, ISO 27001 standards, 2025
+ * **CR Priority Development '25 Pack for SBCC**, FBT (JP), Tech stack: Angular, Material Design, Firebase, Flutter, PWA (Vue), Speech-to-Text, Stripe, OpenAI, 2025
  * **Operational Capacity Management Dashboard**, Field: Logistics (VOLANBUSZ) (HU)
  * **AI4DEV - AI4Developers Complex 3/4 Days AI Training program for Developers** (ITware) (HU)
  * **KOJIMORI - Automatized, remote HW/SW firmware upgrade for SE5901 device family**, Field: IoT/M2M (FBT) (JP) 
