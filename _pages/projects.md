@@ -98,7 +98,7 @@ author_profile: true
  * **Happy Wedding innovative professional video editor tool** (iOS Tablet) (HIDENORI) (JP)
  * **Transround - Community based application localization** (ALLROUND) (HU)
  * **MANUware - Production Tracking ERP System** (ITware) (HU)
- * **EVOLware **(ITware) (HU)
+ * **EVOLware** (ITware) (HU)
  * **APPaware- multiplatform application development platform** (Android, iOS) (ITware) (HU)
  * **KOJIMORI SE5301 M2M Development** (FBT) (JP)
  * **FLEETware integrated fleet environment based on a new technology** (ITware) (HU)
