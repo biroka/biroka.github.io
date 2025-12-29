@@ -174,7 +174,7 @@ author_profile: true
  * ESZM - Development and project management of regional specialized health care centers for outpatients - IBRÁNY (ESZM Kft.) (HU)
  * SOMODY - Design and modernization of equipments for building technology, pastry, and kitchen technology (Centrál Kávéház, Budapest) (Somody Kft.) (HU)
 
-## GRANT LEADERSHIP and PROJECTMANAGEMENT
+## GRANT (LEADERSHIP and PROJECT MANAGEMENT)
 * 2024 ITWARE - iGAME H2020 RISE cross-country (ES, UK, IT, MK, HU) consortium project, 837.200 EUR (EU)
 * 2019 ITWARE - VEKOP-2.1.1-15-2016-00137 - Innovatív felhő alapú tesztautomatizálási megoldások fejlesztése az ITware Kft-nél, 36.609.369 HUF (HU)
 * 2019 ITWARE - GINOP 2.1.7-15-2016-01517 - Távoli járműdiagnosztikára épülő innovatív szolgáltatás létrehozása az ITware Kft-nél, 57.049.215 HUF (HU)
