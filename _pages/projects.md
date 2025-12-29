@@ -88,7 +88,7 @@ author_profile: true
  * **Community Support Chat**, Luxemburg (DOCLER Holding) (L)
  * **MusicRecognition**, **MoWii** Luxemburg (DOCLER Holding) (L)
  * **MoWii** Luxemburg (DOCLER Holding) (L)
- * **MyAIDE – Vital Radar Sensor mHealth solution development **(IoT) (FBT) (JP)
+ * **MyAIDE – Vital Radar Sensor mHealth solution development** (IoT) (FBT) (JP)
  * **Smart Scheduling and Dispatching** - Finland (ECOLANE) (FI, USA)
  * **KOJIMORI SE5901 DAQ M2M/IoT embedded system development**, Tech stack: Embedded C/C++, RTOS, JQuery, HTML5 (FBT) (JP)
  * **KAMIKATSU M2M Agricultural mobile app** (Android) (FBT) (JP)
