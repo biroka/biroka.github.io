@@ -32,7 +32,7 @@ author_profile: true
  * Consortium: BU, UMA, ITware, ArtHaus, SensorID, SAS
  * Role: Project Leader, Research Director
  * Type of project: Software Development
- * Delivery: 2024
+ * Delivery: 2024
 
 ### ITware Kft. | Ecolane Logistics Systems Redesign (FI, USA)
  * Budget: 190.000+ EUR 
@@ -41,7 +41,7 @@ author_profile: true
  * Role: Project Manager
  * Type of project: Software Development
  * Market: Finland, USA
- * Delivery: 2015
+ * Delivery: 2015
 
 ## PRODUCT DEVELOPMENT PROJECTS
 * ITWARE - AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
