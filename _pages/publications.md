@@ -18,7 +18,7 @@ Publication References
  
 Pending Publications
 ======
-*  ---
+*  -
 
 
 Journal Articles
