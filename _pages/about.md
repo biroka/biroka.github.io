@@ -76,7 +76,6 @@ Academic Profiles
 [ <a target="_blank" href="https://m2.mtmt.hu/api/author/10098709?&labelLang=eng">MTMT2</a> ]
 [ <a target="_blank" href="https://www.hit.bme.hu/~ghorvath/tudometer/mtoscoring/10098709">Tud-O-Méter</a> ]
 [ <a target="_blank" href="https://scite.ai/users/attila-biro-D1xKW">scite_</a> ]
-[ <a target="_blank" href="https://rescognito.com/0000-0002-0430-9932">Rescognito</a> ]
 [ <a target="_blank" href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ]
 [ <a target="_blank" href="https://www.scilit.com/scholars/16248794">Scilit</a> ]
 [ <a target="_blank" href="https://ieeexplore.ieee.org/author/38110388500">IEEE Xplore</a> ]
