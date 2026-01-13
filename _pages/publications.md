@@ -22,7 +22,7 @@ Pending Publications
 
 Journal Articles
 ======
-* **A. Biró**, L. Kovács, L. Szilágyi, “_Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports_”, Sensors, MDPI, vol. 26, no.2: 525, **2026**. [<a target="_new" href="https://doi.org/10.3390/s26020525">Online</a>].
+* **A. Biró**, L. Kovács, L. Szilágyi, “_Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports_”, Sensors, MDPI, vol. 26, no.2, 525, **2026**. [<a target="_new" href="https://doi.org/10.3390/s26020525">Online</a>].
 * **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 * **A. Biró**, A.I. Cuesta-Vargas, L. Szilágyi, "_AI-Assisted Fatigue and Stamina Control for Performance Sports on IMU-Generated Multivariate Times Series Datasets_", Sensors, **2024**, volume 24, 132. [<a target="_new" href="https://doi.org/10.3390/s24010132">Online</a>].
 * Laura Ramírez-Pérez, Celia García-Conejo, Manuel Trinidad-Fernández, **Attila Biró** et al., "_Assessment of the Quality of Technophilia and Technophobia Validated Questionnaires for Management of Digital Health Interventions: Systematic Review and Delphi Consensus_", Journal of Medical Internet Research (JMIR), **2024**, [<a target="_new" href="https://preprints.jmir.org/preprint/59712">Online</a>].
