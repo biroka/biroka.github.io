@@ -13,7 +13,7 @@ author_profile: true
   * :lock: [[ **GECCO 2026** ](http://gecco-2026.sigevo.org/HomePage) ] [1-2 papers]: July 13-17, 2026, San José, Costa Rica [ Abstract: 2026.01.19, Paper: 01.26 ]
   * :fire: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [1-2 papers]: July 2-4, 2026, Budapest, Hungary [ Status: On-Going Research ]
   * :hourglass: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [2 papers]: August 23-28, 2026, Busan, Korea [ Status: Submitted ]
-  * :hourglass: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [3 papers]: April 16-18, 2026 in Brisbane, Australia [ Status: Submitted ]
+  * :busts_in_silhouette: [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] [3 papers]: April 16-18, 2026 in Brisbane, Australia [ Next-Up: Presentation ]
   * :busts_in_silhouette: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Next-Up: Presentation ]
 
 ## 2025 IEEE Conferences [ 5 papers ]
