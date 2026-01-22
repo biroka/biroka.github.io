@@ -9,8 +9,12 @@ Conference Calendar
 ======
 * You can check my conference, workshop, webinar, meetup <a target="_new" href="https://www.attila.phd/conferences"> Calendar</a> here.
 
+
 Upcoming Conferences
 ======
+* 2026.04.20-21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_A Bioinformatics-Driven, Biostatistical Pathway Framework with Multimodal Machine Learning for Athlete Burnout Prediction on Physiological Signals_", satellite workshop nearby Uluru, Australia
+* 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Bioinformatics-Guided NSGA-II Pathway-Sparse Optimization for Interpretable Neurodegenerative Risk Detection_", Bisbane, Australia
+* 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_A Bioinformatics-Driven, Biostatistical Pathway Framework with Multimodal Machine Learning for Athlete Burnout Prediction on Physiological Signals_", Bisbane, Australia
 * 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
 * 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
 * 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_", Stará Lesná, Slovakia
