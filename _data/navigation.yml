@@ -11,6 +11,9 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+
   #- title: "Projects"
   #  url: /projects/ 
 
@@ -19,6 +22,7 @@ main:
     
   - title: "Schedule"
     url: /schedule/
+  
   
  #  - title: "CV"
  #   url: /cv/
