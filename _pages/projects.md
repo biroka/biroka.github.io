@@ -7,6 +7,15 @@ author_profile: true
 
 ## KEY PROJECTS: Software + Infrastructure Development / R+D / Grants
 
+### ITware Kft. | GrantID: DIMOP_PLUSZ-1.1.2/B-24-2025-00133 | AI4TEST (HU)
+ * The #AI4TEST is an innovative AI-powered, cloud-based test automation platform (powered by #ITware) featuring self-healing capabilities and generative AI technologies. The project aims to increase the efficiency of traditional and AI-supported software development and testing processes, optimize or eliminate human factors, and enhance automated code injection mechanisms. AI4TEST is capable of automatically identifying gaps in unit tests and improving them through AI-based recommendations, including directly injectable code when applicable. This functionality increases the effectiveness of code injections, reduces the need for manual intervention, and supports multiple programming languages. Within the project framework, dedicated research and development focus on generative AI-driven Self-Healing functionalities. Following technological and conceptual research phases, existing processes and technologies are extended using large language models (LLMs) trained for specific domains and specialized areas. The AI proposes automated fixes; however, human interaction may be required for integration, or integration can be performed automatically through reinforcement learning mechanisms. The system also generates AI-based analytics and predictive insights from testing processes, forecasting potential defects and optimization opportunities. This functionality supports informed decision-making and significantly enhances the overall efficiency of software testing workflows.
+ * Tech stack: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), SonarQube, Docker, Kubernetes (K8s), GitHub, GitLab, Java (JUnit, TestNG), Python (PyTest, unittest), JavaScript (Jest, Cypress), C# (.NET testing framework), PostgreSQL, ElasticSearch, Prometheus + Grafana, Apache Kafka, JIRA, Confluence, Stripe, Python 3.11+ (Alpine), Java 17/21/25 (Maven, Gradle), Node 22/24 (LTS, Alpine), C# .Net 9 (Linux-based image), Testlink
+ * Role: Research Director, Lead Researcher, Project Leader
+ * Type of project: Software Development
+ * Project URL: www.ai4test.hu
+ * Market: Global with focus on HU
+ * Expected Delivery: 2028
+
 ### ITware Kft. | Japanese customer | Sunbears Cloud Campus Ecosystem (JP)
  * Development of a cloud-based service to collect and manage statistics of ice hockey matches for a Japanese client. SunBears is the only real-time, data-driven, and cloud-based sports solution ecosystem with a dedicated Android action tracker app and multiplatform PWA for multiple sports that records, analyzes, shows, and saves game/player/strategy-related data and statistics when you need it in between the game! The solution is for every coach and player in team and personal sports to learn and develop through their successes or failures constantly, wins or losses, based on real-time data!
  * Tech stack: Android, Firebase (Storage, Realtime Database, Hosting, Analytics, Auth, Functions, CLI, Bolt compiler), Stripe, Angular5+, Vue, PWA, Material Design, Stripe, HTML5, CSS3, Sass (Syntactically Awesome Style Sheets), SPA, TypeScript, JS, SonarQube, Docker, FlywayDB, Selenium, Cucumber, Teslink, IntelliJ, Appium, JIRA, Confluence, GIT, Gitlab,  Android, FlywayDB (@migration).
@@ -44,7 +53,8 @@ author_profile: true
  * Delivery: 2015
 
 ## PRODUCT DEVELOPMENT PROJECTS
-* ITWARE - AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (HU)
+* ITWARE - AI4TEST - AI4TEST Testautomation framework (ON-GOING) (HU)
+* ITWARE - AI4DEV - AI4Developers Complex 3-4 Days AI Training program for Developers (ON-GOING) (HU)
 * ITWARE - FLEETWARE - Fleet tracking solution for Hungarian market (HU)
 * ITWARE - APPAWARE - Multiplatform low-code no-code platform development (HU)
 * GYOGYSZERFUTAR - Compliace - Support solution for measuring compliance levels based on complex drug therapies (HU)
@@ -172,6 +182,7 @@ author_profile: true
  * SOMODY - **Design and modernization of equipments for building technology, pastry, and kitchen technology** (Centrál Kávéház, Budapest) (Somody Kft.) (HU)
 
 ## GRANT (LEADERSHIP and PROJECT MANAGEMENT)
+* 2026-2028 ITWARE - AI4TEST - DIMOP_PLUSZ-1.1.2/B-24-2025-00133, Projekt: 299.141.250 HUF, Támogatás: 201.815.775 HUF (HU)
 * 2024 ITWARE - iGAME H2020 RISE cross-country (ES, UK, IT, MK, HU) consortium project, 837.200 EUR (EU)
 * 2019 ITWARE - VEKOP-2.1.1-15-2016-00137 - Innovatív felhő alapú tesztautomatizálási megoldások fejlesztése az ITware Kft-nél, 36.609.369 HUF (HU)
 * 2019 ITWARE - GINOP 2.1.7-15-2016-01517 - Távoli járműdiagnosztikára épülő innovatív szolgáltatás létrehozása az ITware Kft-nél, 57.049.215 HUF (HU)
