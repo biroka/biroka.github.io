@@ -15,12 +15,13 @@ Upcoming Conferences
 * 2026.04.20-21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Risk-Aware Genetic Algorithms for Reliable Triathlon Relays: A Cantelli-Regularized Applied Mathematics Pipeline_", Satellite workshop nearby Uluru, Australia
 * 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Bioinformatics-Guided NSGA-II Pathway-Sparse Optimization for Interpretable Neurodegenerative Risk Detection_", Section: "Biological (living) systems", Bisbane, Australia
 * 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_A Bioinformatics-Driven, Biostatistical Pathway Framework with Multimodal Machine Learning for Athlete Burnout Prediction on Physiological Signals_", Section: "Computational intelligence-based results of signal processing", Bisbane, Australia
-* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
-* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
-* 2026.01.29-31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_", Stará Lesná, Slovakia
   
 Conferences
 ======
+* 2026.01.31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
+* 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Sleep Efficiency Predic�on with Machine Learning and Deep Neural Networks_", GUEST presenter, Stará Lesná, Slovakia
+* 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
+* 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_", Stará Lesná, Slovakia
 * 2025.11.19 - IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Topic: "_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_", Budapest, Hungary
 * 2025.11.19 - IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Topic: "_Disrupting the Critical 10 Seconds: An Optimization Framework for Lineup Changes and Strategy Shifts in Ice Hockey_", Budapest, Hungary
 * 2025.11.13 - IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA 2025), Topic: "_Enhanced workflow of the gamified analytics pipeline: individual players generate XP & badges, aggregated into team XP, adjusted for opponent difficulty (GTE), with KernelSHAP-based credit and optional Bayesian smoothing_", Vysoké Tatry-Starý Smokovec, Slovakia
@@ -56,6 +57,8 @@ Attended IEEE Conferences
 [[ INES 2025 ](http://www.ines-conf.org/ines-conf/2025index.html)]
 [[ ICETA 2025 ](https://www.iceta.sk/) ]
 [[ CINTI 2025 ](https://conf.uni-obuda.hu/cinti2025/)]
+[[ SAMI 2026 ](https://conf.uni-obuda.hu/sami2026/)]
+[[ ICCC 2026 ](https://conf.uni-obuda.hu/iccc2026/)]
 
 Workshops and Seminars
 ======
