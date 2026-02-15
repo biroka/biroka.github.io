@@ -19,7 +19,7 @@ Upcoming Conferences
 Conferences
 ======
 * 2026.01.31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
-* 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Sleep Efficiency Predic�on with Machine Learning and Deep Neural Networks_", GUEST presenter, Stará Lesná, Slovakia
+* 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Sleep Efficiency Prediction with Machine Learning and Deep Neural Networks_", GUEST presenter, Stará Lesná, Slovakia
 * 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
 * 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_", Stará Lesná, Slovakia
 * 2025.11.19 - IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Topic: "_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_", Budapest, Hungary
