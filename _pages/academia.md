@@ -26,6 +26,7 @@ Ongoing Academic Studies
 * Tutors: <a target="_new" href="https://scholar.google.com/citations?user=sYZsfzgAAAAJ">Prof. Dr. Levente Kovács</a>, <a target="_new" href="https://scholar.google.com/citations?user=793kkF4AAAAJ">Prof. Dr. László Szilágyi</a>
 * Research groups: <a target="_new" href="https://aiamdi.uni-obuda.hu/">AIAMDI</a>, ODNEAI, <a target="_new" href="https://ekik.uni-obuda.hu/">EKIK</a>, <a target="_new" href="https://physcon.uni-obuda.hu/">PHYSCON</a>
 
+
 Research Focus & Scientific Agenda
 ======
 * Medication & Medical Digital Twin
@@ -33,6 +34,7 @@ Research Focus & Scientific Agenda
 * Bioinformatics-inspired AI modeling
 * Applied AI in performance sports
 * Digital health & neurodegenerative risk modeling
+
 
 Teaching activities
 ======
