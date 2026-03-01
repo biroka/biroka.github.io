@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 ***
+# Research Projects
+***
+* **Medication Digital Twin (MDT)** - postdoctoral scientific research project (in progress)
+* **AI4TEST** - Self-healing supported test automation with AI (in progress)
+* **HORIZON 2020 iGAME RISE** - Multidimensional Support Framework for Gamified Digital Health
+
+***
 # Research Focus & Scientific Agenda
 ***
 * Medication & Medical Digital Twin
@@ -14,13 +21,6 @@ author_profile: true
 * Applied AI in performance sports
 * Digital health & neurodegenerative risk modeling
 * <a target="_new" href="https://biroka.github.io/schedule/">Detailed Scientific Agenda</a>
-
-***
-# Research Projects
-***
-* **Medication Digital Twin (MDT)** - postdoctoral scientific research project (in progress)
-* **AI4TEST** - Self-healing supported test automation with AI (in progress)
-* **HORIZON 2020 iGAME RISE** - Multidimensional Support Framework for Gamified Digital Health
 
 ***
 # Ongoing Academic Studies
