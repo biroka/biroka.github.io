@@ -5,7 +5,9 @@ permalink: /academia/
 author_profile: true
 ---
 
+***
 # Research Focus & Scientific Agenda
+***
 * Medication & Medical Digital Twin
 * Risk-aware evolutionary optimization
 * Bioinformatics-inspired AI modeling
@@ -14,8 +16,8 @@ author_profile: true
 
 
 ***
-
 # Ongoing Academic Studies
+***
 ### Postdoctoral Research in MedTech (Romania)
 * Institute: <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a>
 * Department: Electrical Engineering and Information Technology (DIETI)
@@ -35,8 +37,8 @@ author_profile: true
 * Research groups: <a target="_new" href="https://aiamdi.uni-obuda.hu/">AIAMDI</a>, ODNEAI, <a target="_new" href="https://ekik.uni-obuda.hu/">EKIK</a>, <a target="_new" href="https://physcon.uni-obuda.hu/">PHYSCON</a>
 
 *** 
-
 # Teaching activities
+***
 ### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
 * Location: Marosvásárhely (Targu Mures), Romania
 * Department of Electrical Engineering and Information Technology (DIETI)
