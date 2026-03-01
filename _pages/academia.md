@@ -37,7 +37,7 @@ author_profile: true
 ### PhD in Applied Mathematics (Hungary)
 * Institute: <a target="_new" href="https://www.uni-obuda.hu/">Obuda University</a>
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
-* Topic: _Optimizing lineups and substitutions through AI and applied mathematics to create smarter strategies for team formations_
+* Topic: _Team Formation in Performance Sports_
 * PhD start date: 2025.09 (On-Going)
 * Location: Budapest, Hungary
 * Tutors: <a target="_new" href="https://scholar.google.com/citations?user=sYZsfzgAAAAJ">Prof. Dr. Levente Kovács</a>, <a target="_new" href="https://scholar.google.com/citations?user=793kkF4AAAAJ">Prof. Dr. László Szilágyi</a>
