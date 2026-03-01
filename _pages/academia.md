@@ -13,6 +13,7 @@ author_profile: true
 * Bioinformatics-inspired AI modeling
 * Applied AI in performance sports
 * Digital health & neurodegenerative risk modeling
+* <a target="_new" href="https://biroka.github.io/schedule/">Detailed Scientific Agenda</a>
 
 ***
 # Research Projects
