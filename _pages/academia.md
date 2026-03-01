@@ -25,8 +25,6 @@ author_profile: true
 * Tutors: <a target="_new" href="https://scholar.google.com/citations?user=wuyFWa8AAAAJ">Prof.Dr. László Barna Iantovics</a>
 * Research groups: <a target="_new" href="https://artemis.umfst.ro/">ARTEMIS</a>
 
-*** 
-
 ### PhD in Applied Mathematics (Hungary)
 * Institute: <a target="_new" href="https://www.uni-obuda.hu/">Obuda University</a>
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
