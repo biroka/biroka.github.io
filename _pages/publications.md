@@ -18,7 +18,9 @@ Publication References
  
 Pending Publications
 ======
-*  --
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
 
 Journal Articles
 ======
