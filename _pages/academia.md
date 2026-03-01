@@ -19,7 +19,7 @@ author_profile: true
 ***
 * **Medication Digital Twin (MDT)** - postdoctoral scientific research project (in progress)
 * **AI4TEST** - Self-healing supported test automation with AI (in progress)
-* **HORIZON 2020 iGAME RISE** - Multi-dimensional Intervention Support Architecture for Gamified eHealth and mHealth Products
+* **HORIZON 2020 iGAME RISE** - Multidimensional Support Framework for Gamified Digital Health
 
 ***
 # Ongoing Academic Studies
