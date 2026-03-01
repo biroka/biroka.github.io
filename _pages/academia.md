@@ -7,10 +7,8 @@ author_profile: true
 
 
 # Ongoing Academic Studies
-
 ## Postdoctoral Research in MedTech (Romania)
-
-*  <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a>
+### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a>
 * Department: Electrical Engineering and Information Technology (DIETI)
 * Topic: _Medication Digital Twin (MDT)_
 * Postdoc start date: 2026.03 (On-Going)
@@ -19,8 +17,7 @@ author_profile: true
 * Research groups: <a target="_new" href="https://artemis.umfst.ro/">ARTEMIS</a>
 
 ## PhD in Applied Mathematics (Hungary)
-
-*  <a target="_new" href="https://www.uni-obuda.hu/">Obuda University</a>
+### <a target="_new" href="https://www.uni-obuda.hu/">Obuda University</a>
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
 * Topic: _Optimizing lineups and substitutions through AI and applied mathematics to create smarter strategies for team formations_
 * PhD start date: 2025.09 (On-Going)
@@ -37,20 +34,17 @@ author_profile: true
 
 
 # Teaching activities
-
-## <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
+### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
 * Location: Marosvásárhely (Targu Mures), Romania
 * Department of Electrical Engineering and Information Technology (DIETI)
 * Course: _Advanced Topics in Artificial Intelligence_
 * Period: Next Up
-
-## <a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE] 
+### <a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE] 
 * Location: Marosvásárhely (Targu Mures), Romania
 * Department of Mathematics and Computer Science (MIT)
 * Course: _Bioinformatics Algorithms_
 * Period: 2025/2026 (Semester I)
- 
-## <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
+### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
 * Location: Marosvásárhely (Targu Mures), Romania
 * Department of Electrical Engineering and Information Technology (DIETI)
 * Course: _Web Application Development_
