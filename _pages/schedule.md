@@ -23,16 +23,19 @@ author_profile: true
   * :heavy_check_mark: [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] [3 papers]: January 29-31, 2026 in Stará Lesná, Slovakia [ Next-Up: IEEE Release ]
 
 ## 2025 IEEE Conferences [ 5 papers ]
-  * :heavy_check_mark: [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] [2 papers]: November 19, 2025, Budapest, Hungary [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11311846), [P2](https://ieeexplore.ieee.org/document/11311754) ]
-  * :heavy_check_mark: [[ **ICETA 2025** ](https://www.iceta.sk/) ] [1 paper]: November 13, 2025, High Tatras, Slovakia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11278907) ]
-  * :heavy_check_mark: [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] [1 paper]: June 12, 2025, Palermo, Italy [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/11078199/) ]
-  * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
+
+| # | Conference | Papers | Date | Location | IEEE Xplore |
+|---|------------|--------|------|----------|-------------|
+| :heavy_check_mark: | [[ **CINTI 2025** ](https://conf.uni-obuda.hu/cinti2025/) ] |[2 papers]| November 19, 2025 | Budapest, Hungary |[ [P1](https://ieeexplore.ieee.org/document/11311846), [P2](https://ieeexplore.ieee.org/document/11311754) ]|
+| :heavy_check_mark: | [[ **ICETA 2025** ](https://www.iceta.sk/) ] |[1 paper]| November 13, 2025 | High Tatras, Slovakia |[ [P1](https://ieeexplore.ieee.org/document/11278907) ]|
+| :heavy_check_mark: | [[ **INES 2025** ](http://www.ines-conf.org/ines-conf/2025index.html) ] |[1 paper]| June 12, 2025 | Palermo, Italy |[ [P1](https://ieeexplore.ieee.org/document/11078199/) ]|
+| :heavy_check_mark: | [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] |[1 paper]| April 10, 2025 | Seychelle Islands |[ [P1](https://ieeexplore.ieee.org/document/10999140/) ]|
 
 ## 2024 IEEE Conferences [ 4 papers ]
 
 | # | Conference | Papers | Date | Location | IEEE Xplore |
 |---|------------|--------|------|----------|-------------|
-| :heavy_check_mark: | [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] |[2 papers]| October 10, 2024 | Kuching, Sarawak, Malaysia |[ [P1](https://ieeexplore.ieee.org/document/10831505/) ]|
+| :heavy_check_mark: | [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] |[1 paper]| October 10, 2024 | Kuching, Sarawak, Malaysia |[ [P1](https://ieeexplore.ieee.org/document/10831505/) ]|
 | :heavy_check_mark: | [[ **SACI 2024** ](https://conf.uni-obuda.hu/saci2024/) ] |[1 paper]| May 24, 2024 | Timisoara, Romania |[ [P1](https://ieeexplore.ieee.org/document/10619802/) ]|
 | :heavy_check_mark: | [[ **SAMI 2024** ](https://conf.uni-obuda.hu/sami2024/) ] |[2 papers]| January 26, 2024 | Stará Lesná, Slovakia |[ [P1](https://ieeexplore.ieee.org/document/10432817/), [P2](https://ieeexplore.ieee.org/document/10432911/) ]|
     
