@@ -29,12 +29,16 @@ author_profile: true
   * :heavy_check_mark: [[ **ICCC 2025** ](https://conf.uni-obuda.hu/iccc2025/index.html) ] [1 paper]: April 10, 2025, Seychelle Islands [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10999140/) ]
 
 ## 2024 IEEE Conferences [ 4 papers ]
-  * :heavy_check_mark: [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] [1 paper]: October 10, 2024, Kuching, Sarawak, Malaysia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10831505/) ]
-  * :heavy_check_mark: [[ **SACI 2024** ](https://conf.uni-obuda.hu/saci2024/) ] [1 paper]: May 24, 2024, Timisoara, Romania [ Status: [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10619802/) ]
-  * :heavy_check_mark: [[ **SAMI 2024** ](https://conf.uni-obuda.hu/sami2024/) ] [2 papers]: January 26, 2024, Stará Lesná, Slovakia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10432817/), [P2](https://ieeexplore.ieee.org/document/10432911/) ]
+
+| # | Conference | Papers | Date | Location | IEEE Xplore |
+|---|------------|--------|------|----------|-------------|
+| :heavy_check_mark: | [[ **SMC 2024** ](https://www.ieeesmc2024.org/home) ] |[2 papers]| October 10, 2024 | Kuching, Sarawak, Malaysia |[ [P1](https://ieeexplore.ieee.org/document/10831505/) ]|
+| :heavy_check_mark: | [[ **SACI 2024** ](https://conf.uni-obuda.hu/saci2024/) ] |[1 paper]| May 24, 2024 | Timisoara, Romania |[ [P1](https://ieeexplore.ieee.org/document/10619802/) ]|
+| :heavy_check_mark: | [[ **SAMI 2024** ](https://conf.uni-obuda.hu/sami2024/) ] |[2 papers]| January 26, 2024 | Stará Lesná, Slovakia |[ [P1](https://ieeexplore.ieee.org/document/10432817/), [P2](https://ieeexplore.ieee.org/document/10432911/) ]|
     
 ## 2023 IEEE Conferences [ 4 papers ]
+
 | # | Conference | Papers | Date | Location | IEEE Xplore |
 |---|------------|--------|------|----------|-------------|
 | :heavy_check_mark: | [[ **SMC 2023** ](https://www.ieeesmc.org/conference-2023/) ] |[2 papers]| October 2-3, 2023 | Oahu, Hawaii, USA |[ [P1](https://ieeexplore.ieee.org/document/10394349/), [P2](https://ieeexplore.ieee.org/document/10394396/) ]|
-| :heavy_check_mark: | [[ **SISY 2023** ](https://conf.uni-obuda.hu/sisy2023/index.html) ] |[2 papers]| September 21-22, 2023 | Pula, Croatia|[ [P1](https://ieeexplore.ieee.org/document/10417876/), [P2](https://ieeexplore.ieee.org/document/10417915/) ]|
+| :heavy_check_mark: | [[ **SISY 2023** ](https://conf.uni-obuda.hu/sisy2023/index.html) ] |[2 papers]| September 21-22, 2023 | Pula, Croatia |[ [P1](https://ieeexplore.ieee.org/document/10417876/), [P2](https://ieeexplore.ieee.org/document/10417915/) ]|
