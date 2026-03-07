@@ -34,5 +34,7 @@ author_profile: true
   * :heavy_check_mark: [[ **SAMI 2024** ](https://conf.uni-obuda.hu/sami2024/) ] [2 papers]: January 26, 2024, Stará Lesná, Slovakia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10432817/), [P2](https://ieeexplore.ieee.org/document/10432911/) ]
     
 ## 2023 IEEE Conferences [ 4 papers ]
-  * :heavy_check_mark: [[ **SMC 2023** ](https://www.ieeesmc.org/conference-2023/) ] [2 papers]: October 2-3, 2023, Oahu, Hawaii, USA [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10394349/), [P2](https://ieeexplore.ieee.org/document/10394396/) ]
-  * :heavy_check_mark: [[ **SISY 2023** ](https://conf.uni-obuda.hu/sisy2023/index.html) ] [2 papers]: September 21-22, 2023, Pula, Croatia [ IEEE Xplore [P1](https://ieeexplore.ieee.org/document/10417876/), [P2](https://ieeexplore.ieee.org/document/10417915/) ]
+| # | Conference | Papers | Date | Location | IEEE Xplore |
+|---|------------|--------|------|----------|-------------|
+| :heavy_check_mark: | [[ **SMC 2023** ](https://www.ieeesmc.org/conference-2023/) ] |[2 papers]| October 2-3, 2023 | Oahu, Hawaii, USA |[ [P1](https://ieeexplore.ieee.org/document/10394349/), [P2](https://ieeexplore.ieee.org/document/10394396/) ]|
+| :heavy_check_mark: | [[ **SISY 2023** ](https://conf.uni-obuda.hu/sisy2023/index.html) ] |[2 papers]| September 21-22, 2023 | Pula, Croatia|[ [P1](https://ieeexplore.ieee.org/document/10417876/), [P2](https://ieeexplore.ieee.org/document/10417915/) ]|
