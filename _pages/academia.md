@@ -67,6 +67,7 @@ author_profile: true
 *** 
 # Education
 *** 
+
 | Period    | Level     | Degree                             | Field of Study / Specialization                 | Institution | Grade        |
 |-----------|-----------|------------------------------------|-------------------------------------------------|-------------| -------------|
 | 2025 2029 | **PhD**   | PhD in Mathematics                 | Applied Mathematics (sports strategy)           | Obuda University (OE), Budapest, HUS | --- |
