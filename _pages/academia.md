@@ -68,11 +68,11 @@ author_profile: true
 # Education
 *** 
 
-| Period    | Level     | Degree                             | Field of Study / Specialization                 | Institution | Grade        |
-|-----------|-----------|------------------------------------|-------------------------------------------------|-------------| -------------|
-| 2025 2029 | **PhD**   | PhD in Mathematics                 | Applied Mathematics (sports strategy)           | Obuda University (OE), Budapest, HUS | --- |
-| 2021 2024 | **PhD**   | PhD in Health Sciences             | Health Sciences (bioinformatics)                | University of Malaga (UMA), Málaga, ES | summa cum laude |
-| 2020 2024 | **PhD**   | PhD in Informatics                 | Computer Science (bioinfirmatics)               | UMFST G.E. Palade of Targu Mures, RO | summa cum laude |
-| 2001 2002 | **M.Eng** | M.Eng. in Automation in Energetics | Advanced automatic systems of management of the industrial and energetic processes | Petru Maior University of Targu Mures (UPM), RO | -- |
-| 1996 2001 | **M.Eng** | M.Eng. in Industrial Automation    | Automatics and industrial information technology | Petru Maior University of Targu Mures (UPM), RO | -- |
+| Period    | Level     | Degree                             | Institution                                     | Grade           |
+|-----------|-----------|------------------------------------|-------------------------------------------------|-----------------|
+| 2025 2029 | **PhD**   | PhD in Mathematics                 | Obuda University (OE), Budapest, HUS            | ---             |
+| 2021 2024 | **PhD**   | PhD in Health Sciences             | University of Malaga (UMA), Málaga, ES          | summa cum laude |
+| 2020 2024 | **PhD**   | PhD in Informatics                 | UMFST G.E. Palade of Targu Mures, RO            | summa cum laude |
+| 2001 2002 | **M.Eng** | M.Eng. in Automation in Energetics | Petru Maior University of Targu Mures (UPM), RO | --              |
+| 1996 2001 | **M.Eng** | M.Eng. in Industrial Automation    | Petru Maior University of Targu Mures (UPM), RO | --              |
 
