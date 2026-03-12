@@ -18,9 +18,7 @@ Publication References
  
 Pending Publications
 ======
-* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
-* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
-* **A. Biró**, L. Kovács, and L. Szilágyi, “_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**,  Xplore IEEE
+--
 
 Journal Articles
 ======
@@ -43,6 +41,9 @@ Journal Articles
 
 Conference Papers
 ======
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000707-000714, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420470">Online</a>], Xplore IEEE
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000565-000572, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420354">Online</a>], Xplore IEEE
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000379-000384, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420405">Online</a>], Xplore IEEE
 * **A. Biró**, L. Kovács, and L. Szilágyi, “_Disrupting the Critical 10 Seconds: An Optimization Framework for Lineup Changes and Strategy Shifts in Ice Hockey_”, 2025 IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, pp. 000805-000812, [<a target="_new" href="https://doi.org/10.1109/CINTI67731.2025.11311754">Online</a>], Xplore IEEE.
 * **A. Biró**, L. Kovács, and L. Szilágyi, “_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_”, 2025 IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, pp. 713-720, [<a target="_new" href="https://doi.org/10.1109/CINTI67731.2025.11311846">Online</a>], Xplore IEEE.
 * **A. Biró**, L. Kovács, and L. Szilágyi, “_Game-Based Learning and Gamified Efficiency for Team Performance Estimation in Professional Basketball_”, IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA), Stary Smokovec, Slovakia, **2025**, pp. 95-100, [<a target="_new" href="https://doi.org/10.1109/ICETA67772.2025.11278907">Online</a>], Xplore IEEE.
