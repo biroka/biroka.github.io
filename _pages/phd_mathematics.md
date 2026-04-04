@@ -41,12 +41,10 @@ author_profile: true
 # Pending Research
 ***
 
-***
 ## Pertaining to Theses
 ***
 1. 2026.08.23-28 [C][Under Review] - **A. Biró**, L. Kovács and L. Szilágyi, "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", in 23rd IFAC World Congress, Busan, Republic of Korea.
 
-***
 ## Not Pertaining to Theses
 ***
 1. 2026.08.23-28 [C][Under Review] - J. Palatka, L. Dénes-Fazakas, **A. Biró**, L. Kovács and L. Szilágyi, "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", in 23rd IFAC World Congress, Busan, Republic of Korea.
