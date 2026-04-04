@@ -69,25 +69,27 @@ author_profile: true
 ***
 # Certificates
 ***
-* 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
-* 2025.11.17 - _Bevezetés a Mesterséges Intelligenciába_ (Introduction to Artificial Intelligence) Certificate by AI Campus Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf">Online</a>]
-* 2025.10.11 - "_Advanced Statistics for Data Science Specialization_", by Johns Hopkins University, Coursera. [<a target="_new" href="https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE">Online</a>]
+* 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>].
+* 2025.11.17 - _Bevezetés a Mesterséges Intelligenciába_ (Introduction to Artificial Intelligence) Certificate by AI Campus Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf">Online</a>].
+* 2025.10.11 - "_Advanced Statistics for Data Science Specialization_", by Johns Hopkins University, Coursera. [<a target="_new" href="https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE">Online</a>].
 
 ***
 # Awards
 ***
-* 2025.12.29 - "_Best Student Paper Award_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Paper: “Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds”
+* 2025.12.29 - "_Best Student Paper Award_”, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Paper: “Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds”.
 
 ***
 # Teaching Activities
 ***
 * 2025-2026 Semester I: _Sapientia EMTE Faculty of Târgu Mureș_ (Romania), Department of Mathematics and Computer Science (MIT), Course: "_Bioinformatics Algorithms_", Language of instruction: Hungarian, Teaching role:
-Lab, Number of hours taught: 3 lab sessions per week for 14 weeks (42 hours total)
-* 2025-2026 Semester I: _UMFST GE Palade Târgu Mureș_ (Romania), Department of Electrical Engineering and Computer Science (DIETI), Course: "_Web Application Development_", Language of instruction: Hungarian, Teaching role: Course, Number of hours taught: 4 sessions per week for 9 weeks (36 hours total)
+Lab, Number of hours taught: 3 lab sessions per week for 14 weeks (42 hours total).
+* 2025-2026 Semester I: _UMFST GE Palade Târgu Mureș_ (Romania), Department of Electrical Engineering and Computer Science (DIETI), Course: "_Web Application Development_", Language of instruction: Hungarian, Teaching role: Course, Number of hours taught: 4 sessions per week for 9 weeks (36 hours total).
 
 ***
 # Other Activities
 ***
-* 2026.04.16 - _Session Chair_ - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Biological (living) systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>]
-* 2025.12.29 - _Session Chair_ - IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Section: "_[W1d] Session on Applications IV_", Budapest, Hungary [<a target="_new" href="https://conf.uni-obuda.hu/cinti2025/CINTI2025PreliminaryProgram.pdf">Program</a>]
+* 2026.04.16 - _Session Chair_, IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Biological (living) systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>].
+* 2026.04.23 - _Peer Reviewer_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
+* 2026.01.26 - _Peer Reviewer_, IEEE Hungary Section, IEEE Student Paper Contest 2025/26.
+* 2025.12.29 - _Session Chair_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Section: "_[W1d] Session on Applications IV_", Budapest, Hungary [<a target="_new" href="https://conf.uni-obuda.hu/cinti2025/CINTI2025PreliminaryProgram.pdf">Program</a>].
 
