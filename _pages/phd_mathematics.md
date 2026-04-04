@@ -38,7 +38,7 @@ author_profile: true
 1. 2025.11.06 [A][Q1] - **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 
 ***
-# Pending Research
+# Pending Research [Submitted / Under Rewiew]
 ***
 
 ## Pertaining to Theses
