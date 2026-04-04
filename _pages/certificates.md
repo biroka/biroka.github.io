@@ -11,7 +11,7 @@ author_profile: true
 ##  Research / (Applied) Mathematics Certificates
 
 * 2026.04.03, DEC x OE, [_AI Literacy for All_](https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf) by The Digital Education Council (DEC) x Obuda University
-* 2025.11.17, AI Campus, [_Bevezetés a Mesterséges Intelligenciába_(Introduction to Artificial Intelligence)](https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf) by Obuda University
+* 2025.11.17, AI Campus, [_Bevezetés a Mesterséges Intelligenciába_(Introduction to AI)](https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf) by Obuda University
 * 2025.10.11, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University 
 * 2025.08.22, Coursera, [_Foundational Mathematics for AI_](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1) by Johns Hopkins University
 * 2022.10.01, Coursera, [_Basic Statistics_](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM) by University of Amsterdam
