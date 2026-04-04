@@ -8,12 +8,13 @@ author_profile: true
 ***
 #  PhD in Applied Mathematics [Fact Sheet]
 ***
-* Obuda University, Budapest, Hungary
+* Institute: <a target="_new" href="https://www.uni-obuda.hu/">Obuda University</a>, Budapest, Hungary
 * Department: Doctoral School of Applied Informatics and Applied Mathematics (AIAMDI)
+* Topic: _Team Formation in Performance Sports_
 * PhD start date: 2025.09 (On-Going)
 * Location: Budapest, Hungary
-* Tutors: Prof. Dr. Levente Kovács, Prof. Dr. László Szilágyi
-* Research groups: AIAMDI, ODNEAI, EKIK, PHYSCON
+* Tutors: <a target="_new" href="https://scholar.google.com/citations?user=sYZsfzgAAAAJ">Prof. Dr. Levente Kovács</a>, <a target="_new" href="https://scholar.google.com/citations?user=793kkF4AAAAJ">Prof. Dr. László Szilágyi</a>
+* Research groups: <a target="_new" href="https://aiamdi.uni-obuda.hu/">AIAMDI</a>, ODNEAI, <a target="_new" href="https://ekik.uni-obuda.hu/">EKIK</a>, <a target="_new" href="https://physcon.uni-obuda.hu/">PHYSCON</a>
 * Research activities, Awards and Certificates
 
 ***
