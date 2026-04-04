@@ -65,7 +65,7 @@ author_profile: true
 # Certificates
 ***
 * 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>].
-* 2025.11.17 - _Bevezetés a Mesterséges Intelligenciába_ (Introduction to Artificial Intelligence) Certificate by AI Campus Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf">Online</a>].
+* 2025.11.17 - "_Bevezetés a Mesterséges Intelligenciába_" (Introduction to Artificial Intelligence) Certificate by AI Campus Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf">Online</a>].
 * 2025.10.11 - "_Advanced Statistics for Data Science Specialization_", by Johns Hopkins University, Coursera. [<a target="_new" href="https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE">Online</a>].
 
 ***
