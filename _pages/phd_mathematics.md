@@ -25,7 +25,7 @@ author_profile: true
 4. 2026.03.11 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000707-000714, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420470">Online</a>], Xplore IEEE
 5. 2026.03.11 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000565-000572, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420354">Online</a>], Xplore IEEE
 6. 2026.03.11 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Adapting Hidden Markov Models and Local Alignment Algorithms for Real-Time Lineup Change Decisioning in Ice Hockey_”, in IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Stará Lesná, Slovakia, IEEE, **2026**, pp. 000379-000384, [<a target="_new" href="https://doi.org/10.1109/SAMI68106.2026.11420405">Online</a>], Xplore IEEE
-7. 2026.01.13 [A] - **A. Biró**, L. Kovács, L. Szilágyi, “_Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports_”, Sensors, MDPI, vol. 26, no.2, 525, **2026**. [<a target="_new" href="https://doi.org/10.3390/s26020525">Online</a>].
+7. 2026.01.13 [A][Q1] - **A. Biró**, L. Kovács, L. Szilágyi, “_Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports_”, Sensors, MDPI, vol. 26, no.2, 525, **2026**. [<a target="_new" href="https://doi.org/10.3390/s26020525">Online</a>].
 8. 2025.12.29 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Disrupting the Critical 10 Seconds: An Optimization Framework for Lineup Changes and Strategy Shifts in Ice Hockey_”, 2025 IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, pp. 000805-000812, [<a target="_new" href="https://doi.org/10.1109/CINTI67731.2025.11311754">Online</a>], Xplore IEEE.
 9. 2025.12.29 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Tactical Lineup Changes Simulation in Competitive High-Speed Team Sports via Hoeffding’s Inequality and Concentration Bounds_”, 2025 IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, **2025**, pp. 713-720, [<a target="_new" href="https://doi.org/10.1109/CINTI67731.2025.11311846">Online</a>], Xplore IEEE.
 10. 2025.12.15 [C] - **A. Biró**, L. Kovács, and L. Szilágyi, “_Game-Based Learning and Gamified Efficiency for Team Performance Estimation in Professional Basketball_”, IEEE 23rd International Conference on Emerging eLearning Technologies and Applications (ICETA), Stary Smokovec, Slovakia, **2025**, pp. 95-100, [<a target="_new" href="https://doi.org/10.1109/ICETA67772.2025.11278907">Online</a>], Xplore IEEE.
@@ -33,7 +33,7 @@ author_profile: true
 ***
 # Publications not Pertaining to Theses
 ***
-1. 2025.11.06 [A] - **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
+1. 2025.11.06 [A][Q1] - **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 
 ***
 # Courses
@@ -54,8 +54,8 @@ author_profile: true
 ***
 # Certificates
 ***
-* 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University
-* 2025.10.11 - "_Advanced Statistics for Data Science Specialization_", by Johns Hopkins University, Coursera
+* 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
+* 2025.10.11 - "_Advanced Statistics for Data Science Specialization_", by Johns Hopkins University, Coursera. [<a target="_new" href="https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE">Online</a>]
 
 ***
 # Awards
