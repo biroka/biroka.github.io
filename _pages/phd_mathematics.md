@@ -83,8 +83,8 @@ Lab, Number of hours taught: 3 lab sessions per week for 14 weeks (42 hours tota
 ***
 # Other Activities
 ***
-* 2026.04.16 - _Session Chair_, IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Biological (living) systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>].
 * 2026.04.23 - _Peer Reviewer_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
+* 2026.04.16 - _Session Chair_, IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Biological (living) systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>].
 * 2026.01.26 - _Peer Reviewer_, IEEE Hungary Section, IEEE Student Paper Contest 2025/26.
 * 2025.12.29 - _Session Chair_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Section: "_[W1d] Session on Applications IV_", Budapest, Hungary [<a target="_new" href="https://conf.uni-obuda.hu/cinti2025/CINTI2025PreliminaryProgram.pdf">Program</a>].
 
