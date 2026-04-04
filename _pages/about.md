@@ -17,7 +17,7 @@ His motivation is to ensure the business development, software development as we
 
 Last Updates
 ======
-1. 2026.04.03 - **AI Literacy for All** Certificate by The Digital Education Council (DEC) x Obuda University
+1. 2026.04.03 - _AI Literacy for All_ Certificate by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
 2. 2026.02.13 - Postdoctoral researcher admisssion (Position: "EN: Advanced technologies and artificial intelligence in healthcare" / "RO: Tehnologii avansate și inteligența artificială în sănătăte") at the UMFST GE Palade of Tg. Mures in MedTech
 3. 2026.01.22 - 3 research papers accepted to the conference IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026) to be organized on April 16-18, 2026 in Bisbane (2 papers), and the satellite workshop on April 20-21, 2026, nearby Uluru (1 paper), Australia.
 4. 2026.01.13 - New Paper ["Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports"](https://doi.org/10.3390/s26020525) has been published in Sensors, MDPI;
