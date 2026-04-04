@@ -46,10 +46,10 @@ author_profile: true
 6. "_Mentális és érzelmi állapot monitorozása és meghatározása_" (Monitoring and Determination of Mental and Emotional States), Dr. Kozlovszky Miklós, OE
 7. "_Tudománykommunikáció_" (Science Communication), Szigeti Gyula Péter, OE
 8. "_English for Academic Purposes: Writing and Publication for PhD Students_", Tafferner-Gulyás Viktória, OE
-9. "_Advanced methods in image processing and pattern recognition_", UMFST
-10. "_Modelling of Nonlinear Systems_", UMFST
-11. "_Methodology of Scientific Research_", UMFST
-12. "_Ethics in Scientific Research and Intellectual Property_", UMFST
+9. "_Advanced methods in image processing and pattern recognition_", Dr. Szilágyi László, UMFST
+10. "_Modelling of Nonlinear Systems_", Dr. Szilágyi Sándor Miklós, UMFST
+11. "_Methodology of Scientific Research_", Dr. Manuela Rozalia Gabor, UMFST
+12. "_Ethics in Scientific Research and Intellectual Property_", Dr. Petruta Blaga, UMFST
 
 ***
 # Certificates
