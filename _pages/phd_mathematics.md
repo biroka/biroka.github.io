@@ -38,7 +38,7 @@ author_profile: true
 1. 2025.11.06 [A][Q1] - **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 
 ***
-# Pending Research [Submitted / Under Rewiew]
+# Pending Research [Submitted / Under Review]
 ***
 1. 2026.08.23-28 [C][Under Review] - **A. Biró**, L. Kovács and L. Szilágyi, "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", in 23rd IFAC World Congress, Busan, Republic of Korea.
 2. 2026.08.23-28 [C][Under Review] - J. Palatka, L. Dénes-Fazakas, **A. Biró**, L. Kovács and L. Szilágyi, "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", in 23rd IFAC World Congress, Busan, Republic of Korea.
