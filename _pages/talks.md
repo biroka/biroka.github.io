@@ -12,12 +12,16 @@ Conference Calendar
 
 Upcoming Conferences
 ======
-* 2026.04.20-21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Risk-Aware Genetic Algorithms for Reliable Triathlon Relays: A Cantelli-Regularized Applied Mathematics Pipeline_", Satellite workshop nearby Uluru, Australia
-* 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Bioinformatics-Guided NSGA-II Pathway-Sparse Optimization for Interpretable Neurodegenerative Risk Detection_", Section: "Biological (living) systems", Bisbane, Australia
-* 2026.04.16-18 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_A Bioinformatics-Driven, Biostatistical Pathway Framework with Multimodal Machine Learning for Athlete Burnout Prediction on Physiological Signals_", Section: "Computational intelligence-based results of signal processing", Bisbane, Australia
+* 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
+* 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
+* 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
+* 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
   
 Conferences
 ======
+* 2026.04.21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Risk-Aware Genetic Algorithms for Reliable Triathlon Relays: A Cantelli-Regularized Applied Mathematics Pipeline_", Satellite workshop nearby Uluru, Australia
+* 2026.04.16 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Bioinformatics-Guided NSGA-II Pathway-Sparse Optimization for Interpretable Neurodegenerative Risk Detection_", Section: "Biological (living) systems", Bisbane, Australia
+* 2026.04.16 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_A Bioinformatics-Driven, Biostatistical Pathway Framework with Multimodal Machine Learning for Athlete Burnout Prediction on Physiological Signals_", Section: "Computational intelligence-based results of signal processing", Bisbane, Australia
 * 2026.01.31 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bayesian Biostatistical and Physiological Modeling for Optimal Triathlon Relay Team Assembly from Historical Results_", Stará Lesná, Slovakia
 * 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Sleep Efficiency Prediction with Machine Learning and Deep Neural Networks_", GUEST presenter, Stará Lesná, Slovakia
 * 2026.01.30 - IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026), Topic: "_Bioinformatics-Inspired Robust Smith–Waterman–Guided Lineup Optimization in Basketball Using HMM Surrogates, PWMs, and Cantelli-Bounded Genetic Algorithms_", Stará Lesná, Slovakia
@@ -59,6 +63,8 @@ Attended IEEE Conferences
 [[ CINTI 2025 ](https://conf.uni-obuda.hu/cinti2025/)]
 [[ SAMI 2026 ](https://conf.uni-obuda.hu/sami2026/)]
 [[ ICCC 2026 ](https://conf.uni-obuda.hu/iccc2026/)]
+[[ INES 2026 ](http://www.ines-conf.org/ines-conf/2026index.html)]
+[[ IFAC 2026 ](https://www.ifac2026.org/fairDash.do)]
 
 Workshops and Seminars
 ======
