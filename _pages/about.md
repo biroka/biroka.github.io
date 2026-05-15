@@ -38,8 +38,7 @@ Last Updates
 
 Affiliations
 ------
-* 2026.03... - <a target="_new" href="https://umfst.ro">⁠Postdoctoral Advanced Research Study Program of the G.E. Palade University of Medicine, Pharmacy, Science and
-Technology of Targu Mures (UMFST) </a>, [ #POSTDOC ], Romania
+* 2026.03... - <a target="_new" href="https://umfst.ro">⁠Postdoctoral Advanced Research Study Program of the UMFST GE Palade of Targu Mures (UMFST) </a>, [ #POSTDOC ], Romania
 * 2025.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures </a>, [ #ARTEMIS ], Romania
 * 2025.09... - <a target="_new" href="https://umfst.ro">Sapientia Hungarian University of Transylvania (EMTE)</a>, [ #CIRG ], Targu Mureș, Romania
 * 2025.08... - <a target="_new" href="https://aiamdi.uni-obuda.hu">Doctoral School of Applied Informatics and Applied Mathematics, Obuda University</a>, [ #AIAMDI #ODNEAI ], Budapest, Hungary 
