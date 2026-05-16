@@ -56,16 +56,11 @@ Academic Journal Section Editor
 
 Peer Reviewer Activity
 ------
-* PeerJ Computer Science
-* MDPI Applied Sciences
-* 12th IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025) 
-* IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-* JMIR Serious Games
-* Interdisciplinarity in Engineering (Inter-Eng)
+[ PeerJ Computer Science ] [ MDPI Applied Sciences ] [ IEEE International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC) ] [ IEEE International Conference on Systems, Man, and Cybernetics (SMC) ] [ JMIR Serious Games ] [ Interdisciplinarity in Engineering (Inter-Eng) ]
 
 Academic Profiles
 ------
-[ <a target="_blank" href="https://biroka.github.io/">About</a> ]
+[ <a target="_blank" href="https://biroka.github.io/">About</a> ] 
 [ <a target="_blank" href="https://orcid.org/0000-0002-0430-9932">ORCID</a> ]
 [ <a target="_blank" href="https://scholar.google.com/citations?user=E6aVwnEAAAAJ"> Google Scholar</a> ]
 [ <a target="_blank" href="https://www.researchgate.net/profile/Attila-Biro-2">ResearchGate</a> ]
