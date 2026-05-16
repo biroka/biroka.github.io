@@ -16,6 +16,8 @@ Upcoming Conferences
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
+* 2026.06.23 - Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar as Keynote Speaker, Organized by the Biomechanics MDPI, MDPI Branch Office, Tianjin
+* 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Topic: “Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction”, Malaga, Spain
   
 Conferences
 ======
