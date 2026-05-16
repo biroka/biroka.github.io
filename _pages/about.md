@@ -50,7 +50,7 @@ Affiliations
 
 Academic Journal Section Editor
 ------
-[ <a target="_new" href="https://www.mdpi.com/journal/sensors/special_issues/91G770641Y">MDPI Sensors</a> ] [ <a target="_new" href="https://link.springer.com/collections/eeifbjjega">BMC Sports Science Medicine and Rehabilitation</a> ] [ <a target="_new" href="https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42">MDPI Applied Sciences</a> ]
+[ <a target="_new" href="https://www.mdpi.com/journal/sensors/special_issues/91G770641Y">MDPI Sensors</a> ][ <a target="_new" href="https://link.springer.com/collections/eeifbjjega">BMC Sports Science Medicine and Rehabilitation</a> ][ <a target="_new" href="https://www.mdpi.com/journal/applsci/special_issues/5IQ6DOHB42">MDPI Applied Sciences</a> ]
 
 Peer Reviewer Activity
 ------
