@@ -79,11 +79,15 @@ author_profile: true
 
 * 2021.07.26, Coursera, [_English for Business and Entrepreneurship_](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_English%20for%20Business%20and%20Entrepreneurship_YUNJ46C7WACN.pdf) by University of Pennsylvania
   
-##  IEEE certificates
+##  IEEE certificates [ Member no. 99443018 ][ Region: R8 ][ Section: Hungary Section ]
+* IEEE Young Professionals [ Active ]
+* IEEE Membership [ Active ]
+* IEEE Systems, Man, and Cybernetics Society Membership [ Active ]
+* IEEE Biometrics Council [ Active ]
+* IEEE Council on RFID [ Active ]
+* IEEE IEEE Nanotechnology Council [ Active ]
+* IEEE Systems Council [ Active ]
 
-* 2024, IEEE, [_Student member, Hungary Section_](https://github.com/biroka/biroka/blob/main/Certificates/IEEE/2024_IEEE_AttilaBiro_Membership.PDF)
-* 2024, IEEE, [_Student member, Systems, Man and Cybernetics (SMC) Society_](https://github.com/biroka/biroka/blob/main/Certificates/IEEE/2024_IEEE_SMC-AttilaBiro_MEMSMC028.pdf)
-* 2024, IEEE, [_IEEE Membership_](https://github.com/biroka/biroka/blob/main/Certificates/IEEE/2024_IEEE_Student_Membership_MEMIEEE500.pdf)
 
 ##  LinkedIn Learning certificates
 
