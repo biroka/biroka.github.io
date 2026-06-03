@@ -15,7 +15,8 @@ author_profile: true
  * :lock: [[ **SAMI** ](https://conf.uni-obuda.hu/sami2027/) ] [ Plan ]
    
 ## 2026 IEEE Conferences [ NEXT-UP ]
-  * :hourglass: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [1-2 papers]: September, 2026 [ Status: On-Going Research ] 
+  * :hourglass: [[ **CIARP 2026** ](https://ciarp2026.ibero.mx/) ] [1 paper]: June 15, 2026 [ Status: On-Going Research ] 
+  * :hourglass: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [1 paper]: June 11, 2026 [ Status: Submitted ] 
   * :busts_in_silhouette: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [2 papers]: July 2-4, 2026, Budapest, Hungary [ Next-Up: Presentation ]
   * :busts_in_silhouette: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [2 papers]: August 23-28, 2026, Busan, Korea [ Next-Up: Presentation ]
 
