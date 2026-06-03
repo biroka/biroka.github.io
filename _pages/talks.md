@@ -18,8 +18,9 @@ Upcoming Conferences
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
 * 2026.06.23 - Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar as Keynote Speaker, Organized by the Biomechanics MDPI, MDPI Branch Office, Tianjin
 * 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Topic: “Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction”, Malaga, Spain
+
   
-Conferences
+IEEE Conferences
 ======
 * 2026.04.21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Risk-Aware Genetic Algorithms for Reliable Triathlon Relays: A Cantelli-Regularized Applied Mathematics Pipeline_", Satellite workshop nearby Uluru, Australia
 * 2026.04.16 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Bioinformatics-Guided NSGA-II Pathway-Sparse Optimization for Interpretable Neurodegenerative Risk Detection_", Section: "Biological (living) systems", Bisbane, Australia
@@ -34,10 +35,8 @@ Conferences
 * 2025.06.12 - IEEE 29th International Conference on Intelligent Engineering Systems 2025 (INES 2025), Topic: "_An Enhanced AI Pipeline for the Detection and Preliminary Diagnosis of Pneumonia and Pulmonary Malformations in Athletes with YOLOv11_", Palermo, Italy
 * 2025.04.10 - IEEE 12th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2025), Topic: "_Gamified AI-Driven Video Monitoring for Enhanced Rehabilitation in Performance Sports_", Seychelle Islands
 * 2024.10.10 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024), Topic: "_Enhanced Spatial-Temporal Analysis for EEG-Based Microsleep Detection: Integrating Kalman Filtering with Voronoi Tessellation and Adaptive Coverage Control_",  Kuching, Sarawak, Malaysia
-* 2024.10.16 - 2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology, segment: Motor-cognitive function and AI in aging, Topic: "_Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer_", Budapest, Hungary
 * 2024.05.24 - IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI 2024), Topic: "_Gamification, GenAI and Reinforcement Learning as Motivational Assets in Performance Sports_", Timisoara, Romania
-* 2024.04.19 - ProductWorld 2024, European Product Management Conference, Topic: "_Revolutionizing and Gamifying Business and Everyday Life with Artificial Intelligence_", Opatija, Croatia
-* 2024.02.07 - III Jornadas Doctorales en Ciencias de la Salud, Sesiones paralelas de exposiciones de doctorandos, Section: Investigación en Clinimetría y Fisioterapia, Topic: "_AI in preventive health: predictive models and disease detection methods in sports safety and performance sports_", Malaga, Spain
+predictive models and disease detection methods in sports safety and performance sports_", Malaga, Spain
 * 2024.01.26 - IEEE 22nd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2024), Topic: “_AI-controlled training method for performance hardening or injury recovery in sports_”, Stará Lesná, Slovakia
 * 2024.01.26 - IEEE 22nd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2024), Topic: “_Real-time artificial intelligence text analysis for identifying burnout syndromes in high-performance athletes_”, Stará Lesná, Slovakia
 * 2023.12.13 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_AI-SUPPORTED SPORTS SAFETY AND PREVENTIVE HEALTH SOLUTIONS IN PERFORMANCE SPORTS_", Targu Mures, Romania
@@ -45,6 +44,13 @@ Conferences
 * 2023.10.02 - IEEE International Conference on Systems, Man, and Cybernetics (SMC 2023), Topic: "_Real-Time Disease and COVID-19 Detection Pipeline from Voice for Performance Sports_",  Oahu, Hawaii, USA
 * 2023.09.22 - IEEE 21st International Symposium on Intelligent Systems and Informatics (SISY 2023), Topic: "_Applied AI for real-time detection of lesions and tumors following severe head injuries_",  Pula, Croatia
 * 2023.09.21 - IEEE 21st International Symposium on Intelligent Systems and Informatics (SISY 2023), Topic: "_Predictive sports strategy approach using YOLO and YOLO-NAS in performance sports_", Pula, Croatia
+
+
+Other Conferences
+======
+* 2024.10.16 - 2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology, segment: Motor-cognitive function and AI in aging, Topic: "_Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer_", Budapest, Hungary
+* 2024.04.19 - ProductWorld 2024, European Product Management Conference, Topic: "_Revolutionizing and Gamifying Business and Everyday Life with Artificial Intelligence_", Opatija, Croatia
+* 2024.02.07 - III Jornadas Doctorales en Ciencias de la Salud, Sesiones paralelas de exposiciones de doctorandos, Section: Investigación en Clinimetría y Fisioterapia, Topic: "_AI in preventive health: 
 * 2022.12.16 - II Jornadas Doctorales en Ciencias de la Salud, Programa de Doctorado en Ciencias de la Salud, Organized by The Academic Commission of Malaga University, Linea 3, Topic: ”_Applied ensemble learning methods and ML models to support multilingual, real-time distant diagnostics_”, Malaga, Spain
 * 2022.12.07 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_AI PROXY IN SPORTS SAFETY FOR MULTILINGUAL COLLABORATIVE VIDEODIAGNOSIS SOLUTIONS_", Targu Mures, Romania
 * 2022.05.11 - PREGA Konferencia, Adattudomány a gyakorlatban szekció, Topic: "_Az adat(r)evolúció és adatvirágzás kora: Digitális átállás/digitalizáció az Agráriumban_", Budapest, Hungary
