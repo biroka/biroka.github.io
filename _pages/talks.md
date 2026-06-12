@@ -77,6 +77,7 @@ Other Conferences
 
 Workshops and Seminars
 ======
+* 2026.05.28 - University of Malaga (UMA), Topic: _The Fundaments of a Bioinformatics Research and How to prepare a Multidisciplinary thesis_, Workshop for the Future Bioengineers
 * 2024.11.26 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), HPC Workshop és User Fórum 2024, HPC ECHO 2024 publikációi, Topic: "_Hibrid, szakmai nyelvre OCR_", AI Workshop
 * 2024.06.19 - MILAB, Topic: "_Machine vision and OCR in geo-distributed collaborations and sports_", AI Workshop 
 * 2023.10.24 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), Topic: "_HPC tapasztalatok első komplex nyelvi projekten_", AI Workshop
