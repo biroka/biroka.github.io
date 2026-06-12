@@ -12,7 +12,7 @@ Conference Calendar
 
 Upcoming Conferences
 ======
-* 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
+* 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence, by MDPI Biomechanics [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
