@@ -17,7 +17,7 @@ His motivation is to ensure the business development, software development as we
 
 Last Updates
 ======
-1. 🔥 2026.06.23 - Keynote Speaker at the Biomechanics Webinar | Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
+1. 🔥 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 2. 2026.05.10 - 2 research papers accepted to the conference 23rd IFAC World Congress to be organized in Busan, Republic of Korea on August 23-28, 2026.
 3. 2026.05.08 - 2 research papers accepted to the conference IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026) to be organized on July 2-4, 2026 in Budapest, Hungary, 2026.
 4. 2026.04.03 - _AI Literacy for All_ Certificate by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
