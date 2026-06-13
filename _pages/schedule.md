@@ -5,15 +5,25 @@ permalink: /schedule/
 author_profile: true
 ---
 
-## 2027 IEEE Conferences
- * :lock: [[ **CINTI** ](https://conf.uni-obuda.hu/cinti2027/) ] [ Plan ]
+## HQ Conferences
  * :lock: [[ **GECCO** ](http://gecco-2026.sigevo.org) ] [ Plan ]
  * :lock: [[ **MICCAI** ](https://conferences.miccai.org) ] [ Plan ]
- * :lock: [[ **INES** ](http://www.ines-conf.org/) ] [ Plan ]
- * :lock: [[ **ICCC** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
- * :lock: [[ **SACI** ](https://conf.uni-obuda.hu/saci2027/) ] [ Plan ]
- * :lock: [[ **SAMI** ](https://conf.uni-obuda.hu/sami2027/) ] [ Plan ]
+ * :lock: [[ **ICONIP** ](http://www.wikicfp.com/cfp/program?id=1438) ] [ Plan ]
+ * :lock: [[ **SMC** ](https://www.ieeesmc2027.org/home) ] [ Plan ]
+
+## 2028 IEEE Conferences
+ * :lock: [[ **SISY** ](https://conf.uni-obuda.hu/sisy2028) ] [ Plan ]
+ * :lock: [[ **INES** ](http://www.ines-conf.org/) ] [ Plan ] 
+ * :lock: [[ **RAAD** ](https://conf.uni-obuda.hu/raad2028) ] [ Plan ]
+ * :lock: [[ **ICCC** ](https://conf.uni-obuda.hu/iccc2028) ] [ Plan ]
+ * :lock: [[ **SAMI** ](https://conf.uni-obuda.hu/sami2028) ] [ Plan ]
    
+## 2027 IEEE Conferences
+ * :lock: [[ **CINTI** ](https://conf.uni-obuda.hu/cinti2027) ] [ Plan ]   
+ * :lock: [[ **INES** ](http://www.ines-conf.org/) ] [ Plan ] 
+ * :lock: [[ **SACI** ](https://conf.uni-obuda.hu/saci2027) ] [ Plan ]
+ * :lock: [[ **ICCC** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
+
 ## 2026 IEEE Conferences [ NEXT-UP ]
   * :hourglass: [[ **CIARP 2026** ](https://ciarp2026.ibero.mx/) ] [1 paper]: June 15, 2026 [ Status: On-Going Research ] 
   * :hourglass: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: June 11, 2026 [ Status: Submitted ] 
