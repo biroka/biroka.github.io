@@ -108,7 +108,6 @@ Social Profiles
 [ <a target="_blank" href="https://tiktok.com/@biroka">TikTok</a> ]
 [ <a target="_blank" href="https://www.threads.net/@b1r0/">Threads</a> ]
 [ <a target="_blank" href="https://www.reddit.com/user/B1R0K4">Reddit</a> ]
-[ <a target="_blank" href="https://www.coursera.org/learner/biroattila">Coursera</a> ]
 [ <a target="_blank" href="https://3pulse.com/AttilaBiro">3pulse</a> ]
 [ <a target="_blank" href="https://www.credly.com/users/biroattila">Credly</a> ]
 [ <a target="_blank" href="https://bsky.app/profile/biroka.bsky.social">Bluesky</a> ]
