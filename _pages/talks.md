@@ -12,13 +12,11 @@ Conference Calendar
 
 Upcoming Conferences
 ======
-* 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence, by MDPI Biomechanics [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
-* 2026.06.23 - Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar as Keynote Speaker, Organized by the Biomechanics MDPI, MDPI Branch Office, Tianjin
-* 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Topic: “Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction”, Malaga, Spain
+* 2026.06.23 - Keynote Speaker at the Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar, Organized by the MDPI Biomechanics, MDPI Branch Office, Tianjin [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 
   
 IEEE Conferences
@@ -77,7 +75,7 @@ Other Conferences
 
 Workshops and Seminars
 ======
-* 2026.05.28 - University of Malaga (UMA), Topic: _The Fundaments of a Bioinformatics Research and How to prepare a Multidisciplinary thesis_, Workshop for the Future Bioengineers
+* 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Workshop for the Future Bioengineers, Topic 1: “_Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction_”, Topic 2: "_The Fundaments of a Bioinformatics Research and How to prepare a Multidisciplinary thesis_",  University of Malaga (UMA), Malaga, Spain
 * 2024.11.26 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), HPC Workshop és User Fórum 2024, HPC ECHO 2024 publikációi, Topic: "_Hibrid, szakmai nyelvre OCR_", AI Workshop
 * 2024.06.19 - MILAB, Topic: "_Machine vision and OCR in geo-distributed collaborations and sports_", AI Workshop 
 * 2023.10.24 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), Topic: "_HPC tapasztalatok első komplex nyelvi projekten_", AI Workshop
