@@ -5,7 +5,6 @@ permalink: /certificates/
 author_profile: true
 ---
 
-* Certificates on <a href="https://www.coursera.org/learner/biroattila">Coursera</a> profile.
 * Badges on <a href="https://www.credly.com/users/biroattila">Credly</a> profile.
 
 ##  Research / (Applied) Mathematics Certificates
