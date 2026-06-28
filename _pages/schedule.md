@@ -11,18 +11,20 @@ author_profile: true
  * :lock: [[ **ICONIP** ](http://www.wikicfp.com/cfp/program?id=1438) ] [ Plan ]
  * :lock: [[ **SMC** ](https://www.ieeesmc2027.org/home) ] [ Plan ]
 
-## 2028 IEEE Conferences
- * :lock: [[ **SISY** ](https://conf.uni-obuda.hu/sisy2028) ] [ Plan ]
- * :lock: [[ **INES** ](http://www.ines-conf.org/) ] [ Plan ] 
- * :lock: [[ **RAAD** ](https://conf.uni-obuda.hu/raad2028) ] [ Plan ]
- * :lock: [[ **ICCC** ](https://conf.uni-obuda.hu/iccc2028) ] [ Plan ]
- * :lock: [[ **SAMI** ](https://conf.uni-obuda.hu/sami2028) ] [ Plan ]
+ ## 2028 IEEE Conferences
+ * :lock: [[ **SMC 2028** ](https://www.ieeesmc.org/conferences/calendar/) ] [ Plan ] [1-2 papers]: 2028, Rome, Italy
+ * :lock: [[ **SISY 2028** ](https://conf.uni-obuda.hu/sisy2028) ] [ Plan ]
+ * :lock: [[ **INES 2028** ](http://www.ines-conf.org/) ] [ Plan ]
+ * :lock: [[ **RAAD 2028** ](https://conf.uni-obuda.hu/raad2028) ] [ Plan ]
+ * :lock: [[ **ICCC 2028** ](https://conf.uni-obuda.hu/iccc2028) ] [ Plan ]
+ * :lock: [[ **SAMI 2028** ](https://conf.uni-obuda.hu/sami2028) ] [ Plan ] [1-2 papers]: January xx, 2028, Stará Lesná, Slovakia
    
 ## 2027 IEEE Conferences
- * :lock: [[ **CINTI** ](https://conf.uni-obuda.hu/cinti2027) ] [ Plan ]   
- * :lock: [[ **INES** ](http://www.ines-conf.org/) ] [ Plan ] 
- * :lock: [[ **SACI** ](https://conf.uni-obuda.hu/saci2027) ] [ Plan ]
- * :lock: [[ **ICCC** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
+ * :lock: [[ **CINTI 2027** ](https://conf.uni-obuda.hu/cinti2027) ] [ Plan ]
+ * :lock: [[ **SMC 2027** ](https://www.ieeesmc.org/conferences/calendar/) ] [ Plan ] [1-2 papers]: 2027, Ho Chi Minh City, Vietnam
+ * :lock: [[ **INES 2027** ](http://www.ines-conf.org/) ] [ Plan ] [1-2 papers]: September 22-24, 2027, Corfu, Greece
+ * :lock: [[ **SACI 2027** ](https://conf.uni-obuda.hu/saci2027) ] [ Plan ] [1-2 papers]: May 24-29, 2027, Timisoara, Romania
+ * :lock: [[ **ICCC 2027** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
 
 ## 2026 IEEE Conferences [ NEXT-UP ]
   * :hourglass: [[ **CIARP 2026** ](https://ciarp2026.ibero.mx/) ] [1 paper]: June 15, 2026 [ Status: On-Going Research ] 
