@@ -16,7 +16,6 @@ Upcoming Conferences
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
 * 2026.07.02-04 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
-* 2026.06.23 - Keynote Speaker at the Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar, Organized by the MDPI Biomechanics, MDPI Branch Office, Tianjin [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 
   
 IEEE Conferences
@@ -63,6 +62,7 @@ Attended IEEE Conferences
 
 Other Conferences
 ======
+* 2026.06.23 - Keynote Speaker at the Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar, Topic: "_From Data to Decisions in Human Performance_", Organized by the MDPI Biomechanics, MDPI Branch Office, Tianjin [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
 * 2024.10.16 - 2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology, segment: Motor-cognitive function and AI in aging, Topic: "_Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer_", Budapest, Hungary
 * 2024.04.19 - ProductWorld 2024, European Product Management Conference, Topic: "_Revolutionizing and Gamifying Business and Everyday Life with Artificial Intelligence_", Opatija, Croatia
 * 2024.02.07 - III Jornadas Doctorales en Ciencias de la Salud, Sesiones paralelas de exposiciones de doctorandos, Section: Investigación en Clinimetría y Fisioterapia, Topic: "_AI in preventive health: 
