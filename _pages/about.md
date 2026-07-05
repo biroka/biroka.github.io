@@ -108,6 +108,7 @@ Social Profiles
 [ <a target="_blank" href="https://discordapp.com/users/biroka">Discord</a> ]
 [ <a target="_blank" href="https://tiktok.com/@biroka">TikTok</a> ]
 [ <a target="_blank" href="https://www.threads.net/@b1r0/">Threads</a> ]
+[ <a target="_blank" href="https://community.pmi.org/profile/biroattila">PMI</a> ]
 [ <a target="_blank" href="https://www.reddit.com/user/B1R0K4">Reddit</a> ]
 [ <a target="_blank" href="https://3pulse.com/AttilaBiro">3pulse</a> ]
 [ <a target="_blank" href="https://www.credly.com/users/biroattila">Credly</a> ]
@@ -117,6 +118,9 @@ Social Profiles
 [ <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e6f385fa-6214-4daa-a63c-2647c72ffa43">Google Cloud Skills Boost</a> ]
 [ <a target="_blank" href="https://substack.com/@biroka">Substack</a> ]
 [ <a target="_blank" href="https://mitcio.com/members/34798389">MIT CIO Community</a> ]
+
+
+https://community.pmi.org/profile/biroattila
 
 Proposed tools, libs and tech
 ------
