@@ -27,16 +27,16 @@ author_profile: true
  * :lock: [[ **ICCC 2027** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
 
 ## 2026 IEEE Conferences [ NEXT-UP ]
-  * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: June 11, 2026 [ Next-Up: Presentation ] 
-  * :busts_in_silhouette: [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] [2 papers]: July 2-4, 2026, Budapest, Hungary [ Next-Up: Presentation ]
+  * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: September 23-25, 2026 | Pula, Croatia [ Next-Up: Presentation ] 
   * :busts_in_silhouette: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [2 papers]: August 23-28, 2026, Busan, Korea [ Next-Up: Presentation ]
 
-## 2026 IEEE Conferences [ 6 papers ]
+## 2026 IEEE Conferences [ 8 papers ]
 
 | # | Conference | Papers | Date | Location | IEEE Xplore |
 |---|------------|--------|------|----------|-------------|
-| :heavy_check_mark: | [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] |[3 papes]| April 16-21, 2026 | Brisbane / Uluru, Australia |[ [P1](https://ieeexplore.ieee.org/document/11511587), [P2](https://ieeexplore.ieee.org/document/11511613), [P3](https://ieeexplore.ieee.org/document/11511623) ] |
-| :heavy_check_mark: | [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] |[3 papes]| January 29-31, 2026 | Stará Lesná, Slovakia |[ [P1](https://ieeexplore.ieee.org/document/11420470), [P2](https://ieeexplore.ieee.org/document/11420354), [P3](https://ieeexplore.ieee.org/document/11420405) ] |
+| :heavy_check_mark: | [[ **INES 2026** ](http://www.ines-conf.org/ines-conf/2026index.html) ] |[2 papers]| July 2-4, 2026 | Budapest, Hungary |[ [P1](xxx), [P2](xxx) ] |
+| :heavy_check_mark: | [[ **ICCC 2026** ](https://conf.uni-obuda.hu/iccc2026/) ] |[3 papers]| April 16-21, 2026 | Brisbane / Uluru, Australia |[ [P1](https://ieeexplore.ieee.org/document/11511587), [P2](https://ieeexplore.ieee.org/document/11511613), [P3](https://ieeexplore.ieee.org/document/11511623) ] |
+| :heavy_check_mark: | [[ **SAMI 2026** ](https://conf.uni-obuda.hu/sami2026/) ] |[3 papers]| January 29-31, 2026 | Stará Lesná, Slovakia |[ [P1](https://ieeexplore.ieee.org/document/11420470), [P2](https://ieeexplore.ieee.org/document/11420354), [P3](https://ieeexplore.ieee.org/document/11420405) ] |
 
 
 ## 2025 IEEE Conferences [ 5 papers ]
