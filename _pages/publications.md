@@ -18,7 +18,9 @@ Publication References
  
 Pending Publications
 ======
---
+* **A. Biró**, A.A. Mir, L. Szilágyi, "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Computational Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
+* **A. Biró**, Gy. Kolumbán, L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026)Section: Artificial Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
+
 
 Journal Articles
 ======
