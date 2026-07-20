@@ -27,7 +27,7 @@ author_profile: true
  * :lock: [[ **ICCC 2027** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
 
 ## 2026 IEEE Conferences [ NEXT-UP ]
-  * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: September 23-25, 2026 | Pula, Croatia [ Next-Up: Presentation ] 
+  * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: September 23-25, 2026, Pula, Croatia [ Next-Up: Presentation ] 
   * :busts_in_silhouette: [[ **IFAC WC 2026** ](https://www.ifac2026.org/fairDash.do) ] [2 papers]: August 23-28, 2026, Busan, Korea [ Next-Up: Presentation ]
 
 ## 2026 IEEE Conferences [ 8 papers ]
