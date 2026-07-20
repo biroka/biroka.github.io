@@ -110,8 +110,6 @@ Social Profiles
 [ <a target="_blank" href="https://mitcio.com/members/34798389">MIT CIO Community</a> ]
 
 
-https://community.pmi.org/profile/biroattila
-
 Proposed tools, libs and tech
 ------
 [ <a target="_blank" href="https://www.latex-project.org/">LaTeX</a> ]
