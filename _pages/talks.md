@@ -11,6 +11,8 @@ Conference Calendar
 
 Upcoming Conferences
 ======
+* 2026.09.23-25 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Fuzzy Semantic Recovery for Multilingual OCR in Self-Healing Testing Pipelines_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
+* 2026.09.23-25 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Coverage-Controlled Dynamic Voronoi Analysis for Tactical Space Optimization and Lineup Evaluation in Team Sports_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
 * 2026.08.23-28 - 23rd International Federation of Automatic Control (IFAC) World Congress, Topic: "_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_", Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea
   
