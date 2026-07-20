@@ -84,6 +84,7 @@ Social Profiles
 ------
 
 [ <a target="_blank" href="https://www.linkedin.com/in/biroattila">LinkedIn</a> ]
+[ <a target="_blank" href="https://hu.wikipedia.org/wiki/Bir%C3%B3_Attila">Wikipedia HU</a> ]
 [ <a target="_blank" href="https://x.com/biroattila">X</a> ]
 [ <a target="_blank" href="https://www.instagram.com/b1r0">Instagram</a> ]
 [ <a target="_blank" href="https://github.com/biroka">Github</a> ]
@@ -108,6 +109,8 @@ Social Profiles
 [ <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e6f385fa-6214-4daa-a63c-2647c72ffa43">Google Cloud Skills Boost</a> ]
 [ <a target="_blank" href="https://substack.com/@biroka">Substack</a> ]
 [ <a target="_blank" href="https://mitcio.com/members/34798389">MIT CIO Community</a> ]
+
+
 
 
 Proposed tools, libs and tech
