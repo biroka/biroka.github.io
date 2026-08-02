@@ -36,6 +36,4 @@ author_profile: true
   * Pillar 2: [_Drug Utilization - Drivers and Consequences_](https://www.coursera.org/account/accomplishments/certificate/3ZO01NMMHMLL)
   * Pillar 3: [_Drug Effectiveness - Real-World Evidence_](https://www.coursera.org/account/accomplishments/certificate/UP45V5618KOE)
   * Pillar 4: [_Pillar #4: Drug Safety - Pharmacovigilance_](https://www.coursera.org/account/accomplishments/certificate/2919EOP3BBJL)
-* 2026.06.21, Coursera, [_Introduction to Healthcare_](https://www.coursera.org/account/accomplishments/verify/VVSDDMP88HUP) by Stanford University
 * 2026.06.14, Coursera, [_AI in Healthcare & Drug Discovery_](https://www.coursera.org/account/accomplishments/verify/OI1OO98RZOMX) by AI CERTs
-* 2026.06.13, Coursera, [_Biostatistics in Public Health_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University
