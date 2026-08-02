@@ -18,7 +18,6 @@ author_profile: true
   
 ##  Research / AI and Health Sciences Certificates
 
-* 2026.08.02, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University
 * 2026.08.02, Coursera, [_AI and Health: Future Perspectives and Transformations_](https://www.coursera.org/account/accomplishments/verify/V69I29NX9RE3) by Real Madrid Graduate School Universidad Europea
 * 2026.08.02, Coursera, [_Business Application of Machine Learning and Artificial Intelligence in Healthcare_](https://www.coursera.org/account/accomplishments/verify/PHJUB4BV7MDZ) by Northeastern University
 * 2026.07.31, Coursera, [_Drug Development and Pharmacoepidemiology_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University
