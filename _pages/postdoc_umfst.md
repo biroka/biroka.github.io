@@ -19,7 +19,7 @@ author_profile: true
 ***
 # Own Publications Pertaining to PostDoc
 ***
-1. 2026.07.2-4 [Conference][IEEE Publication Pending] - **A. Biró**, Gy. Kolumbán, and L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary, **2026**, Xplore IEEE.
+1. **A. Biró**, Gy. Kolumbán, L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Artificial Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
 
 ***
 # UEFISCI Submitted Grants
