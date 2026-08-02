@@ -24,8 +24,8 @@ author_profile: true
 ***
 # UEFISCI Submitted Grants
 ***
-* 2026.07.28 - **PN-IV-P2-2.1-PD-2026-1789** - **PHENIX: Biological State Modelling across Cellular Imaging, Biological Networks and Cell Therapy** (Call: PN-IV-P2-2.1-PD-2026, PNCDI IV - Programme 5.2 - Human Resources Subprogramme 5.2.1 _Start in Research Postdoctoral research projects_)
-* 2026.07.31 - **PN-IV-P1-PCE-2026-2379** - **Adaptive Clinical Intelligence for Personalized Medicine - DIAGNOSE** (Call: PN-IV-P1-PCE-2026, PNCDI IV - Programme 1 - _Ideas Exploratory Research Projects_)
+* 2026.07.28 - **PN-IV-P2-2.1-PD-2026-1789** - **PHENIX: Biological State Modelling across Cellular Imaging, Biological Networks and Cell Therapy**, Call: PN-IV-P2-2.1-PD-2026, PNCDI IV - Programme 5.2 - Human Resources Subprogramme 5.2.1 _Start in Research Postdoctoral research projects_.
+* 2026.07.31 - **PN-IV-P1-PCE-2026-2379** - **Adaptive Clinical Intelligence for Personalized Medicine - DIAGNOSE**, Call: PN-IV-P1-PCE-2026, PNCDI IV - Programme 1 - _Ideas Exploratory Research Projects_.
 
 ***
 # Certificates
