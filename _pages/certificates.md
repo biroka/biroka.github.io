@@ -52,9 +52,6 @@ author_profile: true
 ##  Leadership Coursera Certificates
 
 * 2026.06.14, Coursera, [_Strategic Management and Innovation_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/RXE8IFGQRDAD) by Copenhagen Business School
-* 2024.12.06, Coursera, [_Strategy Implementation_](https://www.coursera.org/account/accomplishments/verify/I5P6G0JAFWHB) by Copenhagen Business School
-* 2024.12.05, Coursera, [_Strategy Formulation_](https://www.coursera.org/account/accomplishments/verify/XASKHP7QR6B4) by Copenhagen Business School
-* 2024.12.04, Coursera, [_Strategic Management_](https://www.coursera.org/account/accomplishments/verify/C26Q2HUZRX1P) by Copenhagen Business School
 * 2024.07.28, Coursera, [_The Manager's Toolkit: A Practical Guide to Managing People at Work_](https://www.coursera.org/account/accomplishments/verify/X9STQ2AGC5NT) by University of London
 * 2024.07.25, Coursera, [_Principles of Management_](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Principles%20of%20Management_UX2LR7CMEGK5.pdf) by Johns Hopkins University
 * 2024.07.23, Coursera, [_The Science of Well-Being_](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_The%20Science%20of%20Well-Being_%20P4K3RMP9DPM5.pdf) by Yale University
