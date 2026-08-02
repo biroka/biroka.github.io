@@ -9,8 +9,6 @@ author_profile: true
 
 ##  Research / (Applied) Mathematics Certificates
 
-* 2026.08.02, Coursera, [_AI and Health: Future Perspectives and Transformations_](https://www.coursera.org/account/accomplishments/verify/V69I29NX9RE3) by Real Madrid Graduate School Universidad Europea
-* 2026.08.02, Coursera, [_Business Application of Machine Learning and Artificial Intelligence in Healthcare_](https://www.coursera.org/account/accomplishments/verify/PHJUB4BV7MDZ) by Northeastern University
 * 2026.06.13, Coursera, [_Biostatistics in Public Health_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University
 * 2025.11.17, AI Campus, [_Bevezetés a Mesterséges Intelligenciába_(Introduction to AI)](https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf) by Obuda University
 * 2025.10.11, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University 
@@ -21,6 +19,8 @@ author_profile: true
 ##  Research / AI and Health Sciences Certificates
 
 * 2026.08.02, Coursera, [_Advanced Statistics for Data Science_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University
+* 2026.08.02, Coursera, [_AI and Health: Future Perspectives and Transformations_](https://www.coursera.org/account/accomplishments/verify/V69I29NX9RE3) by Real Madrid Graduate School Universidad Europea
+* 2026.08.02, Coursera, [_Business Application of Machine Learning and Artificial Intelligence in Healthcare_](https://www.coursera.org/account/accomplishments/verify/PHJUB4BV7MDZ) by Northeastern University
 * 2026.07.31, Coursera, [_Drug Development and Pharmacoepidemiology_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University
 * 2026.07.28, Coursera, [_Theoretical Bases of Health and Injury Management_](https://www.coursera.org/account/accomplishments/verify/0412R86QKNDR) by Real Madrid Graduate School Universidad Europea
 * 2026.06.21, Coursera, [_Introduction to Healthcare_](https://www.coursera.org/account/accomplishments/verify/VVSDDMP88HUP) by Stanford University
