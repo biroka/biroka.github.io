@@ -39,4 +39,3 @@ author_profile: true
 * 2026.06.21, Coursera, [_Introduction to Healthcare_](https://www.coursera.org/account/accomplishments/verify/VVSDDMP88HUP) by Stanford University
 * 2026.06.14, Coursera, [_AI in Healthcare & Drug Discovery_](https://www.coursera.org/account/accomplishments/verify/OI1OO98RZOMX) by AI CERTs
 * 2026.06.13, Coursera, [_Biostatistics in Public Health_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University
-* 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
