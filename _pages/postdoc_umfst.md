@@ -19,9 +19,24 @@ author_profile: true
 ***
 # Own Publications Pertaining to PostDoc
 ***
-1. 2026.07.2-4 [C][Under Review] - **A. Biró**, Gy. Kolumbán, and L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary, **2026**, Xplore IEEE.
+1. 2026.07.2-4 [Conference][IEEE Publication Pending] - **A. Biró**, Gy. Kolumbán, and L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary, **2026**, Xplore IEEE.
+
+***
+# UEFISCI Submitted Grants
+***
+* 2026.07.28 - **PN-IV-P2-2.1-PD-2026-1789** - **PHENIX: Biological State Modelling across Cellular Imaging, Biological Networks and Cell Therapy** (Call: PN-IV-P2-2.1-PD-2026, PNCDI IV - Programme 5.2 - Human Resources Subprogramme 5.2.1 _Start in Research Postdoctoral research projects_)
+* 2026.07.31 - **PN-IV-P1-PCE-2026-2379** - **Adaptive Clinical Intelligence for Personalized Medicine - DIAGNOSE** (Call: PN-IV-P1-PCE-2026, PNCDI IV - Programme 1 - _Ideas Exploratory Research Projects_)
 
 ***
 # Certificates
 ***
+* 2026.08.02, Coursera, [_AI and Health: Future Perspectives and Transformations_](https://www.coursera.org/account/accomplishments/verify/V69I29NX9RE3) by Real Madrid Graduate School Universidad Europea
+* 2026.07.31, Coursera, [_Drug Development and Pharmacoepidemiology_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University
+  * Pillar 1: [_Drug Development - From Bench to Bedside_](https://www.coursera.org/account/accomplishments/certificate/CXG0288WQFS9)
+  * Pillar 2: [_Drug Utilization - Drivers and Consequences_](https://www.coursera.org/account/accomplishments/certificate/3ZO01NMMHMLL)
+  * Pillar 3: [_Drug Effectiveness - Real-World Evidence_](https://www.coursera.org/account/accomplishments/certificate/UP45V5618KOE)
+  * Pillar 4: [_Pillar #4: Drug Safety - Pharmacovigilance_](https://www.coursera.org/account/accomplishments/certificate/2919EOP3BBJL)
+* 2026.06.21, Coursera, [_Introduction to Healthcare_](https://www.coursera.org/account/accomplishments/verify/VVSDDMP88HUP) by Stanford University
+* 2026.06.14, Coursera, [_AI in Healthcare & Drug Discovery_](https://www.coursera.org/account/accomplishments/verify/OI1OO98RZOMX) by AI CERTs
+* 2026.06.13, Coursera, [_Biostatistics in Public Health_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University
 * 2026.04.03 - "_AI Literacy for All_", by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
