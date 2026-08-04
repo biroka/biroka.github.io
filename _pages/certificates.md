@@ -133,9 +133,9 @@ author_profile: true
 
 ##  Honors and Awards
 
-* _**Best Student Paper Award**_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Issued by the IEEE Hungary Section, Obuda University, Budapest, Hungary, **2025**
-* _**1st price award for the best indexed ISI article published in the academic year 2022/ 2023_**, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2023**
-* _**1st price award for the best indexed ISI article published in the academic year 2021/ 2022**_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2022**
+* **_Best Student Paper Award_**, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Issued by the IEEE Hungary Section, Obuda University, Budapest, Hungary, **2025**
+* **_1st price award for the best indexed ISI article published in the academic year 2022/ 2023_**, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2023**
+* **_1st price award for the best indexed ISI article published in the academic year 2021/ 2022_**, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2022**
 
 ##  Japan
 
