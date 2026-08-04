@@ -9,9 +9,9 @@ author_profile: true
 
 ##  Research / (Applied) Mathematics Certificates
 
-* [_**Biostatistics in Public Health**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
-* [_**Bevezetés a Mesterséges Intelligenciába**_(Introduction to AI)](https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf) by Obuda University, **2025**, AI Campus
-* [_**Advanced Statistics for Data Science**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera
+* [_**Biostatistics in Public Health** -_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
+* [_**Bevezetés a Mesterséges Intelligenciába**_- (Introduction to AI)](https://github.com/biroka/PhD/blob/main/certificates/OE_AI_bevezetes_Oklevel_BiroAttila_20251117.pdf) by Obuda University, **2025**, AI Campus
+* [_**Advanced Statistics for Data Science** - (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera
 * [_**Foundational Mathematics for AI**_](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1) by Johns Hopkins University, **2025**, Coursera 
 * [_**Basic Statistics**_](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM) by University of Amsterdam, **2022**, Coursera 
 * [_**Data Science Math Skills**_](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ) by Duke University, **2021**, Coursera
@@ -20,12 +20,12 @@ author_profile: true
 
 * [_**AI and Health: Future Perspectives and Transformations**_](https://www.coursera.org/account/accomplishments/verify/V69I29NX9RE3) by Real Madrid Graduate School Universidad Europea, **2026**, Coursera 
 * [_**Business Application of Machine Learning and Artificial Intelligence in Healthcare**_](https://www.coursera.org/account/accomplishments/verify/PHJUB4BV7MDZ) by Northeastern University, **2026**, Coursera 
-* [_**Drug Development and Pharmacoepidemiology**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University, **2026**, Coursera
+* [_**Drug Development and Pharmacoepidemiology**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University, **2026**, Coursera
 * [_**Theoretical Bases of Health and Injury Management**_](https://www.coursera.org/account/accomplishments/verify/0412R86QKNDR) by Real Madrid Graduate School Universidad Europea, **2026**, Coursera
 * [_**Introduction to Healthcare**_](https://www.coursera.org/account/accomplishments/verify/VVSDDMP88HUP) by Stanford University, **2026**, Coursera
 * [_**AI in Healthcare & Drug Discovery**_](https://www.coursera.org/account/accomplishments/verify/OI1OO98RZOMX) by AI CERTs, **2026**, Coursera
-* [_**Biostatistics in Public Health**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
-* [_**Advanced Statistics for Data Science**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera 
+* [_**Biostatistics in Public Health**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
+* [_**Advanced Statistics for Data Science**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera 
 * [_**Data Science Methodology**_](https://www.coursera.org/account/accomplishments/verify/JZO61ZFI148J) by IBM, **2025**, Coursera
 * [_**Being a researcher (in Information Science and Technology)**_](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A) by Politecnico di Milano, **2024**, Coursera
 * [_**Ethics, Technology and Engineering**_](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ) by Eindhoven University of Technology, **2024**, Coursera 
@@ -38,7 +38,7 @@ author_profile: true
 * [_**Case Studies in Personalized Medicine**_](https://www.coursera.org/account/accomplishments/verify/SN2X64SS6CRN) by University of Virginia, **2023**, Coursera
 * [_**Digital Transformation**_](https://www.coursera.org/account/accomplishments/verify/5VEFEF8Y5MQU) by Vanderbilt University, **2022**, Coursera 
 * [_**Qualitative Research Methods**_](https://www.coursera.org/account/accomplishments/verify/7V8M7J6J3TRR) by University of Amsterdam, **2022**, Coursera 
-* [_**AI Foundations for Everyone** (Specialization Certificate)_](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM, **2022**, Coursera 
+* [_**AI Foundations for Everyone** - (Specialization Certificate)_](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM, **2022**, Coursera 
 * [_**Data Science Math Skills**_](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ) by Duke University, **2021**, Coursera
 * [_**COVID-19 Contact Tracing**_](https://www.coursera.org/account/accomplishments/verify/BHHLUTZEDFMP) by Johns Hopkins University, **2022**, Coursera 
 * [_**Design Thinking for Innovation**_](https://www.coursera.org/account/accomplishments/verify/D2D4NEZ994AS) by University of Virginia, **2022**, Coursera 
@@ -81,35 +81,35 @@ author_profile: true
   
 ##  Specialization Certificates
 
-* [_**AI Foundations for Everyone**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/BB0O03W82O35) by IBM, **2026**, Coursera
+* [_**AI Foundations for Everyone**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/BB0O03W82O35) by IBM, **2026**, Coursera
   * Course 1: [_**Introduction to Artificial Intelligence (AI)**_](https://www.coursera.org/account/accomplishments/certificate/LZSBUEWKS5C8)
   * Course 2: [_**Generative AI: Introduction and Applications**_](https://www.coursera.org/account/accomplishments/certificate/UEB3H0HCXAUY)
   * Course 3: [_**Generative AI: Prompt Engineering Basics**_](https://www.coursera.org/account/accomplishments/certificate/E1IQL9O2F99A)
   * Course 4: [_**Building AI Powered Chatbots Without Programming**_](https://www.coursera.org/account/accomplishments/certificate/QLP3KLPS9A4N)
-* [_**Drug Development and Pharmacoepidemiology**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University, **2026**, Coursera
+* [_**Drug Development and Pharmacoepidemiology**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/DCB7GEYQTLO8) by Johns Hopkins University, **2026**, Coursera
   * Pillar 1: [_**Drug Development - From Bench to Bedside**_](https://www.coursera.org/account/accomplishments/certificate/CXG0288WQFS9)
   * Pillar 2: [_**Drug Utilization - Drivers and Consequences**_](https://www.coursera.org/account/accomplishments/certificate/3ZO01NMMHMLL)
   * Pillar 3: [_**Drug Effectiveness - Real-World Evidence**_](https://www.coursera.org/account/accomplishments/certificate/UP45V5618KOE)
   * Pillar 4: [_**Pillar #4: Drug Safety - Pharmacovigilance**_](https://www.coursera.org/account/accomplishments/certificate/2919EOP3BBJL)
-* [_**Strategic Management and Innovation**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/RXE8IFGQRDAD) by Copenhagen Business School, **2026**, Coursera
+* [_**Strategic Management and Innovation**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/RXE8IFGQRDAD) by Copenhagen Business School, **2026**, Coursera
   * Course 1: [_**Strategic Management (AI)**_](https://www.coursera.org/account/accomplishments/certificate/C26Q2HUZRX1P)
   * Course 2: [_**Strategy Formulation**_](https://www.coursera.org/account/accomplishments/certificate/XASKHP7QR6B4)
   * Course 3: [_**Strategy Implementation**_](https://www.coursera.org/account/accomplishments/certificate/I5P6G0JAFWHB)
   * Course 4: [_**Strategic Management - Capstone Project**_](https://www.coursera.org/account/accomplishments/certificate/0A19HESB2ECQ)
-* [_**Biostatistics in Public Health**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
+* [_**Biostatistics in Public Health**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/LL77NS0PXHNW) by Johns Hopkins University, **2026**, Coursera
   * Course 1: [_**Summary Statistics in Public Health**_](https://www.coursera.org/account/accomplishments/certificate/RDBMPFLL3J1Q)
   * Course 2: [_**Hypothesis Testing in Public Health**_](https://www.coursera.org/account/accomplishments/certificate/30Y6DV3UP0KB)
   * Course 3: [_**Simple Regression Analysis in Public Health**_](https://www.coursera.org/account/accomplishments/certificate/C26Q2HUZRX1P)
   * Course 4: [_**Multiple Regression Analysis in Public Health**_](https://www.coursera.org/account/accomplishments/certificate/TQUB9HC68142)
-* [_**Advanced Statistics for Data Science**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera
+* [_**Advanced Statistics for Data Science**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE) by Johns Hopkins University, **2025**, Coursera
   * Course 1: [_**Mathematical Biostatistics Boot Camp 1**_](https://www.coursera.org/account/accomplishments/certificate/WGUB8REGL1Y0)
   * Course 2: [_**Mathematical Biostatistics Boot Camp 2**_](https://www.coursera.org/account/accomplishments/certificate/A5G69FRR31SM)
   * Course 3: [_**Advanced Linear Models for Data Science 1: Least Squares**_](https://www.coursera.org/account/accomplishments/certificate/PKODJEMM5JYH)
   * Course 4: [_**Advanced Linear Models for Data Science 2: Statistical Linear Models**_](https://www.coursera.org/account/accomplishments/certificate/SZWR6JCTKR9L)
-* [_**Cybersecurity Leadership and Management**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG) by Infosec, **2024**, Coursera
-* [_**Security Analyst Fundamentals**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV) by IBM, **2022**, Coursera 
-* [_**AI Foundations for Everyone**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM, **2022**, Coursera 
-* [_**Leading the Modern Day Business**_(Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ) by University of Virginia, **2022**, Coursera
+* [_**Cybersecurity Leadership and Management**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/V4MH8UO5ZXKG) by Infosec, **2024**, Coursera
+* [_**Security Analyst Fundamentals**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/7JMLVZ7LY5NV) by IBM, **2022**, Coursera 
+* [_**AI Foundations for Everyone**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/2Q9XZ6EEUVNR) by IBM, **2022**, Coursera 
+* [_**Leading the Modern Day Business**_- (Specialization Certificate)](https://www.coursera.org/account/accomplishments/specialization/KSYHMFRAL5SZ) by University of Virginia, **2022**, Coursera
   
 ##  Language Certificates
 
@@ -133,10 +133,10 @@ author_profile: true
 
 ##  Honors and Awards
 
-* _Best Student Paper Award_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Issued by the IEEE Hungary Section, Obuda University, Budapest, Hungary, **2025**
-* _1st price award for the best indexed ISI article published in the academic year 2022/ 2023_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2023**
-* _1st price award for the best indexed ISI article published in the academic year 2021/ 2022_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2022**
+* _**Best Student Paper Award**_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025), Issued by the IEEE Hungary Section, Obuda University, Budapest, Hungary, **2025**
+* _**1st price award for the best indexed ISI article published in the academic year 2022/ 2023_**, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2023**
+* _**1st price award for the best indexed ISI article published in the academic year 2021/ 2022**_, INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Issued by the George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures, Romania, **2022**
 
 ##  Japan
 
-* Human Resources Training Programme (HRTP), Credential ID: 2016-52-H-661, Issued by EU-Japan Centre for Industrial Cooperation, Tokyo, Japan, **2016**
+* **Human Resources Training Programme** (HRTP), Credential ID: 2016-52-H-661, Issued by EU-Japan Centre for Industrial Cooperation, Tokyo, Japan, **2016**
