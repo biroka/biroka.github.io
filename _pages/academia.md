@@ -6,11 +6,22 @@ author_profile: true
 ---
 
 ***
+# Research Groups
+***
+1. <a target="_new" href="https://physcon.uni-obuda.hu/en/our-team">Physiological Controls Research Center</a> (PHYSCON), Budapest, Hungary
+2. <a target="_new" href="http://clinimetria.es/equipo">Grupo de Investigation Clinimetria</a> (PAIDI CTS-631), Malaga, Spain
+3. <a target="_new" href="https://ibima.eu/en/project/f-14/">Grupo de Investigation Clinimetria</a> (IBIMA F-14), Malaga, Spain
+4. <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Computational Intelligence Research Group</a> (CIRG), Targu Mures, Romania
+5. <a target="_new" href="https://artemis.umfst.ro/team/">ARTEMIS Research Center</a>, Targu Mures, Romania
+6. <a target="_new" href="https://www.itware.hu">AI4TEST Research Group</a>, Budapest, Hungary
+
+***
 # Research Projects
 ***
-* **Medication Digital Twin (MDT)** - postdoctoral scientific research project (in progress)
-* **AI4TEST** - Self-healing supported test automation with AI (in progress)
-* **HORIZON 2020 iGAME RISE** - Multidimensional Support Framework for Gamified Digital Health
+* 2026.04-... **AI4TEST** - Self-healing supported test automation with AI
+* 2026.03-... **Medication Digital Twin (MDT)** - postdoctoral scientific research project
+* 2024.04-... **Consolidator Excellence Researcher Program** of Obuda University
+* 2019-2024 **HORIZON 2020 iGAME RISE** - Multidimensional Support Framework for Gamified Digital Health
 
 ***
 # Research Focus & Scientific Agenda
