@@ -26,11 +26,10 @@ author_profile: true
 ***
 # Research Focus & Scientific Agenda
 ***
-* Medication & Medical Digital Twin
-* Risk-aware evolutionary optimization
-* Bioinformatics-inspired AI modeling
-* Applied AI in performance sports
-* Digital health & neurodegenerative risk modeling
+* PostDoc - Medication & Medical Digital Twin - Romania
+* PhD - Applied AI in performance sports - Hungary, Japan, Spain
+* Research - Bioinformatics-inspired AI modeling - Romania
+* Research - Digital health & neurodegenerative risk modeling - Hungary, Japan, Spain, Romania
 * <a target="_new" href="https://biroka.github.io/schedule/">Detailed Scientific Agenda</a>
 
 ***
