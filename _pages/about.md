@@ -32,7 +32,7 @@ Affiliations
 ------
 * 2026.03... - <a target="_new" href="https://umfst.ro">⁠Postdoctoral Advanced Research Study Program of the UMFST GE Palade of Targu Mures (UMFST) </a>, [ #POSTDOC ], Romania
 * 2025.09... - <a target="_new" href="https://umfst.ro">⁠Department of Electrical Engineering and Information Technology, GE Palade UMFST of Targu Mures </a>, [ #ARTEMIS ], Romania
-* 2025.09... - <a target="_new" href="https://umfst.ro">Sapientia Hungarian University of Transylvania (EMTE)</a>, [ #CIRG ], Targu Mureș, Romania
+* 2025.09... - <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Sapientia Hungarian University of Transylvania (EMTE)</a>, [ #CIRG ], Targu Mureș, Romania
 * 2025.08... - <a target="_new" href="https://aiamdi.uni-obuda.hu">Doctoral School of Applied Informatics and Applied Mathematics, Obuda University</a>, [ #AIAMDI #ODNEAI ], Budapest, Hungary 
 * 2024.04... - <a target="_new" href="https://ekik.uni-obuda.hu">Physiological Controls Research Center, Obuda University</a>, [ #EKIK #PHYSCON ], Budapest, Hungary 
 * 2021.02... - <a target="_new" href="https://www.uma.es">Grupo de Clinimetria (FE-14), Faculty of Health Sciences, University of Malaga (UMA)</a>,[ #UMA #CLINIMETRIA ], Málaga, Spain
