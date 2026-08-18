@@ -19,7 +19,7 @@ Last Updates
 ======
 1. 2026.07.03 - Session chair of "Session on Web Engineering, Man-Machine Systems and CAD/CAM/CAE Systems" Session at the IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
 2. 2026.07.01 - _Profesor Colaborador Honorario Dpto. de Fisioterapia_, Universidad de Málaga (UMA)
-3. 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
+3. 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1">Webinar</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/program-overview">Program</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/speakers">Speakers</a>]
 4. 2026.05.10 - 2 research papers accepted to the conference 23rd IFAC World Congress to be organized in Busan, Republic of Korea on August 23-28, 2026.
 5. 2026.05.08 - 2 research papers accepted to the conference IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026) to be organized on July 2-4, 2026 in Budapest, Hungary, 2026.
 6. 2026.04.03 - _AI Literacy for All_ Certificate by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
