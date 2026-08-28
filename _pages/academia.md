@@ -56,23 +56,13 @@ author_profile: true
 *** 
 # Teaching activities
 ***
-### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
-* Location: Marosvásárhely (Targu Mures), Romania
-* Department of Electrical Engineering and Information Technology (DIETI)
-* Course: _Advanced Topics in Artificial Intelligence_
-* Period: Next Up
 
-### <a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE] 
-* Location: Marosvásárhely (Targu Mures), Romania
-* Department of Mathematics and Computer Science (MIT)
-* Course: _Bioinformatics Algorithms_
-* Period: 2025/2026 (Semester I)
-
-### <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST] 
-* Location: Marosvásárhely (Targu Mures), Romania
-* Department of Electrical Engineering and Information Technology (DIETI)
-* Course: _Web Application Development_
-* Period: 2025/2026 (Semester I)
+| Period    | University     | Location                             | Course                                          | Level |
+|-----------|----------------|--------------------------------------|-------------------------------------------------| ------|
+| 2026/2027 (Semester I) | <a target="_new" href="https://uni-obuda.hu/">Obuda University </a>, John von Neumann Faculty of Informatics | Budapest, Hungary | _Introduction to blockchain programming_ | MSc |
+| Next Up | <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST], Department of Electrical Engineering and Information Technology (DIETI)  | Marosvásárhely (Targu Mures), Romania | _Web Application Development_ | MSc |
+| 2025/2026 (Semester I) |<a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE], Department of Mathematics and Computer Science (MIT)   | Marosvásárhely (Targu Mures), Romania | _Bioinformatics Algorithms_ | MSc |
+| 2025/2026 (Semester I) | <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST], Department of Electrical Engineering and Information Technology (DIETI)  | Marosvásárhely (Targu Mures), Romania | _Advanced Topics in Artificial Intelligence_ | MSc |
 
 *** 
 # Education
