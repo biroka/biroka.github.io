@@ -62,23 +62,25 @@ Attended IEEE Conferences
 [[ INES 2026 ](http://www.ines-conf.org/ines-conf/2026index.html)]
 [[ IFAC 2026 ](https://www.ifac2026.org/fairDash.do)]
 
-
-Other Conferences
+BioTech / SportsTech Conferences
 ======
 * 2026.06.23 - Keynote Speaker at the Biomechanics in Sport and Ageing: Artificial Intelligence - Webinar, Topic: "_From Data to Decisions in Human Performance_", Organized by the MDPI Biomechanics, MDPI Branch Office, Tianjin [<a target="_new" href="https://sciforum.net/event/Biomechanics-1?subscribe&section=#welcomef">Online</a>]
+* 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Workshop for the Future Bioengineers, Topic 1: “_Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction_”, Topic 2: "_The Fundaments of a Bioinformatics Research and How to prepare a Multidisciplinary thesis_",  University of Malaga (UMA), Malaga, Spain
 * 2024.10.16 - 2nd Scientific Symposium Biomechanics in Sport and Ageing: Artificial Intelligence, Organized by the Hungarian University of Sports Science and Department of Kinesiology, segment: Motor-cognitive function and AI in aging, Topic: "_Machine learning on prediction of relative physical activity intensity using medical radar sensor and 3D accelerometer_", Budapest, Hungary
-* 2024.04.19 - ProductWorld 2024, European Product Management Conference, Topic: "_Revolutionizing and Gamifying Business and Everyday Life with Artificial Intelligence_", Opatija, Croatia
 * 2024.02.07 - III Jornadas Doctorales en Ciencias de la Salud, Sesiones paralelas de exposiciones de doctorandos, Section: Investigación en Clinimetría y Fisioterapia, Topic: "_AI in preventive health: 
 * 2022.12.16 - II Jornadas Doctorales en Ciencias de la Salud, Programa de Doctorado en Ciencias de la Salud, Organized by The Academic Commission of Malaga University, Linea 3, Topic: ”_Applied ensemble learning methods and ML models to support multilingual, real-time distant diagnostics_”, Malaga, Spain
 * 2022.12.07 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_AI PROXY IN SPORTS SAFETY FOR MULTILINGUAL COLLABORATIVE VIDEODIAGNOSIS SOLUTIONS_", Targu Mures, Romania
-* 2022.05.11 - PREGA Konferencia, Adattudomány a gyakorlatban szekció, Topic: "_Az adat(r)evolúció és adatvirágzás kora: Digitális átállás/digitalizáció az Agráriumban_", Budapest, Hungary
 * 2022.02.18 - Divulgando a Pacientes - VIII Jornadas de Transferencia Grupo de Investigacion Clinimetrıa”, Topic: "_Real-time multilingual collaborative tools and applied artificial intelligence in remote diagnosis_”, Clinimetria F-14 (IBIMA) and CTS-631 (PAIDI) research groups. Organizer: Faculty of Health Sciences, University of Malaga. This event was part of the "VIII Conference of the Clinimetrics Research Group" on the transfer of health knowledge worked within the group to patients in a clear and familiar language. Focus: balance between innovation and dissemination, Malaga, Spain
 * 2021.12.09 - INTERNATIONAL CONFERENCE OF PHD STUDENTS AND YOUNG DOCTORS, Topic: "_APPLIED ENSEMBLE LEARNING METHODS AND ML MODELS TO SUPPORT MULTILINGUAL, REALTIME DISTANT DIAGNOSTICS_", Targu Mures, Romania
+
+Other Conferences
+======
+* 2024.04.19 - ProductWorld 2024, European Product Management Conference, Topic: "_Revolutionizing and Gamifying Business and Everyday Life with Artificial Intelligence_", Opatija, Croatia
+* 2022.05.11 - PREGA Konferencia, Adattudomány a gyakorlatban szekció, Topic: "_Az adat(r)evolúció és adatvirágzás kora: Digitális átállás/digitalizáció az Agráriumban_", Budapest, Hungary
 * 2019.04.02 - SMART Konferencia, Topic: "_AI boosted development_", Budapest, Hungary
 
 Workshops and Seminars
 ======
-* 2026.05.28 15:30-17:15 - Jornadas Doctorales en Ciencias de la Salud, Section: Investigación en Clinimetría y Fisioterapia, Workshop for the Future Bioengineers, Topic 1: “_Advanced distant diagnostics techniques and sensors in sports safety and health condition prediction_”, Topic 2: "_The Fundaments of a Bioinformatics Research and How to prepare a Multidisciplinary thesis_",  University of Malaga (UMA), Malaga, Spain
 * 2024.11.26 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), HPC Workshop és User Fórum 2024, HPC ECHO 2024 publikációi, Topic: "_Hibrid, szakmai nyelvre OCR_", AI Workshop
 * 2024.06.19 - MILAB, Topic: "_Machine vision and OCR in geo-distributed collaborations and sports_", AI Workshop 
 * 2023.10.24 - Kormányzati Informatikai Fejlesztési Ügynökség (KIFÜ), Topic: "_HPC tapasztalatok első komplex nyelvi projekten_", AI Workshop
