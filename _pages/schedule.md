@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: true
 ---
 
-## HQ Conferences
+## HQ Scientific Conferences
  * :lock: [[ **GECCO** ](http://gecco-2026.sigevo.org) ] [ Plan ]
  * :lock: [[ **MICCAI** ](https://conferences.miccai.org) ] [ Plan ]
  * :lock: [[ **ICONIP** ](http://www.wikicfp.com/cfp/program?id=1438) ] [ Plan ]
@@ -27,9 +27,9 @@ author_profile: true
  * :lock: [[ **ICCC 2027** ](https://conf.uni-obuda.hu/iccc2027) ] [ Plan ]
 
 ## 2026 IEEE Conferences [ NEXT-UP ]
-  * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: September 23-25, 2026, Pula, Croatia [ Next-Up: Presentation ] 
+ * :busts_in_silhouette: [[ **SISY 2026** ](https://conf.uni-obuda.hu/sisy2026/) ] [2 papers]: September 23-25, 2026, Pula, Croatia [ Next-Up: Presentation ] 
 
-## 2026 IEEE Conferences [ 10 papers ]
+## 2026 IEEE and Scientific Conferences [ 10 papers ]
 
 | # | Conference | Papers | Date | Location | IEEE Xplore |
 |---|------------|--------|------|----------|-------------|
