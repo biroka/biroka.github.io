@@ -18,8 +18,8 @@ Publication References
  
 Pending Publications
 ======
-* **A. Biró**, A.A. Mir, L. Szilágyi, "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Computational Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
-* **A. Biró**, Gy. Kolumbán, L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Artificial Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
+* **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_”, 23rd International Federation of Automatic Control (IFAC) World Congress, Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
+* J. Palatka, L. Dénes-Fazakas, **A. Biró**, L. Kovács, L. Szilágyi, “_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_”, 23rd International Federation of Automatic Control (IFAC) World Congress, Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
 
 
 Journal Articles
