@@ -76,16 +76,24 @@ author_profile: true
 ***
 # Teaching Activities
 ***
-* 2025-2026 Semester I: _Sapientia EMTE Faculty of Târgu Mureș_ (Romania), Department of Mathematics and Computer Science (MIT), Course: "_Bioinformatics Algorithms_", Language of instruction: Hungarian, Teaching role:
+* 2026-2027 Semester I: _Obuda University_ (Hungary), Department of Mathematics and Computer Science (MIT), Course: "_Introduction to Blockchain Programming_", Language of instruction: English, Teaching: Course and Lab
+* 2026-2027 Semester I: _Sapientia EMTE Faculty of Târgu Mureș_ (Romania), Department of Mathematics and Computer Science (MIT), Course: "_Bioinformatics Algorithms_", Language of instruction: Hungarian
+Lab, Number of hours taught: 3 lab sessions per week for 14 weeks (42 hours total).
+* 2026-2027 Semester I: _UMFST GE Palade Târgu Mureș_ (Romania), Department of Electrical Engineering and Computer Science (DIETI), Course: "_Web Application Development_", Language of instruction: Hungarian, Teaching role: Course, Number of hours taught: 4 sessions per week for 9 weeks (36 hours total).
+* 2025-2026 Semester I: _Sapientia EMTE Faculty of Târgu Mureș_ (Romania), Department of Mathematics and Computer Science (MIT), Course: "_Bioinformatics Algorithms_", Language of instruction: Hungarian
 Lab, Number of hours taught: 3 lab sessions per week for 14 weeks (42 hours total).
 * 2025-2026 Semester I: _UMFST GE Palade Târgu Mureș_ (Romania), Department of Electrical Engineering and Computer Science (DIETI), Course: "_Web Application Development_", Language of instruction: Hungarian, Teaching role: Course, Number of hours taught: 4 sessions per week for 9 weeks (36 hours total).
 
 ***
-# Other Activities
+# Session Chair
 ***
+* 2026.09.24 - _Session Chair_, IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Section: "_Session on Computational Intelligence_", Pula, Croatia [<a target="_new" href="https://conf.uni-obuda.hu/sisy2026/SISY%202026%20-%20Preliminary%20Program.pdf">Program</a>].
 * 2026.07.03 - _Session Chair_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: "_Session on Web Engineering, Man-Machine Systems and CAD/CAM/CAE Systems_", Budapest, Hungary [<a target="_new" href="http://www.ines-conf.org/ines-conf/INES2026_technical-program.pdf">Program</a>].
-* 2026.04.23 - _Peer Reviewer_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
-* 2026.04.16 - _Session Chair_, IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Biological (living) systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>].
-* 2026.01.26 - _Peer Reviewer_, IEEE Hungary Section, IEEE Student Paper Contest 2025/26.
+* 2026.04.16 - _Session Chair_, IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Section: "_Session on Computer science, Economical Systems, and Biological (living) Systems_", Bisbane, Australia [<a target="_new" href="https://conf.uni-obuda.hu/iccc2026/ICCC2026PreliminaryProgram.pdf">Program</a>].
 * 2025.12.29 - _Session Chair_, IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI), Section: "_[W1d] Session on Applications IV_", Budapest, Hungary [<a target="_new" href="https://conf.uni-obuda.hu/cinti2025/CINTI2025PreliminaryProgram.pdf">Program</a>].
 
+***
+# Peer Reviewer
+***
+* 2026.04.23 - _Peer Reviewer_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
+* 2026.01.26 - _Peer Reviewer_, IEEE Hungary Section, IEEE Student Paper Contest 2025/26.
