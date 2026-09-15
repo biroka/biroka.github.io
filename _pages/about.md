@@ -17,15 +17,20 @@ His motivation is to ensure the business development, software development as we
 
 Last Updates
 ======
-1. 2026.07.03 - Session chair of "Session on Web Engineering, Man-Machine Systems and CAD/CAM/CAE Systems" Session at the IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
-2. 2026.07.01 - _Profesor Colaborador Honorario Dpto. de Fisioterapia_, Universidad de Málaga (UMA)
-3. 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1">Webinar</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/program-overview">Program</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/speakers">Speakers</a>]
-4. 2026.05.10 - 2 research papers accepted to the conference 23rd IFAC World Congress to be organized in Busan, Republic of Korea on August 23-28, 2026.
-5. 2026.05.08 - 2 research papers accepted to the conference IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026) to be organized on July 2-4, 2026 in Budapest, Hungary, 2026.
-6. 2026.04.03 - _AI Literacy for All_ Certificate by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
-7. 2026.03.01 - Postdoctoral researcher contract (Position: "EN: Advanced technologies and artificial intelligence in healthcare" / "RO: Tehnologii avansate și inteligența artificială în sănătăte") at the UMFST GE Palade of Tg. Mures in MedTech
-8. 2026.01.22 - 3 research papers accepted to the conference IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026) to be organized on April 16-18, 2026 in Bisbane (2 papers), and the satellite workshop on April 20-21, 2026, nearby Uluru (1 paper), Australia.
-9. 2026.01.13 - New Paper ["Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports"](https://doi.org/10.3390/s26020525) has been published in Sensors, MDPI;
+ 
+
+1. 2026.09-12 - Lecturer at the "2026 International Seminar Series on Emerging Technologies in Cyber-Physical Systems (<a target="_new" href="https://nik.uni-obuda.hu/2026-international-seminar-series-on-emerging-technologies-in-cyber-physical-systems-cps/">CPS</a>)", Topic: "The Future of Human Performance in Sports and Ageing", Obuda University, John von Neumann Faculty of Informatics, Budapest, Hungary.
+2. 2026.09.24 - Session chair of "Session on Computational Intelligence" Session at the IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Pula, Croatia.
+3. 2026.07.03 - Session chair of "Session on Web Engineering, Man-Machine Systems and CAD/CAM/CAE Systems" Session at the IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
+4. 2026.07.01 - _Profesor Colaborador Honorario Dpto. de Fisioterapia_, Universidad de Málaga (UMA)
+5. 2026.06.23 - Keynote Speaker at the Biomechanics Webinar, Biomechanics in Sport and Ageing: Artificial Intelligence [<a target="_new" href="https://sciforum.net/event/Biomechanics-1">Webinar</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/program-overview">Program</a>][<a target="_new" href="https://sciforum.net/event/Biomechanics-1/speakers">Speakers</a>]
+6. 2026.05.10 - 2 research papers accepted to the conference 23rd IFAC World Congress to be organized in Busan, Republic of Korea on August 23-28, 2026.
+7. 2026.05.08 - 2 research papers accepted to the conference IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026) to be organized on July 2-4, 2026 in Budapest, Hungary, 2026.
+8. 2026.04.16 - Session chair of "Session on Computer science, Economical Systems, and Biological (living) Systems" Session at the IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Brisbane, Australia.
+9. 2026.04.03 - _AI Literacy for All_ Certificate by The Digital Education Council (DEC) x Obuda University. [<a target="_new" href="https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-2026-04-03.pdf">Online</a>]
+10. 2026.03.01 - Postdoctoral researcher contract (Position: "EN: Advanced technologies and artificial intelligence in healthcare" / "RO: Tehnologii avansate și inteligența artificială în sănătăte") at the UMFST GE Palade of Tg. Mures in MedTech
+11. 2026.01.22 - 3 research papers accepted to the conference IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026) to be organized on April 16-18, 2026 in Bisbane (2 papers), and the satellite workshop on April 20-21, 2026, nearby Uluru (1 paper), Australia.
+12. 2026.01.13 - New Paper ["Bioinformatics-Inspired IMU Stride Sequence Modeling for Fatigue Detection Using Spectral–Entropy Features and Hybrid AI in Performance Sports"](https://doi.org/10.3390/s26020525) has been published in Sensors, MDPI;
 
 
 Affiliations
