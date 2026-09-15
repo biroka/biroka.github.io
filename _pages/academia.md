@@ -59,10 +59,14 @@ author_profile: true
 
 | Period    | University     | Location                             | Course                                          | Level |
 |-----------|----------------|--------------------------------------|-------------------------------------------------| ------|
-| 2026/2027 (Semester I) | <a target="_new" href="https://uni-obuda.hu/">Obuda University </a>, John von Neumann Faculty of Informatics | Budapest, Hungary | _Introduction to blockchain programming_ | MSc |
-| Next Up | <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST], Department of Electrical Engineering and Information Technology (DIETI)  | Marosvásárhely (Targu Mures), Romania | _Web Application Development_ | MSc |
-| 2025/2026 (Semester I) |<a target="_new" href="https://ms.sapientia.ro/">Sapientia Hungarian University Of Transylvania</a> [EMTE], Department of Mathematics and Computer Science (MIT)   | Marosvásárhely (Targu Mures), Romania | _Bioinformatics Algorithms_ | MSc |
-| 2025/2026 (Semester I) | <a target="_new" href="https://www.umfst.ro/">UMFST G.E. Palade of Targu Mures</a> [UMFST], Department of Electrical Engineering and Information Technology (DIETI)  | Marosvásárhely (Targu Mures), Romania | _Advanced Topics in Artificial Intelligence_ | MSc |
+| 2027/2028<br> Semester I | UMFST G.E. Palade of Targu Mures [ <a target="_new" href="https://www.umfst.ro/">UMFST</a> ], <br> Department of Electrical Engineering and Information Technology (DIETI) | Marosvásárhely (Targu Mures), Romania | _Advanced Topics in Artificial Intelligence_ | MSc |
+| 2026/2027<br> Semester I | Obuda University [ <a target="_new" href="https://uni-obuda.hu/">OE</a> ], <br> John von Neumann Faculty of Informatics | Budapest, Hungary | _Introduction to blockchain programming_ | MSc |
+| 2026/2027<br> Semester I | Sapientia Hungarian University Of Transylvania [ <a target="_new" href="https://ms.sapientia.ro/">EMTE</a> ], <br> Department of Mathematics and Computer Science (MIT) | Marosvásárhely (Targu Mures), Romania | _Bioinformatics Algorithms_ | MSc |
+| 2026/2027<br> Semester I | UMFST G.E. Palade of Targu Mures  [ <a target="_new" href="https://www.umfst.ro/">UMFST</a> ], <br> Department of Electrical Engineering and Information Technology (DIETI) | Marosvásárhely (Targu Mures), Romania | _Web Application Development_ | MSc |
+| 2026/2027<br> Semester I | UMFST G.E. Palade of Targu Mures  [ <a target="_new" href="https://www.umfst.ro/">UMFST</a> ], <br> Department of Electrical Engineering and Information Technology (DIETI) | Marosvásárhely (Targu Mures), Romania  | _Object-Oriented Programming and JAVA_ | MSc |
+| 2025/2026<br> Semester I | UMFST G.E. Palade of Targu Mures  [ <a target="_new" href="https://www.umfst.ro/">UMFST</a> ], <br> Department of Electrical Engineering and Information Technology (DIETI) | Marosvásárhely (Targu Mures), Romania | _Web Application Development_ | MSc |
+| 2025/2026<br> Semester I | Sapientia Hungarian University Of Transylvania [ <a target="_new" href="https://ms.sapientia.ro/">EMTE</a> ], <br> Department of Mathematics and Computer Science (MIT) | Marosvásárhely (Targu Mures), Romania | _Bioinformatics Algorithms_ | MSc |
+
 
 *** 
 # Education
