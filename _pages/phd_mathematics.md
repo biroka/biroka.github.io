@@ -36,7 +36,7 @@ author_profile: true
 # Publications not Pertaining to Theses
 ***
 1. **A. Biró**, Gy. Kolumbán, L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Artificial Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. 053-058, [<a target="_new" href="https://doi.org/10.1109/INES69513.2026.11661206">Online</a>], Xplore IEEE
-2. 2025.11.06 [A][Q1] - **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
+2. **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 
 ***
 # Pending Research [Submitted / Under Review]
