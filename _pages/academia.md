@@ -25,9 +25,9 @@ author_profile: true
 
 ***
 # Research Focus & Scientific Agenda
-***
-* PostDoc - Medication & Medical Digital Twin - Romania
-* PhD - Applied AI in performance sports - Hungary, Japan, Spain
+*** 
+* [ <a target="_new" href="https://biroka.github.io/postdoc_umfst/">National Postdoctoral Research Fellowship</a> ] - Medication & Medical Digital Twin - Romania
+* [ <a target="_new" href="https://biroka.github.io/phd_mathematics/">PhD Program</a> ] - Applied AI in performance sports - Hungary, Japan, Spain
 * Research - Bioinformatics-inspired AI modeling - Romania
 * Research - Digital health & neurodegenerative risk modeling - Hungary, Japan, Spain, Romania
 * <a target="_new" href="https://biroka.github.io/schedule/">Detailed Scientific Agenda</a>
