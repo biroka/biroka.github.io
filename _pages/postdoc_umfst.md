@@ -22,7 +22,7 @@ author_profile: true
 1. **A. Biró**, Gy. Kolumbán, L.B. Iantovics, "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", in IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Section: Artificial Intelligence in Engineering, Budapest, Hungary, IEEE, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>], Xplore IEEE
 
 ***
-# UEFISCI Submitted Grants
+# UEFISCDI Submitted Grants
 ***
 * 2026.07.28 - **PN-IV-P2-2.1-PD-2026-1789**, **PHENIX: Biological State Modelling across Cellular Imaging, Biological Networks and Cell Therapy**, Call: PN-IV-P2-2.1-PD-2026, PNCDI IV - Programme 5.2 - Human Resources Subprogramme 5.2.1 _Start in Research Postdoctoral research projects_.
 * 2026.07.31 - **PN-IV-P1-PCE-2026-2379**, **Adaptive Clinical Intelligence for Personalized Medicine - DIAGNOSE**, Call: PN-IV-P1-PCE-2026, PNCDI IV - Programme 1 - _Ideas Exploratory Research Projects_.
