@@ -104,3 +104,8 @@ author_profile: true
 ***
 * 2026.04.23 - _Peer Reviewer_, IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Budapest, Hungary.
 * 2026.01.26 - _Peer Reviewer_, IEEE Hungary Section, IEEE Student Paper Contest 2025/26.
+
+***
+# Other Scientific Activities
+***
+* 2026.09.01-... - Mentor at the AI Squad Program, Obuda University, Budapest, Hungary
