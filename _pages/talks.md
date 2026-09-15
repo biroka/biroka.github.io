@@ -61,6 +61,7 @@ Attended IEEE Conferences
 [[ ICCC 2026 ](https://conf.uni-obuda.hu/iccc2026/)]
 [[ INES 2026 ](http://www.ines-conf.org/ines-conf/2026index.html)]
 [[ IFAC 2026 ](https://www.ifac2026.org/fairDash.do)]
+[[ SISY 2026 ](https://conf.uni-obuda.hu/sisy2026/) ]
 
 BioTech / SportsTech Conferences
 ======
