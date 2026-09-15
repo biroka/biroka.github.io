@@ -9,7 +9,7 @@ author_profile: true
 # Research Groups
 ***
 
-| Status | Period | Research Group / Center | Acronym | Location | Profile |
+| # | Period | Research Group / Center | Acronym | Location | Profile |
 |---|---|---|---|---|---|
 | :hourglass_flowing_sand: | 2026.04-...|  <a target="_new" href="https://www.itware.hu">AI4TEST Research Group</a> | AI4TEST | Budapest, Hungary | [ <a target="_new" href="https://www.linkedin.com/in/biroattila/">Profile</a> ] |
 | :hourglass_flowing_sand: | 2025.09-... | <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Computational Intelligence Research Group</a> | CIRG | Targu Mures, Romania | [ <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Profile</a> ] |
