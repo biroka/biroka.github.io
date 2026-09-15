@@ -73,11 +73,11 @@ author_profile: true
 # Education
 *** 
 
-| Period    | Level     | Degree                             | Institution                                          | Grade           |
-|-----------|-----------|------------------------------------|------------------------------------------------------|-----------------|
-| 2025-2029 | **PhD**   | PhD in Mathematics                 | Obuda University (OE), Budapest, Hungary             | ---             |
-| 2021-2024 | **PhD**   | PhD in Health Sciences             | University of Malaga (UMA), Málaga, Spain            | summa cum laude |
-| 2020-2024 | **PhD**   | PhD in Informatics                 | UMFST G.E. Palade of Targu Mures, Romania            | summa cum laude |
-| 2001-2002 | **M.Eng** | M.Eng. in Automation in Energetics | Petru Maior University of Targu Mures (UPM), Romania | --              |
-| 1996-2001 | **M.Eng** | M.Eng. in Industrial Automation    | Petru Maior University of Targu Mures (UPM), Romania | --              |
+| # | Period    | Level     | Degree                             | Institution                                          | Grade           |
+|---|-----------------|-----------|------------------------------------|------------------------------------------------------|-----------------|
+| :hourglass_flowing_sand: | 2025-2029 | **PhD**   | PhD in Mathematics                 | Obuda University (OE), Budapest, Hungary       | ---             |
+| :heavy_check_mark: | 2021-2024 | **PhD**   | PhD in Health Sciences             | University of Malaga (UMA), Málaga, Spain            | summa cum laude |
+| :heavy_check_mark: | 2020-2024 | **PhD**   | PhD in Informatics                 | UMFST G.E. Palade of Targu Mures, Romania            | summa cum laude |
+| :heavy_check_mark: | 2001-2002 | **M.Eng** | M.Eng. in Automation in Energetics | Petru Maior University of Targu Mures (UPM), Romania | --              |
+| :heavy_check_mark: | 1996-2001 | **M.Eng** | M.Eng. in Industrial Automation    | Petru Maior University of Targu Mures (UPM), Romania | --              |
 
