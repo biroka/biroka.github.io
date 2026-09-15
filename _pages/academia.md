@@ -8,16 +8,17 @@ author_profile: true
 ***
 # Research Groups
 ***
-| # | Period     | Research Center     | Acronym       | Location               | Profile         |
-|---|------------|---------------------|---------------|------------------------|-----------------|
+
+| Status | Period | Research Group / Center | Acronym | Location | Profile |
+|---|---|---|---|---|---|
 | :hourglass_flowing_sand: | 2026.04-...|  <a target="_new" href="https://www.itware.hu">AI4TEST Research Group</a> | AI4TEST | Budapest, Hungary | [ <a target="_new" href="https://www.linkedin.com/in/biroattila/">Profile</a> ] |
-| :hourglass_flowing_sand: | 2025.09-... | <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Computational Intelligence Research Group</a> | CIRG | Tagu Mures, Romania | [ <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Profile</a> ] |
+| :hourglass_flowing_sand: | 2025.09-... | <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Computational Intelligence Research Group</a> | CIRG | Targu Mures, Romania | [ <a target="_new" href="https://ms.sapientia.ro/en/research/research-groups/department-of-electrical-engineering/computational-intelligence-research-group-cirg">Profile</a> ] |
 | :hourglass_flowing_sand: | 2024.10-... | <a target="_new" href="https://artemis.umfst.ro/team/">ARTEMIS Research Center</a> | ARTEMIS | Targu Mures, Romania | [ <a target="_new" href="https://artemis.umfst.ro/team/">Profile</a> ] |
 | :hourglass_flowing_sand: | 2024.04-... | <a target="_new" href="https://physcon.uni-obuda.hu/en/our-team">Physiological Controls Research Center</a> | PHYSCON | Budapest, Hungary | [ <a target="_new" href="https://physcon.uni-obuda.hu/en/our-team/">Profile</a> ] |
 | :hourglass_flowing_sand: | 2024.04-... | <a target="_new" href="https://physcon.uni-obuda.hu/en/our-team">University Research and Innovation Center</a> | EKIK | Budapest, Hungary | [ <a target="_new" href="https://ekik.uni-obuda.hu/en/home-en/">Profile</a> ] |
-| :hourglass_flowing_sand: | 2021.02-... | <a target="_new" href="http://clinimetria.es/equipo">Grupo de Investigation Clinimetria</a> | PAIDI CTS-631 | Malaga, Spain | [ <a target="_new" href="https://clinimetria.es/equipo">Profile</a> ] |
-| :closed_lock_with_key: | 2021.01-2024.10 | <a target="_new" href="https://ibima.eu/en/project/f-14/">Grupo de Investigation Clinimetria</a> | IBIMA F-14 | Malaga, Spain | [ <a target="_new" href="https://ibima.eu/en/project/f-14/">Profile</a> ] |
-| :closed_lock_with_key: | 2019.01-2024.07 | <a target="_new" href="https://cordis.europa.eu/project/id/823871/factsheet">iGAME Reseach Group</a> | iGAME | Budapest, Hungary | [ <a target="_new" href="https://www.linkedin.com/in/biroattila/">Profile</a> ] |
+| :hourglass_flowing_sand: | 2021.02-... | <a target="_new" href="http://clinimetria.es/equipo">Grupo de Investigación en Clinimetría</a> | PAIDI CTS-631 | Malaga, Spain | [ <a target="_new" href="https://clinimetria.es/equipo">Profile</a> ] |
+| :closed_lock_with_key: | 2021.01-2024.10 | <a target="_new" href="https://ibima.eu/en/project/f-14/">Clinimetrics Research Group</a> | IBIMA F-14 | Malaga, Spain | [ <a target="_new" href="https://ibima.eu/en/project/f-14/">Profile</a> ] |
+| :closed_lock_with_key: | 2019.01-2024.07 | <a target="_new" href="https://cordis.europa.eu/project/id/823871/factsheet">iGAME Research Group</a> | iGAME | Budapest, Hungary | [ <a target="_new" href="https://www.linkedin.com/in/biroattila/">Profile</a> ] |
 
 ***
 # Research Projects
