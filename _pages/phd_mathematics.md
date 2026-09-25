@@ -39,7 +39,7 @@ author_profile: true
 2. **A. Biró**, L.B. Iantovics, L. Fekete, and Gy.L. Fekete, "_Prototype of a multimodal AI system for vitiligo detection and mental health monitoring_", Frontiers in Medicine, Sec. Dermatology, **2025**, volume 12. [<a target="_new" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1709891">Online</a>].
 
 ***
-# Pending Research [Submitted / Under Review]
+# Pending Research [Submitted / Under Review / Pending Publications]
 ***
 1. 2026.09.23-25 [C][Pending Presentation]  - **A. Biró**, M. Turcsányi, L. Szilágyi, "_Fuzzy Semantic Recovery for Multilingual OCR in Self-Healing Testing Pipelines_", IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia, **2026**.
 2. 2026.09.23-25 [C][Pending Presentation]  - **A. Biró**, L. Kovács, L. Szilágyi, "_Coverage-Controlled Dynamic Voronoi Analysis for Tactical Space Optimization and Lineup Evaluation in Team Sports_", IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia, **2026**.
