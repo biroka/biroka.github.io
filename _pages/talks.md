@@ -11,8 +11,7 @@ Conference Calendar
 
 Upcoming Conferences
 ======
-* 2026.09.23-25 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Fuzzy Semantic Recovery for Multilingual OCR in Self-Healing Testing Pipelines_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
-* 2026.09.23-25 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Coverage-Controlled Dynamic Voronoi Analysis for Tactical Space Optimization and Lineup Evaluation in Team Sports_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
+--
   
 Engineering Conferences
 ======
@@ -21,6 +20,8 @@ Engineering Conferences
 
 IEEE Conferences
 ======
+* 2026.09.24 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Fuzzy Semantic Recovery for Multilingual OCR in Self-Healing Testing Pipelines_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
+* 2026.09.24 - IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Topic: "_Coverage-Controlled Dynamic Voronoi Analysis for Tactical Space Optimization and Lineup Evaluation in Team Sports_", Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia
 * 2026.07.03 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Distribution-Free Cantelli-Bounded Longitudinal Risk Modeling for Pre-Infective Pneumonia Forecasting_", Section: Computational Intelligence in Engineering, Budapest, Hungary
 * 2026.07.02 - IEEE 30th Jubilee International Conference on Intelligent Engineering Systems 2026 (INES 2026), Topic: "_Risk-Calibrated Polypharmacy Graph Learning for Uncertainty-Aware Drug Combination Optimization_", Section: Artificial Intelligence in Engineering, Budapest, Hungary
 * 2026.04.21 - IEEE 13th International Joint Conference on Cybernetics and Computational Cybernetics, Cyber-Medical Systems (ICCC 2026), Topic: "_Risk-Aware Genetic Algorithms for Reliable Triathlon Relays: A Cantelli-Regularized Applied Mathematics Pipeline_", Satellite workshop nearby Uluru, Australia
