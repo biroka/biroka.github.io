@@ -18,6 +18,8 @@ Publication References
  
 Pending Publications
 ======
+* **A. Biró**, M. Turcsányi, L. Szilágyi, "_Fuzzy Semantic Recovery for Multilingual OCR in Self-Healing Testing Pipelines_", IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
+* **A. Biró**, L. Kovács, L. Szilágyi, "_Coverage-Controlled Dynamic Voronoi Analysis for Tactical Space Optimization and Lineup Evaluation in Team Sports_", IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026), Section: Special Session on PhD Student Research in Applied Informatics, Pula, Croatia, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
 * **A. Biró**, L. Kovács, and L. Szilágyi, “_Bioinformatics-Inspired Pathway Modeling and Adaptive Control for Brain Tumor MRI Classification Using Hybrid Deep Learning and Biostatistics_”, 23rd International Federation of Automatic Control (IFAC) World Congress, Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
 * J. Palatka, L. Dénes-Fazakas, **A. Biró**, L. Kovács, L. Szilágyi, “_Hybrid CNN+ViT Architecture for Accurate Interstitial Lung Disease Classification_”, 23rd International Federation of Automatic Control (IFAC) World Congress, Section: Bio- and Ecological Systems - Modeling and Control of Biomedical Systems, Busan, Republic of Korea, **2026**, pp. xx-xx, [<a target="_new" href="xxx">Online</a>]
 
