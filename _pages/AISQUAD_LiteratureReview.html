@@ -1,0 +1,740 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>AI SQUAD Literature Review Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;600;700&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky header with HU/EN switch, section rail (left on desktop, chips on phone), one section visible at a time. Palette follows the AI SQUAD kick-off deck. */
+:root{
+  --bg:#f6f8fb; --surface:#ffffff; --surface-2:#eef3f9; --line:#cfdbe8;
+  --ink:#1f2d3d; --ink-2:#4a5b6e; --muted:#6b7c8f;
+  --navy:#17507a; --accent:#2a8fd6; --accent-ink:#0f5f9c; --violet:#9b4fd6;
+  --ok:#1f8a5b; --warn:#b26a00; --bad:#c0392b;
+  --code-bg:#eaf1f8;
+  --f-display:"Barlow","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Montserrat",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  --r:12px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1720; --surface:#16212d; --surface-2:#1c2a39; --line:#2b3d51;
+  --ink:#e6edf4; --ink-2:#b5c3d2; --muted:#8a9bb0;
+  --navy:#7fb6e3; --accent:#5aaeea; --accent-ink:#8cc8f2; --violet:#c08cf0;
+  --ok:#4cc38a; --warn:#e3a33b; --bad:#ee7a6d; --code-bg:#122030; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1720; --surface:#16212d; --surface-2:#1c2a39; --line:#2b3d51;
+  --ink:#e6edf4; --ink-2:#b5c3d2; --muted:#8a9bb0;
+  --navy:#7fb6e3; --accent:#5aaeea; --accent-ink:#8cc8f2; --violet:#c08cf0;
+  --ok:#4cc38a; --warn:#e3a33b; --bad:#ee7a6d; --code-bg:#122030; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.6;margin:0}
+.lang-hu [data-l="en"], .lang-en [data-l="hu"]{display:none!important}
+a{color:var(--accent-ink);text-underline-offset:2px}
+a:hover{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+h1,h2,h3,h4{font-family:var(--f-display);line-height:1.15;text-wrap:balance;color:var(--ink);margin:0}
+h2{font-size:2rem;font-weight:700}
+h3{font-size:1.3rem;font-weight:600}
+h4{font-size:1.05rem;font-weight:600}
+p{margin:0;max-width:68ch}
+ul,ol{margin:0;padding-left:1.2rem}
+li{margin:.2rem 0}
+code,.mono{font-family:var(--f-mono);font-size:.85em}
+.pill{display:inline-block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;background:var(--surface-2);color:var(--accent-ink);border:1px solid var(--line);border-radius:999px;padding:.15rem .6rem;font-weight:600}
+
+/* header */
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.top-in{max-width:1180px;margin:0 auto;padding:.7rem 16px;display:flex;align-items:center;gap:1rem;justify-content:space-between}
+.brand{display:flex;flex-direction:column;min-width:0}
+.brand small{font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.brand b{font-family:var(--f-display);font-size:1.25rem;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.langsw{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;flex:none}
+.langsw button{font:600 .8rem var(--f-body);border:0;background:transparent;color:var(--ink-2);padding:.4rem .85rem;cursor:pointer}
+.langsw button[aria-pressed="true"]{background:var(--navy);color:var(--bg)}
+
+/* shell */
+.shell{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:1.5rem 4rem;display:grid;grid-template-columns:230px minmax(0,1fr);gap:2rem;align-items:start}
+nav.rail{position:sticky;top:calc(env(safe-area-inset-top,0px) + 76px);display:flex;flex-direction:column;gap:.15rem}
+nav.rail button{all:unset;cursor:pointer;display:flex;gap:.6rem;align-items:baseline;padding:.5rem .7rem;border-radius:8px;color:var(--ink-2);font-weight:500;font-size:.9rem}
+nav.rail button .n{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);width:1.3rem;flex:none}
+nav.rail button:hover{background:var(--surface-2)}
+nav.rail button[aria-selected="true"]{background:var(--surface);color:var(--ink);font-weight:600;box-shadow:inset 3px 0 0 var(--accent)}
+nav.rail button:focus-visible{outline:2px solid var(--accent)}
+.rail-foot{margin-top:1rem;padding:.8rem .7rem;font-size:.78rem;color:var(--muted);border-top:1px solid var(--line)}
+main{min-width:0}
+section.pane{display:flex;flex-direction:column;gap:1.4rem}
+.lead{font-size:1.05rem;color:var(--ink-2)}
+.eyebrow{font-size:.75rem;text-transform:uppercase;letter-spacing:.09em;color:var(--violet);font-weight:700}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1.1rem 1.2rem;min-width:0}
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.stack{display:flex;flex-direction:column;gap:.6rem}
+.note{border-left:3px solid var(--violet);padding:.6rem .9rem;background:var(--surface-2);border-radius:0 8px 8px 0;font-size:.92rem}
+.note.warn{border-color:var(--warn)}
+.note.ok{border-color:var(--ok)}
+
+/* hero */
+.hero{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:1.5rem;align-items:center}
+.hero h1{font-size:clamp(2rem,4.4vw,3.1rem);font-weight:700}
+.hero h1 em{font-style:normal;color:var(--violet)}
+.loop{width:100%;max-width:360px;justify-self:center}
+.loop text{font-family:var(--f-display);font-weight:600;font-size:15px;fill:var(--ink)}
+
+/* compare table */
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:620px}
+th,td{text-align:left;vertical-align:top;padding:.6rem .75rem;border-bottom:1px solid var(--line)}
+th{font-family:var(--f-display);font-weight:600;font-size:.92rem;background:var(--surface-2);color:var(--ink)}
+tr:last-child td{border-bottom:0}
+td.yes{color:var(--ok);font-weight:600}
+td.part{color:var(--warn);font-weight:600}
+td.no{color:var(--bad);font-weight:600}
+
+/* stepper */
+.steps{display:flex;flex-wrap:wrap;gap:.4rem}
+.steps button{all:unset;cursor:pointer;display:flex;align-items:center;gap:.5rem;padding:.45rem .8rem;border:1px solid var(--line);border-radius:999px;background:var(--surface);font-size:.85rem;font-weight:600;color:var(--ink-2)}
+.steps button .k{font-family:var(--f-mono);font-size:.75rem;width:1.4rem;height:1.4rem;display:grid;place-items:center;border-radius:50%;background:var(--surface-2);color:var(--accent-ink)}
+.steps button[aria-selected="true"]{border-color:var(--accent);color:var(--ink);background:var(--surface-2)}
+.steps button[aria-selected="true"] .k{background:var(--accent);color:var(--surface)}
+.steps button:focus-visible{outline:2px solid var(--accent)}
+.step-panel h3{margin-bottom:.4rem}
+.step-panel .cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:1rem;margin-top:.8rem}
+.step-nav{display:flex;justify-content:space-between;margin-top:1rem;gap:.5rem}
+.btn{font:600 .82rem var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:.45rem .85rem;border-radius:8px;cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--navy);border-color:var(--navy);color:var(--bg)}
+.btn[disabled]{opacity:.4;cursor:default}
+
+/* PRISMA mini flow */
+.flow{display:flex;flex-direction:column;gap:.35rem;font-size:.84rem}
+.flow div{background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:.45rem .7rem;display:flex;justify-content:space-between;gap:.5rem}
+.flow div b{font-family:var(--f-mono);font-weight:500;font-variant-numeric:tabular-nums;color:var(--accent-ink)}
+.flow .arrow{background:none;border:0;padding:0;justify-content:center;color:var(--muted)}
+
+/* code / query */
+pre.q{background:var(--code-bg);border:1px solid var(--line);border-radius:8px;padding:.75rem .9rem;margin:0;font-family:var(--f-mono);font-size:.8rem;white-space:pre-wrap;word-break:break-word;color:var(--ink)}
+.qrow{display:grid;grid-template-columns:110px minmax(0,1fr);gap:.6rem;align-items:center}
+.qrow label{font-size:.8rem;font-weight:600;color:var(--ink-2)}
+input[type=text],select{font:inherit;font-size:.86rem;width:100%;padding:.45rem .6rem;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.copyrow{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+.copied{font-size:.78rem;color:var(--ok)}
+
+/* sources */
+.src{display:flex;flex-direction:column;gap:.3rem}
+.src a{font-weight:600}
+.src span{font-size:.84rem;color:var(--ink-2)}
+.srcgroup h3{margin-bottom:.7rem}
+
+/* accordion */
+details.acc{background:var(--surface);border:1px solid var(--line);border-radius:10px}
+details.acc+details.acc{margin-top:.5rem}
+details.acc summary{cursor:pointer;padding:.75rem 1rem;font-weight:600;list-style:none;display:flex;gap:.6rem;align-items:center}
+details.acc summary::-webkit-details-marker{display:none}
+details.acc summary::before{content:"+";font-family:var(--f-mono);color:var(--accent);width:1rem}
+details.acc[open] summary::before{content:"–"}
+details.acc .body{padding:0 1rem 1rem 2.6rem;display:flex;flex-direction:column;gap:.5rem;font-size:.92rem}
+.sev{font-size:.68rem;text-transform:uppercase;letter-spacing:.07em;padding:.1rem .45rem;border-radius:4px;border:1px solid currentColor;margin-left:auto;flex:none}
+.sev.h{color:var(--bad)} .sev.m{color:var(--warn)}
+
+/* reference anatomy */
+.anat{font-size:.95rem;line-height:2.1;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.2rem}
+.anat span{border-bottom:2px solid;padding-bottom:1px;cursor:help}
+.anat .a1{border-color:#2a8fd6}.anat .a2{border-color:#9b4fd6}.anat .a3{border-color:#1f8a5b}.anat .a4{border-color:#b26a00}.anat .a5{border-color:#c0392b}.anat .a6{border-color:#6b7c8f}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem 1rem;font-size:.8rem;color:var(--ink-2);margin-top:.6rem}
+.legend i{display:inline-block;width:.8rem;height:3px;vertical-align:middle;margin-right:.35rem}
+
+/* teams */
+.teamtabs{display:flex;flex-wrap:wrap;gap:.4rem}
+.teamtabs button{all:unset;cursor:pointer;padding:.5rem .8rem;border-radius:10px;border:1px solid var(--line);background:var(--surface);display:flex;flex-direction:column;gap:.1rem;min-width:0}
+.teamtabs button small{font-size:.66rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.teamtabs button b{font-family:var(--f-display);font-weight:600;font-size:.95rem}
+.teamtabs button[aria-selected="true"]{border-color:var(--accent);background:var(--surface-2);box-shadow:inset 0 -3px 0 var(--accent)}
+.teamtabs button:focus-visible{outline:2px solid var(--accent)}
+.teamhead{display:flex;flex-direction:column;gap:.4rem}
+.teamhead .rq{font-weight:600;color:var(--ink-2)}
+.lit li{font-size:.86rem}
+.lit li .why{display:block;color:var(--muted);font-size:.8rem}
+.tags{display:flex;flex-wrap:wrap;gap:.35rem}
+.tag{font-size:.78rem;padding:.2rem .55rem;border-radius:6px;background:var(--surface-2);border:1px solid var(--line)}
+
+/* checklist */
+.prog{height:8px;background:var(--surface-2);border-radius:999px;overflow:hidden;border:1px solid var(--line)}
+.prog i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.chk{display:flex;flex-direction:column;gap:.15rem}
+.chk label{display:flex;gap:.65rem;align-items:flex-start;padding:.45rem .6rem;border-radius:8px;cursor:pointer;font-size:.92rem}
+.chk label:hover{background:var(--surface-2)}
+.chk input{margin-top:.3rem;accent-color:var(--accent);width:1rem;height:1rem;flex:none}
+.chk input:checked+span{color:var(--muted);text-decoration:line-through}
+.weeks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.8rem}
+.weeks .card h4{margin-bottom:.3rem}
+.weeks .card .w{font-family:var(--f-mono);font-size:.72rem;color:var(--violet)}
+.contact{display:flex;flex-wrap:wrap;gap:.5rem 1.2rem;align-items:center}
+
+@media (max-width:900px){
+  .shell{grid-template-columns:minmax(0,1fr);gap:1rem}
+  nav.rail{position:static;flex-direction:row;overflow-x:auto;gap:.3rem;padding-bottom:.3rem;scrollbar-width:thin}
+  nav.rail button{white-space:nowrap;border:1px solid var(--line);background:var(--surface)}
+  nav.rail button[aria-selected="true"]{box-shadow:inset 0 -3px 0 var(--accent)}
+  .rail-foot{display:none}
+  .hero,.grid3,.grid2,.step-panel .cols{grid-template-columns:minmax(0,1fr)}
+  .weeks{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:520px){
+  .weeks{grid-template-columns:minmax(0,1fr)}
+  .qrow{grid-template-columns:minmax(0,1fr);gap:.2rem}
+  h2{font-size:1.6rem}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+
+<div id="app" class="lang-hu">
+<header class="top">
+  <div class="top-in">
+    <div class="brand">
+      <small>Óbudai Egyetem · AI SQUAD</small>
+      <b><span data-l="hu">Szakirodalom-kutatási útmutató</span><span data-l="en">Literature Review Guide</span></b>
+    </div>
+    <div class="langsw" role="group" aria-label="Language">
+      <button id="btn-hu" aria-pressed="true" data-set="hu">HU</button>
+      <button id="btn-en" aria-pressed="false" data-set="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <nav class="rail" role="tablist" aria-label="Sections" id="rail">
+    <button role="tab" data-tab="intro"><span class="n">01</span><span><span data-l="hu">Mi ez és miért?</span><span data-l="en">What and why?</span></span></button>
+    <button role="tab" data-tab="process"><span class="n">02</span><span><span data-l="hu">A folyamat 7 lépésben</span><span data-l="en">The process in 7 steps</span></span></button>
+    <button role="tab" data-tab="sources"><span class="n">03</span><span><span data-l="hu">Hol keressünk?</span><span data-l="en">Where to search</span></span></button>
+    <button role="tab" data-tab="synthesis"><span class="n">04</span><span><span data-l="hu">Szintézis</span><span data-l="en">Synthesis</span></span></button>
+    <button role="tab" data-tab="quality"><span class="n">05</span><span><span data-l="hu">Csapdák, minőség, etika</span><span data-l="en">Pitfalls, quality, ethics</span></span></button>
+    <button role="tab" data-tab="refs"><span class="n">06</span><span><span data-l="hu">Pontos hivatkozás</span><span data-l="en">Accurate referencing</span></span></button>
+    <button role="tab" data-tab="teams"><span class="n">07</span><span><span data-l="hu">Csapatonkénti példák</span><span data-l="en">Examples per team</span></span></button>
+    <button role="tab" data-tab="checklist"><span class="n">08</span><span><span data-l="hu">Ütemterv és ellenőrzőlista</span><span data-l="en">Timeline &amp; checklist</span></span></button>
+    <div class="rail-foot">
+      <span data-l="hu">Kérdések:</span><span data-l="en">Questions:</span><br>
+      <b>Dr. Biró Attila</b><br>
+      <span class="mono">biro.attila@uni-obuda.hu</span><br>
+      <span data-l="hu">vagy Teams</span><span data-l="en">or Teams</span>
+    </div>
+  </nav>
+
+  <main>
+  <!-- 01 INTRO -->
+  <section class="pane" id="intro" hidden>
+    <div class="hero">
+      <div class="stack">
+        <span class="eyebrow"><span data-l="hu">Explore · a ciklus első lépése</span><span data-l="en">Explore · the first step of the loop</span></span>
+        <h1><span data-l="hu">Mielőtt építetek, <em>nézzétek meg, mit tud már a tudomány.</em></span><span data-l="en">Before you build, <em>find out what science already knows.</em></span></h1>
+        <p class="lead"><span data-l="hu">A szakirodalomkutatás (literature review) a témához kapcsolódó publikációk, módszerek, adatszettek, nyílt forráskódok és projektek rendszerezett felkutatása, kritikus értékelése és szintézise. Ebből derül ki a tudomány jelenlegi állása (state of the art), és ebből látszik, hol tud a csapatotok újat hozzátenni.</span><span data-l="en">A literature review is the systematic search, critical appraisal and synthesis of publications, methods, datasets, open-source code and projects related to your topic. It establishes the state of the art and shows where your team can add something new.</span></p>
+      </div>
+      <svg class="loop" viewBox="0 0 360 200" role="img" aria-label="Explore, Try, Measure, Improve loop">
+        <path d="M180 100 C 140 40, 60 40, 60 100 C 60 160, 140 160, 180 100 C 220 40, 300 40, 300 100 C 300 160, 220 160, 180 100 Z" fill="none" stroke="var(--line)" stroke-width="16"/>
+        <path d="M180 100 C 140 40, 60 40, 60 100 C 60 130, 80 150, 105 155" fill="none" stroke="var(--violet)" stroke-width="16" stroke-linecap="round"/>
+        <circle cx="72" cy="62" r="5" fill="var(--violet)"/>
+        <text x="20" y="28">Explore</text><text x="292" y="28">Try</text>
+        <text x="270" y="190">Measure</text><text x="18" y="190">Improve</text>
+      </svg>
+    </div>
+
+    <div class="grid3">
+      <div class="card stack"><h4><span data-l="hu">Mit tud már a tudomány?</span><span data-l="en">What does science already know?</span></h4><p><span data-l="hu">Elméleti háttér, korábbi eredmények, elfogadott mérési módszerek és metrikák.</span><span data-l="en">Theoretical background, prior results, accepted measurement methods and metrics.</span></p></div>
+      <div class="card stack"><h4><span data-l="hu">Milyen modellek, adatszettek, eszközök léteznek?</span><span data-l="en">Which models, datasets and tools exist?</span></h4><p><span data-l="hu">Nyílt adatszettek, előtanított modellek, SDK-k, GitHub-repók, benchmarkok.</span><span data-l="en">Open datasets, pre-trained models, SDKs, GitHub repos, benchmarks.</span></p></div>
+      <div class="card stack"><h4><span data-l="hu">Mit használhatunk újra, mit javíthatunk?</span><span data-l="en">What can we reuse, what can we improve?</span></h4><p><span data-l="hu">A hiányok (research gap) azonosítása, ebből lesz a saját kutatási kérdésetek és a TDK/konferencia-cikk hozzájárulása.</span><span data-l="en">Identify the research gap. It becomes your own research question and the contribution of your TDK or conference paper.</span></p></div>
+    </div>
+
+    <h3><span data-l="hu">Milyen típusú áttekintést készítsetek?</span><span data-l="en">Which type of review should you do?</span></h3>
+    <div class="tbl-wrap"><table>
+      <thead><tr><th><span data-l="hu">Típus</span><span data-l="en">Type</span></th><th><span data-l="hu">Mire jó</span><span data-l="en">Good for</span></th><th><span data-l="hu">Módszertan</span><span data-l="en">Method</span></th><th><span data-l="hu">AI SQUAD-ban</span><span data-l="en">In AI SQUAD</span></th></tr></thead>
+      <tbody>
+        <tr><td><b><span data-l="hu">Narratív áttekintés</span><span data-l="en">Narrative review</span></b></td><td><span data-l="hu">Gyors tájékozódás, háttér</span><span data-l="en">Quick orientation, background</span></td><td><span data-l="hu">Szabad, nem reprodukálható</span><span data-l="en">Informal, not reproducible</span></td><td class="part"><span data-l="hu">Csak az első héten</span><span data-l="en">First week only</span></td></tr>
+        <tr><td><b><span data-l="hu">Strukturált / state-of-the-art áttekintés</span><span data-l="en">Structured / state-of-the-art review</span></b></td><td><span data-l="hu">Módszerek, adatszettek, eredmények összevetése</span><span data-l="en">Comparing methods, datasets, results</span></td><td><span data-l="hu">Dokumentált keresés + szűrés + összehasonlító mátrix</span><span data-l="en">Documented search + screening + comparison matrix</span></td><td class="yes"><span data-l="hu">Ez az alapelvárás</span><span data-l="en">This is the baseline</span></td></tr>
+        <tr><td><b><span data-l="hu">Scoping review</span><span data-l="en">Scoping review</span></b></td><td><span data-l="hu">Új, szétszórt terület feltérképezése</span><span data-l="en">Mapping a new, scattered field</span></td><td>Arksey &amp; O'Malley (2005)</td><td class="yes"><span data-l="hu">Pl. okosszemüveg + oktatás</span><span data-l="en">E.g. smart glasses + education</span></td></tr>
+        <tr><td><b><span data-l="hu">Szisztematikus áttekintés</span><span data-l="en">Systematic review</span></b></td><td><span data-l="hu">Teljes körű, önálló publikáció</span><span data-l="en">Exhaustive, a publication in its own right</span></td><td>PRISMA 2020, Kitchenham (2007)</td><td class="part"><span data-l="hu">Opcionális, ha a cikk maga az áttekintés</span><span data-l="en">Optional, if the review is the paper</span></td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="note"><span data-l="hu"><b>Agilis szemlélet:</b> a szakirodalom nem egyszeri feladat. Az első 3–4 hétben felépítitek az alapot, utána minden sprintben frissítitek (új preprintek, új repók), és a heti demón röviden beszámoltok róla.</span><span data-l="en"><b>Agile mindset:</b> the literature is not a one-off task. Build the foundation in the first 3–4 weeks, then update it every sprint (new preprints, new repos) and report briefly at the weekly demo.</span></div>
+  </section>
+
+  <!-- 02 PROCESS -->
+  <section class="pane" id="process" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Kattintsatok a lépésekre</span><span data-l="en">Click through the steps</span></span>
+      <h2><span data-l="hu">A folyamat 7 lépésben</span><span data-l="en">The process in 7 steps</span></h2>
+    </div>
+    <div class="steps" role="tablist" id="steps"></div>
+    <div class="card step-panel" id="stepPanel" aria-live="polite"></div>
+
+    <div class="card stack" id="builder">
+      <h3><span data-l="hu">Keresőkifejezés-építő</span><span data-l="en">Search string builder</span></h3>
+      <p><span data-l="hu">Fogalmanként soroljátok fel a szinonimákat vesszővel elválasztva. Egy fogalmon belül OR, a fogalmak között AND kapcsolat lesz. A <code>*</code> csonkolás (pl. <code>gamif*</code> = gamification, gamified…). Töltsétek be a saját csapatotok példáját!</span><span data-l="en">List synonyms per concept, separated by commas. Synonyms within a concept are joined with OR, concepts with AND. <code>*</code> is truncation (e.g. <code>gamif*</code> = gamification, gamified…). Load your own team's example!</span></p>
+      <div class="qrow"><label for="qteam"><span data-l="hu">Példa betöltése</span><span data-l="en">Load example</span></label><select id="qteam"></select></div>
+      <div class="qrow"><label for="qc1"><span data-l="hu">1. fogalom</span><span data-l="en">Concept 1</span></label><input type="text" id="qc1"></div>
+      <div class="qrow"><label for="qc2"><span data-l="hu">2. fogalom</span><span data-l="en">Concept 2</span></label><input type="text" id="qc2"></div>
+      <div class="qrow"><label for="qc3"><span data-l="hu">3. fogalom</span><span data-l="en">Concept 3</span></label><input type="text" id="qc3"></div>
+      <div class="qrow"><label for="qc4"><span data-l="hu">Kizárás (NOT)</span><span data-l="en">Exclude (NOT)</span></label><input type="text" id="qc4"></div>
+      <pre class="q" id="qout"></pre>
+      <div class="copyrow"><button class="btn primary" id="qcopy"><span data-l="hu">Másolás</span><span data-l="en">Copy</span></button><span class="copied" id="qcopied" hidden></span>
+      <span style="font-size:.8rem;color:var(--muted)"><span data-l="hu">Scopusban: TITLE-ABS-KEY( … ) közé téve. Google Scholarban rövidítsétek, mert ott a hosszú lekérdezés pontatlan.</span><span data-l="en">In Scopus: wrap in TITLE-ABS-KEY( … ). Shorten it for Google Scholar, which handles long queries poorly.</span></span></div>
+    </div>
+  </section>
+
+  <!-- 03 SOURCES -->
+  <section class="pane" id="sources" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Nem csak cikkek</span><span data-l="en">Not only papers</span></span>
+      <h2><span data-l="hu">Hol keressünk?</span><span data-l="en">Where to search</span></h2>
+      <p class="lead"><span data-l="hu">Egy alkalmazott AI-projektnél négyféle forrást kell feltérképezni: tudományos publikációkat, adatszetteket, kódot/modelleket és létező projekteket vagy termékeket. Mindegyikhez más keresőhely tartozik.</span><span data-l="en">An applied AI project needs four kinds of sources mapped: scientific publications, datasets, code/models, and existing projects or products. Each has its own search venues.</span></p>
+    </div>
+    <div class="grid2">
+      <div class="card srcgroup"><h3><span data-l="hu">Tudományos publikációk</span><span data-l="en">Scientific publications</span></h3><div class="stack">
+        <div class="src"><a href="https://www.scopus.com" target="_blank" rel="noopener">Scopus</a><span data-l="hu">Lektorált folyóiratok és konferenciák; jó szűrők, idézési adatok. Egyetemi hálózatról / könyvtáron keresztül.</span><span data-l="en">Peer-reviewed journals and conferences; good filters, citation data. Via university network / library.</span></div>
+        <div class="src"><a href="https://www.webofscience.com" target="_blank" rel="noopener">Web of Science</a><span data-l="hu">Szigorúbban válogatott; a Scopus-szal együtt adja a „hivatalos” lefedettséget.</span><span data-l="en">More selective; together with Scopus gives "official" coverage.</span></div>
+        <div class="src"><a href="https://ieeexplore.ieee.org" target="_blank" rel="noopener">IEEE Xplore</a> · <a href="https://dl.acm.org" target="_blank" rel="noopener">ACM Digital Library</a><span data-l="hu">Mérnöki, informatikai, HCI- és jelfeldolgozási konferenciák.</span><span data-l="en">Engineering, CS, HCI and signal-processing venues.</span></div>
+        <div class="src"><a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed</a><span data-l="hu">Rehabilitáció, sporttudomány, klinikai validáció. A két rehab-csapatnak kötelező.</span><span data-l="en">Rehabilitation, sports science, clinical validation. Mandatory for both rehab teams.</span></div>
+        <div class="src"><a href="https://scholar.google.com" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.semanticscholar.org" target="_blank" rel="noopener">Semantic Scholar</a><span data-l="hu">Széles lefedettség, „Cited by” láncolás. Nem lektorált anyagot is mutat, ezért ellenőrizni kell.</span><span data-l="en">Broad coverage, "Cited by" chaining. Also lists non-peer-reviewed items, so verify.</span></div>
+        <div class="src"><a href="https://arxiv.org" target="_blank" rel="noopener">arXiv</a><span data-l="hu">A legfrissebb AI-eredmények, de preprint: nincs lektorálva. Nézzétek meg, megjelent-e azóta lektorált helyen.</span><span data-l="en">Latest AI results, but preprints: not peer-reviewed. Check whether a peer-reviewed version has appeared since.</span></div>
+      </div></div>
+      <div class="card srcgroup"><h3><span data-l="hu">Adatszettek</span><span data-l="en">Datasets</span></h3><div class="stack">
+        <div class="src"><a href="https://huggingface.co/datasets" target="_blank" rel="noopener">Hugging Face Datasets</a><span data-l="hu">Audio-, kép-, videó- és multimodális adatszettek, adatkártyával (dataset card).</span><span data-l="en">Audio, image, video and multimodal datasets, with dataset cards.</span></div>
+        <div class="src"><a href="https://datasetsearch.research.google.com" target="_blank" rel="noopener">Google Dataset Search</a><span data-l="hu">Egyetemi repozitóriumok, Zenodo, PhysioNet stb. egy helyen.</span><span data-l="en">University repositories, Zenodo, PhysioNet etc. in one place.</span></div>
+        <div class="src"><a href="https://zenodo.org" target="_blank" rel="noopener">Zenodo</a> · <a href="https://physionet.org" target="_blank" rel="noopener">PhysioNet</a> · <a href="https://www.kaggle.com/datasets" target="_blank" rel="noopener">Kaggle</a><span data-l="hu">Kutatási adatok DOI-val; élettani jelek; versenyadatok (Kaggle-nél a forrás és licenc gyakran bizonytalan).</span><span data-l="en">Research data with DOIs; physiological signals; competition data (on Kaggle, provenance and licence are often unclear).</span></div>
+        <div class="note warn" style="font-size:.85rem"><span data-l="hu">Minden adatszettnél jegyezzétek fel: licenc (kutatási/kereskedelmi), hozzáférés módja (letölthető / EULA / kérvény), alanyok száma, annotáció módja, ismert torzítások.</span><span data-l="en">For every dataset record: licence (research/commercial), access route (download / EULA / request), number of subjects, annotation method, known biases.</span></div>
+      </div></div>
+      <div class="card srcgroup"><h3><span data-l="hu">Kód és modellek</span><span data-l="en">Code and models</span></h3><div class="stack">
+        <div class="src"><a href="https://github.com" target="_blank" rel="noopener">GitHub</a><span data-l="hu">Keressetek a cikk címére vagy a módszer nevére. Nézzétek: licenc, utolsó commit, issue-k, reprodukálható-e.</span><span data-l="en">Search by paper title or method name. Check: licence, last commit, issues, reproducibility.</span></div>
+        <div class="src"><a href="https://huggingface.co/models" target="_blank" rel="noopener">Hugging Face Models</a> · <a href="https://huggingface.co/papers" target="_blank" rel="noopener">HF Papers</a><span data-l="hu">Előtanított modellek (pl. wav2vec 2.0, ViT), cikkekhez kapcsolt kód és modellek.</span><span data-l="en">Pre-trained models (e.g. wav2vec 2.0, ViT), papers linked to code and models.</span></div>
+        <div class="src"><span><b>SDK-k / SDKs:</b> Intel RealSense SDK (librealsense), MediaPipe, OpenFace, openSMILE, Meta wearables developer toolkit</span><span data-l="hu">A gyártói dokumentáció is forrás, de technikai, nem tudományos hivatkozás.</span><span data-l="en">Vendor documentation is a source too, but a technical, not scientific, reference.</span></div>
+      </div></div>
+      <div class="card srcgroup"><h3><span data-l="hu">Projektek, termékek, kitekintés</span><span data-l="en">Projects, products, context</span></h3><div class="stack">
+        <div class="src"><a href="https://cordis.europa.eu" target="_blank" rel="noopener">CORDIS</a><span data-l="hu">EU-finanszírozású kutatási projektek (Horizon), eredményekkel és partnerekkel.</span><span data-l="en">EU-funded research projects (Horizon), with results and partners.</span></div>
+        <div class="src"><a href="https://patents.google.com" target="_blank" rel="noopener">Google Patents</a><span data-l="hu">Ipari megoldások, főleg okosszemüveg és rehab-eszközök terén.</span><span data-l="en">Industrial solutions, especially for smart glasses and rehab devices.</span></div>
+        <div class="src"><a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a><span data-l="hu">Futó klinikai vizsgálatok digitális rehabilitációval.</span><span data-l="en">Ongoing clinical trials involving digital rehabilitation.</span></div>
+        <div class="src"><a href="https://www.mtmt.hu" target="_blank" rel="noopener">MTMT</a> · <span>OE Könyvtár / Library</span><span data-l="hu">Hazai publikációk és szerzők (pl. OE-s kutatók, akiket érdemes megkeresni); a könyvtár segít az előfizetéses adatbázisok elérésében.</span><span data-l="en">Hungarian publications and authors (e.g. ÓE researchers worth contacting); the library helps with subscription databases.</span></div>
+      </div></div>
+    </div>
+    <div class="card stack">
+      <h3><span data-l="hu">AI-asszisztensek a keresésben</span><span data-l="en">AI assistants in searching</span></h3>
+      <p><span data-l="hu">Az Elicit, a Consensus, a Semantic Scholar és az általános chatbotok (ChatGPT, Claude stb.) jók ötletelésre, kulcsszavak bővítésére és absztraktok gyors áttekintésére. Forrásként viszont soha ne idézzétek őket, és egyetlen tőlük kapott hivatkozást se vegyetek át ellenőrzés nélkül: a nyelvi modellek gyakran kitalált (hallucinált) cikkeket, rossz DOI-t vagy rossz évszámot adnak. Minden hivatkozást a kiadó oldalán vagy DOI-n keresztül nyissatok meg. A publikálási helyszín szabályai szerint jelezzétek az AI-eszközök használatát.</span><span data-l="en">Elicit, Consensus, Semantic Scholar and general chatbots (ChatGPT, Claude etc.) are useful for brainstorming, expanding keywords and skimming abstracts. Never cite them as a source, and never take a reference from them without checking it: language models often produce invented (hallucinated) papers, wrong DOIs or wrong years. Open every reference on the publisher's site or via its DOI. Disclose AI tool use according to the venue's policy.</span></p>
+    </div>
+  </section>
+
+  <!-- 04 SYNTHESIS -->
+  <section class="pane" id="synthesis" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Összegyűjteni kevés</span><span data-l="en">Collecting is not enough</span></span>
+      <h2><span data-l="hu">Szintézis: a cikkekből tudás lesz</span><span data-l="en">Synthesis: turning papers into knowledge</span></h2>
+      <p class="lead"><span data-l="hu">A leggyakoribb hiba a „bevásárlólista”: cikkenként egy bekezdés (A ezt csinálta, B azt csinálta). A szintézis ehelyett témák, módszerek és eredmények mentén rendezi az anyagot, összeveti őket, és megmutatja, hol van a hiány.</span><span data-l="en">The most common mistake is the "shopping list": one paragraph per paper (A did this, B did that). Synthesis instead organises the material by themes, methods and results, compares them and shows where the gap is.</span></p>
+    </div>
+    <div class="grid2">
+      <div class="card stack"><span class="pill" style="color:var(--bad)"><span data-l="hu">Rossz</span><span data-l="en">Weak</span></span>
+        <p style="font-style:italic"><span data-l="hu">„Capecci és mtsai. (2019) létrehozták a KIMORE adatszettet. Vakanski és mtsai. (2018) létrehozták az UI-PRMD adatszettet. Cao és mtsai. kifejlesztették az OpenPose-t.”</span><span data-l="en">"Capecci et al. (2019) created the KIMORE dataset. Vakanski et al. (2018) created the UI-PRMD dataset. Cao et al. developed OpenPose."</span></p>
+        <p style="font-size:.85rem;color:var(--muted)"><span data-l="hu">Felsorol, de nem hasonlít össze, nem értékel, nem mutat hiányt.</span><span data-l="en">Lists, but does not compare, evaluate or reveal a gap.</span></p></div>
+      <div class="card stack"><span class="pill" style="color:var(--ok)"><span data-l="hu">Jó</span><span data-l="en">Strong</span></span>
+        <p style="font-style:italic"><span data-l="hu">„A nyilvános rehabilitációs adatszettek (pl. KIMORE [3], UI-PRMD [4]) RGB-D kamerával rögzített mozgásokat és klinikai pontszámokat tartalmaznak, de egyik sem tartalmaz játékos (gamifikált) környezetben végzett gyakorlatokat vagy fáradási címkéket. A mozgásminőség-értékelő módszerek többsége offline működik [5], [6], így a valós idejű adaptáció még nyitott kérdés.”</span><span data-l="en">"Public rehabilitation datasets (e.g. KIMORE [3], UI-PRMD [4]) contain RGB-D recordings of movements with clinical scores, but none include exercises performed in a gamified setting or fatigue labels. Most movement-quality assessment methods run offline [5], [6], so real-time adaptation remains an open question."</span></p>
+        <p style="font-size:.85rem;color:var(--muted)"><span data-l="hu">Csoportosít, összevet, és megfogalmazza a hiányt, ami a saját hozzájárulásotokat indokolja.</span><span data-l="en">Groups, compares and states the gap that justifies your contribution.</span></p></div>
+    </div>
+
+    <h3><span data-l="hu">Az eszköz: az összehasonlító (koncepció-) mátrix</span><span data-l="en">The tool: the comparison (concept) matrix</span></h3>
+    <p><span data-l="hu">Egy közös táblázat (Google Sheets vagy a GitHub-repóban egy CSV), ahol minden sor egy forrás, minden oszlop egy összehasonlítási szempont. Ebből születik a cikk „Related Work” táblázata. Példa (rövidítve, a rehab-csapatok témájából):</span><span data-l="en">A shared table (Google Sheets or a CSV in the GitHub repo) where each row is a source and each column a comparison criterion. It becomes the "Related Work" table of your paper. Example (abridged, from the rehab teams' topic):</span></p>
+    <div class="tbl-wrap"><table>
+      <thead><tr><th><span data-l="hu">Forrás</span><span data-l="en">Source</span></th><th><span data-l="hu">Szenzor</span><span data-l="en">Sensor</span></th><th><span data-l="hu">Adat (n)</span><span data-l="en">Data (n)</span></th><th><span data-l="hu">Módszer</span><span data-l="en">Method</span></th><th><span data-l="hu">Metrika</span><span data-l="en">Metric</span></th><th><span data-l="hu">Valós idő?</span><span data-l="en">Real-time?</span></th><th><span data-l="hu">Gamifikáció?</span><span data-l="en">Gamified?</span></th><th><span data-l="hu">Korlát</span><span data-l="en">Limitation</span></th></tr></thead>
+      <tbody>
+        <tr><td>KIMORE [Capecci 2019]</td><td>Kinect v2 (RGB-D)</td><td><span data-l="hu">78 alany</span><span data-l="en">78 subjects</span></td><td><span data-l="hu">Adatszett + klinikai pontszám</span><span data-l="en">Dataset + clinical score</span></td><td><span data-l="hu">Klinikai skála</span><span data-l="en">Clinical scale</span></td><td>–</td><td class="no">✕</td><td><span data-l="hu">5 gyakorlat, alsó hát</span><span data-l="en">5 exercises, low back</span></td></tr>
+        <tr><td>UI-PRMD [Vakanski 2018]</td><td>Vicon + Kinect</td><td><span data-l="hu">10 alany</span><span data-l="en">10 subjects</span></td><td><span data-l="hu">Adatszett, helyes/hibás ism.</span><span data-l="en">Dataset, correct/incorrect reps</span></td><td>–</td><td>–</td><td class="no">✕</td><td><span data-l="hu">Egészséges alanyok</span><span data-l="en">Healthy subjects</span></td></tr>
+        <tr><td>BlazePose [Bazarevsky 2020]</td><td>RGB</td><td>–</td><td><span data-l="hu">33 pontos pózbecslés</span><span data-l="en">33-keypoint pose</span></td><td>PCK</td><td class="yes">✓ (mobil)</td><td class="no">✕</td><td><span data-l="hu">Mélység becsült</span><span data-l="en">Depth estimated</span></td></tr>
+        <tr><td style="color:var(--violet);font-weight:600"><span data-l="hu">Saját munka</span><span data-l="en">Our work</span></td><td>RealSense + IMU</td><td>?</td><td>?</td><td>?</td><td class="yes">✓</td><td class="yes">✓</td><td>?</td></tr>
+      </tbody>
+    </table></div>
+    <p style="font-size:.82rem;color:var(--muted)"><span data-l="hu">A számadatokat mindig az eredeti cikkből ellenőrizzétek, mielőtt a saját anyagotokba kerülnek.</span><span data-l="en">Always check figures against the original paper before they go into your own work.</span></p>
+
+    <div class="grid3">
+      <div class="card stack"><h4><span data-l="hu">1. Tematikus csoportosítás</span><span data-l="en">1. Group by theme</span></h4><p><span data-l="hu">Pl. „szenzorok és adatgyűjtés”, „mozgásminőség-értékelés”, „adaptáció és motiváció”. Ezek lesznek a Related Work alfejezetei.</span><span data-l="en">E.g. "sensors and data collection", "movement-quality assessment", "adaptation and motivation". These become your Related Work subsections.</span></p></div>
+      <div class="card stack"><h4><span data-l="hu">2. Összevetés és értékelés</span><span data-l="en">2. Compare and evaluate</span></h4><p><span data-l="hu">Mely módszer mely metrikán jobb, milyen adaton? Összevethetők-e az eredmények (azonos adatszett, protokoll)? Mi a minta mérete, a validáció módja?</span><span data-l="en">Which method wins on which metric, on what data? Are results comparable (same dataset, protocol)? What is the sample size and validation scheme?</span></p></div>
+      <div class="card stack"><h4><span data-l="hu">3. Hiány (gap) és hozzájárulás</span><span data-l="en">3. Gap and contribution</span></h4><p><span data-l="hu">Mondjátok ki: „A szakirodalomban nem találtunk olyan munkát, amely X-et Y körülmények között Z-vel mér.” Ebből jön a kutatási kérdés és a hipotézis.</span><span data-l="en">State it: "We found no work that measures X under Y conditions with Z." This yields the research question and hypothesis.</span></p></div>
+    </div>
+    <div class="note ok"><span data-l="hu"><b>Hasznos mondatpanelek:</b> „A legtöbb korábbi munka … ezzel szemben …”, „Az eredmények ellentmondásosak: … [3] szerint …, míg [5] …”, „Ezek a megközelítések nem veszik figyelembe …”, „Tudomásunk szerint ez az első munka, amely …” (ezt csak alapos keresés után írjátok le!).</span><span data-l="en"><b>Useful sentence frames:</b> "Most prior work … in contrast …", "Findings are mixed: [3] reports …, whereas [5] …", "These approaches do not account for …", "To the best of our knowledge, this is the first work that …" (write this only after a thorough search!).</span></div>
+  </section>
+
+  <!-- 05 QUALITY -->
+  <section class="pane" id="quality" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Mire figyeljetek az anyaggyűjtésben?</span><span data-l="en">What to watch for when collecting</span></span>
+      <h2><span data-l="hu">Csapdák, minőség, etika</span><span data-l="en">Pitfalls, quality, ethics</span></h2>
+    </div>
+    <div>
+      <details class="acc" open><summary><span data-l="hu">Kitalált vagy hibás hivatkozások (AI-hallucináció)</span><span data-l="en">Invented or wrong references (AI hallucination)</span><span class="sev h"><span data-l="hu">kritikus</span><span data-l="en">critical</span></span></summary><div class="body"><p><span data-l="hu">Ha egy hivatkozás nem nyitható meg DOI-n vagy a kiadó oldalán, nem létezik. Egy nem létező hivatkozás a TDK-dolgozatban vagy konferenciacikkben komoly tudományos integritási probléma.</span><span data-l="en">If a reference cannot be opened via its DOI or publisher page, it does not exist. A non-existent reference in a TDK paper or conference submission is a serious research-integrity problem.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Másodkézből idézés</span><span data-l="en">Second-hand citing</span><span class="sev h"><span data-l="hu">kritikus</span><span data-l="en">critical</span></span></summary><div class="body"><p><span data-l="hu">Csak olyat idézzetek, amit legalább az absztrakt, a módszertan és az eredmények szintjén ti magatok elolvastatok. Ha egy állítás egy review-ból származik, az eredeti forrást keressétek meg.</span><span data-l="en">Cite only what you have read yourselves, at least the abstract, method and results. If a claim comes from a review, track down the original source.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Ragadozó (predatory) folyóiratok és konferenciák</span><span data-l="en">Predatory journals and conferences</span><span class="sev h"><span data-l="hu">kritikus</span><span data-l="en">critical</span></span></summary><div class="body"><p><span data-l="hu">Jelek: gyors „lektorálás”, kéretlen e-mailes felkérés, homályos szerkesztőbizottság, Scopus/WoS-ban nem szerepel. Ellenőrzés: Scopus Sources lista, DOAJ, a kiadó és a konferencia (IEEE, ACM, Springer, Elsevier, MDPI esetén a konkrét folyóirat) hírneve, illetve kérdezzétek a mentort.</span><span data-l="en">Signs: very fast "review", unsolicited email invitations, vague editorial board, not indexed in Scopus/WoS. Check: Scopus Sources list, DOAJ, the publisher's and venue's reputation (for MDPI, the specific journal), or ask your mentor.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Preprintek és visszavont cikkek</span><span data-l="en">Preprints and retracted papers</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">Az arXiv-cikkeknél nézzétek meg, van-e lektorált változat, és azt idézzétek. Visszavonásokat a kiadó oldalán vagy a Retraction Watch adatbázisban ellenőrizhettek (a Zotero is figyelmeztet).</span><span data-l="en">For arXiv papers, check for a peer-reviewed version and cite that. Check retractions on the publisher's page or the Retraction Watch database (Zotero also warns you).</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Nem összevethető eredmények</span><span data-l="en">Non-comparable results</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">95% pontosság az egyik adatszeten nem jobb, mint 70% egy másikon. Figyeljétek: azonos adatszett és felosztás? Alany-független (subject-independent) validáció? Kiegyensúlyozatlan osztályok mellett accuracy helyett F1 / UAR. Egy alany adatai ne kerüljenek egyszerre a tanító és a teszt halmazba (data leakage).</span><span data-l="en">95% accuracy on one dataset is not better than 70% on another. Check: same dataset and split? Subject-independent validation? With imbalanced classes use F1 / UAR instead of accuracy. Data from one subject must not appear in both training and test sets (data leakage).</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Adatlicenc és adatvédelem (GDPR)</span><span data-l="en">Data licences and privacy (GDPR)</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">Az arc, a hang, a mozgásminta és az egészségügyi adat személyes, sokszor különleges kategóriájú (biometrikus, egészségügyi) adat. Saját adatgyűjtéshez tájékoztatás, írásos beleegyezés és szükség esetén etikai engedély kell, amit a mentorral kell egyeztetni. Kutatási licencű adatszetten tanított modell nem használható kereskedelmi célra.</span><span data-l="en">Faces, voices, movement patterns and health data are personal, often special-category (biometric, health) data. Your own data collection needs participant information, written consent and, where required, ethics approval: agree this with your mentor. A model trained on a research-only dataset cannot be used commercially.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">EU AI Act: érzelemfelismerés oktatásban és munkahelyen</span><span data-l="en">EU AI Act: emotion recognition in education and the workplace</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">Az EU AI Act (2024/1689 rendelet) 5. cikke tiltja az érzelemfelismerő rendszerek alkalmazását munkahelyen és oktatási intézményben (orvosi és biztonsági kivételekkel). Ez a 14-es és a 8-as csapatot közvetlenül érinti: kutatási prototípus készülhet, de a cikkben tárgyaljátok a jogi és etikai kereteket, és ne tervezzetek diákok érzelmeit monitorozó oktatási alkalmazást.</span><span data-l="en">Article 5 of the EU AI Act (Regulation 2024/1689) prohibits emotion-recognition systems in workplaces and educational institutions (with medical and safety exceptions). This directly affects Teams 14 and 8: a research prototype is fine, but discuss the legal and ethical framing in your paper and do not design an educational application that monitors students' emotions.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Megerősítési torzítás és „cherry picking”</span><span data-l="en">Confirmation bias and cherry-picking</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">Az ellentmondó és negatív eredményeket is gyűjtsétek. A kizárás okát mindig rögzítsétek (pl. „nem RGB-D”, „nem emberi alany”), így a szűrés átlátható és megismételhető.</span><span data-l="en">Collect contradicting and negative results too. Always record the reason for exclusion (e.g. "not RGB-D", "no human subjects") so screening is transparent and repeatable.</span></p></div></details>
+      <details class="acc"><summary><span data-l="hu">Plágium és saját szöveg</span><span data-l="en">Plagiarism and your own words</span><span class="sev m"><span data-l="hu">fontos</span><span data-l="en">important</span></span></summary><div class="body"><p><span data-l="hu">Ábrát, táblázatot vagy szó szerinti mondatot csak jelölve és hivatkozva vegyetek át. Jegyzeteléskor különítsétek el a szó szerinti idézetet (idézőjel + oldalszám) a saját összefoglalótoktól, így később nem keveredik.</span><span data-l="en">Reuse figures, tables or verbatim sentences only when marked and cited. When taking notes, separate verbatim quotes (quotation marks + page) from your own summaries so they don't get mixed up later.</span></p></div></details>
+    </div>
+    <div class="card stack">
+      <h3><span data-l="hu">Gyors forrásértékelés (5 kérdés)</span><span data-l="en">Quick source appraisal (5 questions)</span></h3>
+      <ol>
+        <li><span data-l="hu">Hol jelent meg? Lektorált, indexelt (Scopus/WoS) helyen?</span><span data-l="en">Where was it published? Peer-reviewed, indexed (Scopus/WoS)?</span></li>
+        <li><span data-l="hu">Mekkora és milyen a minta (alanyok száma, demográfia, egészséges vagy páciens)?</span><span data-l="en">How large and what kind of sample (number of subjects, demographics, healthy or patients)?</span></li>
+        <li><span data-l="hu">Mi a referencia (ground truth), és ki annotált?</span><span data-l="en">What is the ground truth, and who annotated it?</span></li>
+        <li><span data-l="hu">Elérhető-e a kód és az adat, reprodukálható-e?</span><span data-l="en">Are code and data available, is it reproducible?</span></li>
+        <li><span data-l="hu">Milyen korlátokat ír a szerző, és ti milyet láttok még?</span><span data-l="en">Which limitations do the authors state, and which others do you see?</span></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- 06 REFS -->
+  <section class="pane" id="refs" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Publikálásra készen</span><span data-l="en">Ready for publication</span></span>
+      <h2><span data-l="hu">Pontos hivatkozás</span><span data-l="en">Accurate referencing</span></h2>
+      <p class="lead"><span data-l="hu">A hivatkozásokat az első naptól hivatkozáskezelőben gyűjtsétek. A cikk írásakor már csak be kell illeszteni őket. Mérnöki konferenciákon és a legtöbb TDK-szekcióban az IEEE stílus az alapértelmezett, de mindig a felhívás (call for papers) sablonja dönt.</span><span data-l="en">Collect references in a reference manager from day one. When writing, you only need to insert them. IEEE style is the default for engineering conferences and most TDK sections, but the call for papers template always decides.</span></p>
+    </div>
+    <div class="grid3">
+      <div class="card stack"><h4>Zotero + Better BibTeX</h4><p><span data-l="hu">Csapatonként egy közös <b>Zotero Group Library</b>. A böngészőbővítménnyel egy kattintással mentitek a cikket a metaadatokkal együtt. A Better BibTeX automatikusan frissülő <code>.bib</code> fájlt exportál.</span><span data-l="en">One shared <b>Zotero Group Library</b> per team. The browser connector saves a paper with its metadata in one click. Better BibTeX exports an auto-updating <code>.bib</code> file.</span></p></div>
+      <div class="card stack"><h4>Overleaf + BibTeX</h4><p><span data-l="hu">A <code>references.bib</code> az Overleaf-projektben van, a szövegben <code>\cite{capecci2019kimore}</code>. A hivatkozáslistát a LaTeX generálja, így nem lehet elírni a sorszámokat.</span><span data-l="en"><code>references.bib</code> lives in the Overleaf project, and the text uses <code>\cite{capecci2019kimore}</code>. LaTeX generates the reference list, so numbering can't go wrong.</span></p></div>
+      <div class="card stack"><h4><span data-l="hu">Egységes kulcsok és címkék</span><span data-l="en">Consistent keys and tags</span></h4><p><span data-l="hu">Kulcs: <code>szerzőÉvSzó</code> (pl. <code>gong2022vocalsound</code>). Címkék a Zoteróban: <code>dataset</code>, <code>method</code>, <code>review</code>, <code>included</code>, <code>excluded</code>. Így a szűrés is a Zoteróban követhető.</span><span data-l="en">Key: <code>authorYearWord</code> (e.g. <code>gong2022vocalsound</code>). Zotero tags: <code>dataset</code>, <code>method</code>, <code>review</code>, <code>included</code>, <code>excluded</code>, so screening is tracked in Zotero too.</span></p></div>
+    </div>
+
+    <h3><span data-l="hu">Egy IEEE-hivatkozás felépítése</span><span data-l="en">Anatomy of an IEEE reference</span></h3>
+    <div class="anat">[3] <span class="a1" title="Authors">M. Capecci <i>et al.</i>,</span> <span class="a2" title="Title">“The KIMORE dataset: KInematic assessment of MOvement and clinical scores for remote monitoring of physical REhabilitation,”</span> <span class="a3" title="Venue"><i>IEEE Trans. Neural Syst. Rehabil. Eng.</i>,</span> <span class="a4" title="Volume, issue, pages">vol. 27, no. 7, pp. 1436–1448,</span> <span class="a5" title="Year">Jul. 2019,</span> <span class="a6" title="DOI">doi: 10.1109/TNSRE.2019.2923060.</span>
+      <div class="legend"><span><i style="background:#2a8fd6"></i><span data-l="hu">Szerzők (3 felett: et al.)</span><span data-l="en">Authors (more than 3: et al.)</span></span><span><i style="background:#9b4fd6"></i><span data-l="hu">Cím idézőjelben</span><span data-l="en">Title in quotes</span></span><span><i style="background:#1f8a5b"></i><span data-l="hu">Folyóirat/konferencia dőlten, rövidítve</span><span data-l="en">Journal/conference in italics, abbreviated</span></span><span><i style="background:#b26a00"></i><span data-l="hu">Kötet, szám, oldalak</span><span data-l="en">Volume, issue, pages</span></span><span><i style="background:#c0392b"></i><span data-l="hu">Dátum</span><span data-l="en">Date</span></span><span><i style="background:#6b7c8f"></i>DOI</span></div>
+    </div>
+    <p style="font-size:.82rem;color:var(--muted)"><span data-l="hu">A DOI-t a doi.org-on nyissátok meg, és vessétek össze a metaadatokat. Ez az egyetlen biztos ellenőrzés.</span><span data-l="en">Open the DOI on doi.org and compare the metadata. This is the only reliable check.</span></p>
+
+    <h3><span data-l="hu">Nem csak cikket kell hivatkozni</span><span data-l="en">It's not only papers you cite</span></h3>
+    <div class="grid2" id="bibgrid"></div>
+    <div class="note warn"><span data-l="hu"><b>Adatszett és szoftver:</b> mindig az adatszett/eszköz <i>eredeti cikkét</i> idézzétek (ha van), és ha a licenc előírja, a megadott hivatkozást is. Szoftvernél adjátok meg a verziót vagy commitot, weboldalnál a letöltés dátumát. A saját kódotokat a GitHub-repóban egy <code>CITATION.cff</code> fájllal tehetitek idézhetővé, Zenodón DOI-t is kaphat.</span><span data-l="en"><b>Datasets and software:</b> always cite the dataset/tool's <i>original paper</i> (if any), plus the citation required by its licence. Give the version or commit for software, the access date for web pages. Make your own code citable with a <code>CITATION.cff</code> file in the GitHub repo; Zenodo can mint a DOI for it.</span></div>
+  </section>
+
+  <!-- 07 TEAMS -->
+  <section class="pane" id="teams" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">Kiindulópontok, nem kész lista</span><span data-l="en">Starting points, not a finished list</span></span>
+      <h2><span data-l="hu">Csapatonkénti példák</span><span data-l="en">Examples per team</span></h2>
+      <p class="lead"><span data-l="hu">Válasszátok ki a csapatotokat. Minden példahivatkozás ismert, sokat idézett munka, de a lista szándékosan hiányos: a ti feladatotok bővíteni, és mindegyiket ellenőrizni (DOI, év, oldalszám).</span><span data-l="en">Pick your team. Every example reference is a well-known, widely cited work, but the list is deliberately incomplete: your job is to extend it and verify each one (DOI, year, pages).</span></p>
+    </div>
+    <div class="teamtabs" role="tablist" id="teamtabs"></div>
+    <div id="teampanel" class="stack" aria-live="polite"></div>
+  </section>
+
+  <!-- 08 CHECKLIST -->
+  <section class="pane" id="checklist" hidden>
+    <div class="stack">
+      <span class="eyebrow"><span data-l="hu">A heti ritmushoz igazítva</span><span data-l="en">Aligned with the weekly rhythm</span></span>
+      <h2><span data-l="hu">Ütemterv és ellenőrzőlista</span><span data-l="en">Timeline &amp; checklist</span></h2>
+    </div>
+    <div class="weeks">
+      <div class="card"><div class="w">W1</div><h4><span data-l="hu">Felderítés</span><span data-l="en">Scoping</span></h4><p style="font-size:.86rem"><span data-l="hu">Kutatási kérdés, fogalmak, 5–10 kulcscikk, keresőkifejezések. Zotero-csoport és mátrix létrehozása.</span><span data-l="en">Research question, concepts, 5–10 key papers, search strings. Set up Zotero group and matrix.</span></p></div>
+      <div class="card"><div class="w">W2</div><h4><span data-l="hu">Keresés és szűrés</span><span data-l="en">Search &amp; screen</span></h4><p style="font-size:.86rem"><span data-l="hu">Keresés 3+ adatbázisban, cím/absztrakt-szűrés, hólabda, adatszett- és repó-keresés.</span><span data-l="en">Search 3+ databases, title/abstract screening, snowballing, dataset and repo search.</span></p></div>
+      <div class="card"><div class="w">W3</div><h4><span data-l="hu">Kivonatolás</span><span data-l="en">Extraction</span></h4><p style="font-size:.86rem"><span data-l="hu">Teljes szöveg olvasása, mátrix kitöltése, adatszettek licencének ellenőrzése, baseline kiválasztása.</span><span data-l="en">Full-text reading, fill the matrix, check dataset licences, choose a baseline.</span></p></div>
+      <div class="card"><div class="w">W4</div><h4><span data-l="hu">Szintézis</span><span data-l="en">Synthesis</span></h4><p style="font-size:.86rem"><span data-l="hu">Related Work vázlat Overleafben, gap megfogalmazása, bemutatás a heti demón. Utána sprintenként frissítés.</span><span data-l="en">Related Work draft in Overleaf, state the gap, present at the weekly demo. Then update every sprint.</span></p></div>
+    </div>
+    <div class="card stack">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap">
+        <h3><span data-l="hu">Kész vagyunk?</span><span data-l="en">Are we done?</span></h3>
+        <span class="mono" id="progtxt" style="font-variant-numeric:tabular-nums"></span>
+      </div>
+      <div class="prog"><i id="progbar"></i></div>
+      <div class="chk" id="chk"></div>
+      <div><button class="btn" id="chkreset"><span data-l="hu">Lista törlése</span><span data-l="en">Reset list</span></button> <span style="font-size:.78rem;color:var(--muted)"><span data-l="hu">A pipák csak a saját böngészőtökben tárolódnak.</span><span data-l="en">Ticks are stored only in your own browser.</span></span></div>
+    </div>
+    <div class="card contact">
+      <div><span class="pill"><span data-l="hu">Kérdések</span><span data-l="en">Questions</span></span></div>
+      <div><b>Dr. Biró Attila</b> · <span class="mono">biro.attila@uni-obuda.hu</span> <button class="btn" id="mailcopy" style="padding:.2rem .55rem"><span data-l="hu">Cím másolása</span><span data-l="en">Copy address</span></button> <span class="copied" id="mailcopied" hidden></span> · <span data-l="hu">vagy Microsoft Teams</span><span data-l="en">or Microsoft Teams</span></div>
+    </div>
+  </section>
+  </main>
+</div>
+</div>
+
+<script>
+(function(){
+const app=document.getElementById('app');
+let lang='hu';
+try{const s=localStorage.getItem('lrg-lang'); if(s==='en'||s==='hu') lang=s;}catch(e){}
+const T=(o)=>typeof o==='string'?o:(o[lang]||o.hu);
+const esc=(s)=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+/* ---------- STEPS ---------- */
+const STEPS=[
+ {t:{hu:'Kutatási kérdés',en:'Research question'},
+  d:{hu:'Fogalmazzátok meg egy mondatban, mire kerestek választ. Bontsátok fogalmakra: <b>Kik/mi</b> (populáció, pl. sportolók), <b>mivel</b> (technológia/beavatkozás, pl. RGB-D pózbecslés), <b>mit mérünk</b> (kimenet, pl. mozgásminőség), <b>milyen környezetben</b> (pl. gamifikált edzés). Ez a PICO-séma mérnöki változata.',en:'State in one sentence what you want to answer. Break it into concepts: <b>who/what</b> (population, e.g. athletes), <b>with what</b> (technology/intervention, e.g. RGB-D pose estimation), <b>what is measured</b> (outcome, e.g. movement quality), <b>in which setting</b> (e.g. gamified training). This is an engineering version of PICO.'},
+  doo:{hu:['Egy mondatos kérdés a Overleaf-dokumentum elején','3–4 fő fogalom kiemelve','Mi NEM tartozik bele (hatókör)'],en:['One-sentence question at the top of the Overleaf doc','3–4 core concepts highlighted','What is OUT of scope']},
+  ex:{hu:'„Felismerhető-e a fizikai fáradás ismétlődő terhelés közben a nem-beszéd jellegű hangadásokból (nyögés, légzés) mikrofon és IMU fúziójával?”',en:'"Can physical fatigue during repeated exertion be detected from non-speech vocalizations (grunts, breathing) by fusing microphone and IMU data?"'}},
+ {t:{hu:'Kulcsszavak, keresőkifejezés',en:'Keywords, search string'},
+  d:{hu:'Minden fogalomhoz gyűjtsetek szinonimákat, angol szakszavakat, rövidítéseket (a kulcscikkek kulcsszavaiból és absztraktjaiból). Ezeket Boole-operátorokkal kapcsoljátok össze. Az alábbi építővel ki is próbálhatjátok.',en:'Collect synonyms, technical terms and abbreviations for each concept (from the keywords and abstracts of key papers). Combine them with Boolean operators. Try it in the builder below.'},
+  doo:{hu:['OR egy fogalmon belül, AND a fogalmak között','Idézőjel a kifejezésekhez: "pose estimation"','Csonkolás: rehabilit*','Rögzítsétek a pontos lekérdezést és a dátumot!'],en:['OR within a concept, AND between concepts','Quotes for phrases: "pose estimation"','Truncation: rehabilit*','Record the exact query and the date!']},
+  ex:{hu:'Ha a lekérdezés több ezer találatot ad, szűkítsetek (cím+absztrakt, évszám, tárgyterület). Ha 20 alattit, bővítsetek szinonimákkal.',en:'If the query returns thousands of hits, narrow it (title+abstract, year, subject area). If under 20, broaden with synonyms.'}},
+ {t:{hu:'Keresés több forrásban',en:'Search multiple sources'},
+  d:{hu:'Legalább 3 adatbázisban keressetek (pl. Scopus + IEEE Xplore + PubMed vagy ACM), plusz arXiv, Hugging Face és GitHub. Utána <b>hólabda-módszer</b> (Wohlin, 2014): a legjobb cikkek irodalomjegyzékét (visszafelé) és az őket idéző munkákat (előre, „Cited by”) is nézzétek át.',en:'Search at least 3 databases (e.g. Scopus + IEEE Xplore + PubMed or ACM), plus arXiv, Hugging Face and GitHub. Then <b>snowball</b> (Wohlin, 2014): go through the reference lists of the best papers (backward) and works citing them (forward, "Cited by").'},
+  doo:{hu:['Keresési napló: forrás, lekérdezés, dátum, találatszám','Exportálás RIS/BibTeX formátumban Zoteróba','Duplikátumok törlése'],en:['Search log: source, query, date, hit count','Export as RIS/BibTeX into Zotero','Remove duplicates']},
+  ex:{hu:'Szűrők: 2015-től (mélytanulás előtti munkák csak alapművekként), angol nyelv, cikk + konferenciacikk + review.',en:'Filters: from 2015 (pre-deep-learning work only as foundational references), English, article + conference paper + review.'}},
+ {t:{hu:'Szűrés (screening)',en:'Screening'},
+  d:{hu:'Előre írjátok le a bevonási és kizárási kritériumokat. Először cím és absztrakt alapján, aztán teljes szöveg alapján szűrjetek. Ideálisan két csapattag egymástól függetlenül dönt, a vitás eseteket megbeszélitek. A folyamatot PRISMA-szerű folyamatábra mutatja.',en:'Write inclusion and exclusion criteria in advance. Screen first by title and abstract, then by full text. Ideally two team members decide independently and discuss disagreements. A PRISMA-style flow diagram documents the process.'},
+  flow:true,
+  ex:{hu:'Példa kizárási ok: „nem emberi alany”, „nincs kvantitatív kiértékelés”, „nem elérhető teljes szöveg”, „szabadalom/hírcikk”.',en:'Example exclusion reasons: "no human subjects", "no quantitative evaluation", "full text unavailable", "patent/news item".'}},
+ {t:{hu:'Adatkivonatolás',en:'Data extraction'},
+  d:{hu:'A bevont forrásokat olvassátok el, és töltsétek ki a közös összehasonlító mátrixot (lásd Szintézis). Osszátok szét a cikkeket, de a mátrix oszlopait közösen rögzítsétek, hogy egységes legyen.',en:'Read the included sources and fill in the shared comparison matrix (see Synthesis). Split the papers between you, but agree the matrix columns together so it stays consistent.'},
+  doo:{hu:['Cél, módszer, szenzor, adatszett, n, metrika, eredmény, korlát','Kód/adat elérhetősége (link)','Saját megjegyzés: mit veszünk át?'],en:['Aim, method, sensor, dataset, n, metric, result, limitation','Code/data availability (link)','Own note: what do we reuse?']},
+  ex:{hu:'Tipp: egy cikk 15–20 perc alatt kivonatolható, ha az absztrakt → ábrák → eredmények → korlátok sorrendben olvassátok.',en:'Tip: a paper can be extracted in 15–20 minutes if you read abstract → figures → results → limitations.'}},
+ {t:{hu:'Szintézis',en:'Synthesis'},
+  d:{hu:'A mátrixból témák, trendek, ellentmondások és hiányok. Mely módszer a „baseline”, amihez a saját megoldásotokat mérni fogjátok? Melyik adatszettet használjátok, és miért? Mi a hiány, amit a projektetek betölt?',en:'From the matrix: themes, trends, contradictions and gaps. Which method is the baseline you will compare against? Which dataset will you use, and why? Which gap does your project fill?'},
+  doo:{hu:['1 ábra vagy taxonómia a területről','1 összehasonlító táblázat','Gap-mondat + kutatási kérdés/hipotézis'],en:['1 figure or taxonomy of the field','1 comparison table','Gap statement + research question/hypothesis']},
+  ex:{hu:'Ez megy a heti demóra: „Ezt tudja a tudomány, ez hiányzik, ezt fogjuk kipróbálni.”',en:'This goes to the weekly demo: "This is what science knows, this is missing, this is what we will try."'}},
+ {t:{hu:'Megírás és frissítés',en:'Write and update'},
+  d:{hu:'A Related Work / Irodalmi áttekintés fejezet Overleafben, IEEE-hivatkozásokkal. Tipikus terjedelem: konferenciacikkben 0,5–1 oldal és 15–30 hivatkozás, TDK-dolgozatban hosszabb, önálló fejezet. Sprintenként frissítsetek.',en:'Write the Related Work section in Overleaf with IEEE references. Typical length: 0.5–1 page and 15–30 references in a conference paper; a longer standalone chapter in a TDK thesis. Update it every sprint.'},
+  doo:{hu:['Minden állítás mögött hivatkozás','A módszertan (adatbázisok, lekérdezés, dátum) leírva','Minden hivatkozás ellenőrizve DOI-n'],en:['Every claim backed by a citation','Method (databases, query, date) described','Every reference verified via DOI']},
+  ex:{hu:'Konferenciák és TDK: a formai követelményeket mindig a konkrét felhívásból vegyétek.',en:'Conferences and TDK: always take the formal requirements from the specific call.'}}
+];
+let step=0;
+function renderSteps(){
+  const wrap=document.getElementById('steps');
+  wrap.innerHTML=STEPS.map((s,i)=>`<button role="tab" aria-selected="${i===step}" data-i="${i}"><span class="k">${i+1}</span>${esc(T(s.t))}</button>`).join('');
+  wrap.querySelectorAll('button').forEach(b=>b.onclick=()=>{step=+b.dataset.i;renderSteps();});
+  const s=STEPS[step];
+  const left=s.flow?`<div><h4 style="margin-bottom:.4rem">${lang==='hu'?'PRISMA-szerű folyamat (példa számok)':'PRISMA-style flow (example numbers)'}</h4><div class="flow">
+    <div><span>${lang==='hu'?'Adatbázis-találatok (Scopus, IEEE, PubMed)':'Database hits (Scopus, IEEE, PubMed)'}</span><b>412</b></div>
+    <div class="arrow">↓</div><div><span>${lang==='hu'?'Duplikátumok után':'After duplicates removed'}</span><b>298</b></div>
+    <div class="arrow">↓</div><div><span>${lang==='hu'?'Cím/absztrakt alapján megtartva':'Kept after title/abstract'}</span><b>64</b></div>
+    <div class="arrow">↓</div><div><span>${lang==='hu'?'Teljes szöveg után bevonva':'Included after full text'}</span><b>27</b></div>
+    <div class="arrow">↓</div><div><span>${lang==='hu'?'+ hólabda':'+ snowballing'}</span><b>+8 = 35</b></div></div></div>`
+    :`<div><h4 style="margin-bottom:.4rem">${lang==='hu'?'Teendők, kimenet':'To do, output'}</h4><ul>${T(s.doo).map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`;
+  document.getElementById('stepPanel').innerHTML=`<span class="pill">${lang==='hu'?'Lépés':'Step'} ${step+1} / ${STEPS.length}</span>
+   <h3 style="margin-top:.5rem">${esc(T(s.t))}</h3><p>${T(s.d)}</p>
+   <div class="cols">${left}<div class="note"><b>${lang==='hu'?'Példa / tipp':'Example / tip'}:</b> ${esc(T(s.ex))}</div></div>
+   <div class="step-nav"><button class="btn" id="sprev" ${step===0?'disabled':''}>← ${lang==='hu'?'Előző':'Previous'}</button><button class="btn primary" id="snext" ${step===STEPS.length-1?'disabled':''}>${lang==='hu'?'Következő':'Next'} →</button></div>`;
+  document.getElementById('sprev').onclick=()=>{if(step>0){step--;renderSteps();}};
+  document.getElementById('snext').onclick=()=>{if(step<STEPS.length-1){step++;renderSteps();}};
+}
+
+/* ---------- TEAMS ---------- */
+const TEAMS=[
+ {id:'pwt1',tag:'Project Work Team 1',name:{hu:'Adaptív gamifikált sportrehabilitáció',en:'Adaptive Gamified Sports Rehabilitation'},
+  rq:{hu:'Képes-e egy AI-alapú rehabilitációs rendszer a gyakorlatot és a játékélményt a sportoló aktuális mozgásképességéhez igazítani?',en:"Can an AI rehabilitation system adapt the exercise and game experience to the athlete's current movement capabilities?"},
+  concepts:['"pose estimation", "skeleton tracking", RGB-D, "depth camera", IMU, wearable','rehabilitation, physiotherapy, "sports injury", "exercise assessment"','adaptive, personali*, "difficulty adjustment", gamif*, exergame*, "serious game*"','animal'],
+  themes:{hu:['Mozgásminőség és kompenzáció automatikus értékelése','Multimodális fúzió: RGB-D + IMU','Dinamikus nehézségállítás (DDA) és motiváció','Klinikai validáció és mérőskálák'],en:['Automatic assessment of movement quality and compensation','Multimodal fusion: RGB-D + IMU','Dynamic difficulty adjustment (DDA) and motivation','Clinical validation and rating scales']},
+  lit:[
+   ['M. Capecci et al., “The KIMORE dataset…,” IEEE TNSRE, 2019.',{hu:'Rehab-adatszett klinikai pontszámokkal',en:'Rehab dataset with clinical scores'}],
+   ['A. Vakanski et al., “A data set of human body movements for physical rehabilitation exercises,” Data, 2018.',{hu:'UI-PRMD: helyes/hibás ismétlések',en:'UI-PRMD: correct/incorrect repetitions'}],
+   ['V. Bazarevsky et al., “BlazePose: On-device real-time body pose tracking,” arXiv:2006.10204, 2020.',{hu:'Valós idejű pózbecslés (MediaPipe)',en:'Real-time pose estimation (MediaPipe)'}],
+   ['S. Deterding et al., “From game design elements to gamefulness: defining ‘gamification’,” MindTrek, 2011.',{hu:'A gamifikáció alapdefiníciója',en:'Foundational definition of gamification'}],
+   ['D. Webster and O. Celik, “Systematic review of Kinect applications in elderly care and stroke rehabilitation,” J. NeuroEng. Rehabil., 2014.',{hu:'Példa review az RGB-D rehabról',en:'Example review on RGB-D rehab'}]],
+  data:['KIMORE','UI-PRMD','NTU RGB+D','Human3.6M',{hu:'saját RealSense + IMU felvétel',en:'own RealSense + IMU recordings'}],
+  tools:['MediaPipe Pose','OpenPose','MMPose','librealsense / pyrealsense2','Unity'],
+  matrix:{hu:'Szenzor · gyakorlattípus · alanyok (egészséges/sérült) · minőség-metrika · valós idejű? · adaptációs logika · motivációs mérőeszköz · korlát',en:'Sensor · exercise type · subjects (healthy/injured) · quality metric · real-time? · adaptation logic · motivation instrument · limitation'},
+  watch:{hu:'A legtöbb adatszett nem sportolókon, hanem idős vagy neurológiai pácienseken készült. A sportrehabilitáció külön keresést igényel (PubMed: "return to sport", ACL). A klinikai szakkifejezéseket gyógytornásszal egyeztessétek.',en:'Most datasets come from elderly or neurological patients, not athletes. Sports rehab needs its own search (PubMed: "return to sport", ACL). Check clinical terminology with a physiotherapist.'}},
+ {id:'pwt9',tag:'Project Work Team 9',name:{hu:'Nem-beszéd hangadások mint akusztikus biomarkerek',en:'Non-Speech Vocalizations as Acoustic Biomarkers'},
+  rq:{hu:'Mit árul el egy „huh!”, „ah!”, „ugh!” vagy a légzés hangja a fizikai erőkifejtésről és a fáradásról?',en:'What can a sound like "huh!", "ah!", "ugh!" or breathing noise tell us about physical effort and fatigue?'},
+  concepts:['"non-speech vocali*", "vocal burst*", "nonverbal vocali*", "effort sound*", grunt*, "breathing sound*", "respiratory sound*"','fatigue, exertion, "physical effort", "perceived exertion", exercise','biomarker*, "acoustic feature*", classification, "audio deep learning"','"speech recognition"'],
+  themes:{hu:['Nem-beszéd hangok osztályozása (vocal bursts)','Akusztikus jellemzők: GeMAPS vs. tanult reprezentációk','Légzés és fáradás akusztikus jelei','Ground truth: Borg-skála, pulzus, IMU-alapú teljesítmény'],en:['Classification of non-speech sounds (vocal bursts)','Acoustic features: GeMAPS vs. learned representations','Acoustic markers of breathing and fatigue','Ground truth: Borg scale, heart rate, IMU-based performance']},
+  lit:[
+   ['Y. Gong, J. Yu, and J. Glass, “VocalSound: A dataset for improving human vocal sounds recognition,” ICASSP, 2022.',{hu:'Nevetés, sóhaj, köhögés, tüsszentés stb.',en:'Laughter, sighs, coughs, sneezes etc.'}],
+   ['F. Eyben et al., “The Geneva minimalistic acoustic parameter set (GeMAPS)…,” IEEE Trans. Affective Comput., 2016.',{hu:'Standard akusztikus jellemzőkészlet (openSMILE)',en:'Standard acoustic feature set (openSMILE)'}],
+   ['A. S. Cowen et al., “Mapping 24 emotions conveyed by brief human vocalization,” American Psychologist, 2019.',{hu:'Rövid hangadások jelentéstartalma',en:'What brief vocalizations convey'}],
+   ['A. Baevski et al., “wav2vec 2.0: A framework for self-supervised learning of speech representations,” NeurIPS, 2020.',{hu:'Előtanított audio-reprezentáció',en:'Pre-trained audio representation'}],
+   ['G. Borg, “Psychophysical bases of perceived exertion,” Med. Sci. Sports Exerc., 1982.',{hu:'RPE-skála mint fáradási ground truth',en:'RPE scale as fatigue ground truth'}]],
+  data:['VocalSound','AudioSet','COUGHVID','ExVo / Hume Vocal Burst (ICML 2022)',{hu:'saját felvétel: mikrofon + videó + IMU',en:'own recordings: mic + video + IMU'}],
+  tools:['openSMILE (eGeMAPS)','librosa','wav2vec 2.0 / HuBERT','PANNs','Audacity / ELAN (annotáció)'],
+  matrix:{hu:'Hangtípus · rögzítési környezet (labor/terep, zaj) · mikrofon · jellemzők · modell · ground truth (RPE, pulzus) · alanyok · eredmény · korlát',en:'Sound type · recording setting (lab/field, noise) · microphone · features · model · ground truth (RPE, HR) · subjects · result · limitation'},
+  watch:{hu:'A terület szétszórt: az érzelemkutatás, a köhögésalapú diagnosztika és a sporttudomány szóhasználata különbözik, ezért mindhárom szókincsével keressetek. Sporttermi zaj mellett a labor-adatszettek eredményei nem vihetők át közvetlenül.',en:'The field is scattered: emotion research, cough-based diagnostics and sports science use different vocabulary, so search with all three. Lab-dataset results do not transfer directly to noisy gym conditions.'}},
+ {id:'t8',tag:'Team 8',name:{hu:'Meta okosszemüveg az oktatásban',en:'Meta Smart Glasses in Education'},
+  rq:{hu:'Lehet-e az AI-képes okosszemüveg hasznos oktatási eszköz, és nem csak egy újabb képernyő?',en:'Can AI-enabled smart glasses become a useful educational tool instead of just another screen?'},
+  concepts:['"smart glasses", "head-mounted display", "wearable camera", "Google Glass", "Ray-Ban Meta", egocentric','education, learning, teaching, classroom, "higher education", training','"voice assistant", "multimodal AI", "large language model*", "context-aware"','surgery'],
+  themes:{hu:['Okosszemüveg/AR oktatási felhasználása (főleg orvosi, ipari képzés)','Egocentrikus (first-person) látás és multimodális asszisztensek','Hangalapú, kéz nélküli interakció','Használhatóság, kognitív terhelés, adatvédelem'],en:['Educational use of smart glasses/AR (mostly medical and industrial training)','Egocentric (first-person) vision and multimodal assistants','Voice-based, hands-free interaction','Usability, cognitive load, privacy']},
+  lit:[
+   ['M. Akçayır and G. Akçayır, “Advantages and challenges associated with augmented reality for education: A systematic review…,” Educ. Res. Rev., 2017.',{hu:'AR az oktatásban: review-minta',en:'AR in education: model review'}],
+   ['B. Dougherty and S. M. Badawy, “Using Google Glass in nonsurgical medical settings: Systematic review,” JMIR mHealth uHealth, 2017.',{hu:'Okosszemüveg-alkalmazások áttekintése',en:'Review of smart-glasses applications'}],
+   ['K. Grauman et al., “Ego4D: Around the world in 3,000 hours of egocentric video,” CVPR, 2022.',{hu:'Egocentrikus videó benchmark',en:'Egocentric video benchmark'}],
+   ['J. Engel et al., “Project Aria: A new tool for egocentric multi-modal AI research,” arXiv:2308.13561, 2023.',{hu:'Meta kutatási szemüveg-platform',en:"Meta's research glasses platform"}],
+   ['F. D. Davis, “Perceived usefulness, perceived ease of use, and user acceptance of information technology,” MIS Quarterly, 1989.',{hu:'TAM: elfogadás mérése',en:'TAM: measuring acceptance'}]],
+  data:['Ego4D','EPIC-KITCHENS','Project Aria datasets',{hu:'saját pilot: kérdőív (SUS, NASA-TLX, TAM)',en:'own pilot: questionnaires (SUS, NASA-TLX, TAM)'}],
+  tools:['Meta wearables developer toolkit','Whisper (ASR)',{hu:'vision-language modellek',en:'vision-language models'},'SUS','NASA-TLX'],
+  matrix:{hu:'Eszköz · oktatási terület · felhasználói szerep (diák/oktató) · AI-funkció · vizsgálati design · n · mért kimenet (tanulás, SUS, terhelés) · adatvédelmi megoldás · korlát',en:'Device · educational domain · user role (student/teacher) · AI function · study design · n · measured outcome (learning, SUS, load) · privacy approach · limitation'},
+  watch:{hu:'Gyorsan változó terület: a termékekről és SDK-król szóló friss információ gyakran csak gyártói dokumentációban vagy preprintben van. Különítsétek el a tudományos és a technikai forrásokat. Az órai kamerás felvétel és az érzelemfelismerés jogilag érzékeny (GDPR, EU AI Act).',en:'A fast-moving field: current information on products and SDKs often exists only in vendor docs or preprints. Keep scientific and technical sources apart. Recording in class and emotion recognition are legally sensitive (GDPR, EU AI Act).'}},
+ {id:'t9',tag:'Team 9',name:{hu:'Gamifikált rehabilitáció Intel RealSense-szel',en:'Gamified Rehabilitation with Intel RealSense'},
+  rq:{hu:'Mérhetővé, interaktívvá és motiválóbbá tehetők-e a rehabilitációs gyakorlatok gépi látással és gamifikációval?',en:'Can rehabilitation exercises become measurable, interactive and more motivating through computer vision and gamification?'},
+  concepts:['"Intel RealSense", "depth camera", Kinect, RGB-D, "3D pose"','"pose estimation", "range of motion", "exercise recognition", "repetition counting"','rehabilitation, physiotherapy, "home-based", gamif*, exergame*','robot*'],
+  themes:{hu:['Mélységkamerás 3D pózbecslés pontossága (vs. markeres rendszer)','Gyakorlatfelismerés és ismétlésszámlálás','Mozgástartomány (ROM) mérése','Valós idejű visszajelzés és pontozás'],en:['Accuracy of depth-camera 3D pose (vs. marker-based systems)','Exercise recognition and repetition counting','Range-of-motion (ROM) measurement','Real-time feedback and scoring']},
+  lit:[
+   ['Z. Cao et al., “OpenPose: Realtime multi-person 2D pose estimation using part affinity fields,” IEEE TPAMI, 2021.',{hu:'Alap pózbecslő módszer',en:'Foundational pose estimator'}],
+   ['M. Capecci et al., “The KIMORE dataset…,” IEEE TNSRE, 2019.',{hu:'Összehasonlítási alap',en:'Benchmark for comparison'}],
+   ['A. Vakanski et al., “A data set of human body movements…,” Data, 2018.',{hu:'Helyes/hibás gyakorlatok',en:'Correct/incorrect exercises'}],
+   ['D. Webster and O. Celik, “Systematic review of Kinect applications…,” J. NeuroEng. Rehabil., 2014.',{hu:'Az elődtechnológia tapasztalatai',en:'Lessons from the predecessor technology'}],
+   ['S. Deterding et al., “From game design elements to gamefulness…,” MindTrek, 2011.',{hu:'Gamifikáció fogalmi keret',en:'Gamification framework'}]],
+  data:['KIMORE','UI-PRMD','IntelliRehabDS','NTU RGB+D'],
+  tools:['librealsense / pyrealsense2','MediaPipe Pose','OpenCV','Open3D','Unity / Pygame'],
+  matrix:{hu:'Kamera · pózmodell · ízületi pontosság (mm/fok) · referencia (Vicon, goniométer) · gyakorlatok · ismétlésszámlálás pontossága · késleltetés (ms/FPS) · gamifikációs elem · korlát',en:'Camera · pose model · joint accuracy (mm/deg) · reference (Vicon, goniometer) · exercises · repetition-count accuracy · latency (ms/FPS) · gamification element · limitation'},
+  watch:{hu:'A Kinect-alapú irodalom bőséges és jól átvihető: keressetek rá külön. Eltérés a csapatok között: a Project Work Team 1 az adaptációra, ti a mérhetőségre és a PoC-re fókuszáltok, de a szakirodalmi mátrix nagy része közös lehet, érdemes megosztani.',en:'The Kinect-based literature is large and transfers well: search for it separately. Difference between teams: Project Work Team 1 focuses on adaptation, you on measurability and the PoC, but much of the matrix can be shared, so share it.'}},
+ {id:'t14',tag:'Team 14',name:{hu:'Videóalapú érzelemelemzés',en:'Video-Based Emotion Analysis'},
+  rq:{hu:'Mennyit tud az AI kikövetkeztetni az érzelmi állapotról multimodális videóinformációból, és többet mond-e a jelek kombinálása, mint külön-külön?',en:'How much can AI infer about emotional state from multimodal video, and does combining signals tell us more than analysing them separately?'},
+  concepts:['"emotion recognition", "affective computing", "affect recognition", "facial expression"','multimodal, audio-visual, "speech emotion", "head pose", gaze, nonverbal','fusion, transformer, "late fusion", "early fusion", "cross-modal attention"','animal'],
+  themes:{hu:['Arckifejezés-felismerés (FER) és akciós egységek (AU)','Beszéd alapú érzelemfelismerés (SER)','Multimodális fúziós stratégiák','Validitás, torzítás, etika (a kategoriális érzelemmodell kritikája)'],en:['Facial expression recognition (FER) and action units (AU)','Speech emotion recognition (SER)','Multimodal fusion strategies','Validity, bias, ethics (critique of categorical emotion models)']},
+  lit:[
+   ['T. Baltrušaitis, C. Ahuja, and L.-P. Morency, “Multimodal machine learning: A survey and taxonomy,” IEEE TPAMI, 2019.',{hu:'Fúziós taxonómia',en:'Fusion taxonomy'}],
+   ['S. R. Livingstone and F. A. Russo, “The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS),” PLoS ONE, 2018.',{hu:'Audiovizuális, színészi adatszett',en:'Audio-visual, acted dataset'}],
+   ['A. Mollahosseini et al., “AffectNet: A database for facial expression, valence, and arousal computing in the wild,” IEEE Trans. Affective Comput., 2019.',{hu:'Nagy, „in-the-wild” arcadatszett',en:'Large in-the-wild face dataset'}],
+   ['A. Zadeh et al., “Multimodal language analysis in the wild: CMU-MOSEI dataset…,” ACL, 2018.',{hu:'Szöveg + hang + videó',en:'Text + audio + video'}],
+   ['L. F. Barrett et al., “Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements,” Psychol. Sci. Public Interest, 2019.',{hu:'Kötelező kritikai olvasmány',en:'Essential critical reading'}]],
+  data:['RAVDESS','CREMA-D','IEMOCAP','MELD','CMU-MOSEI','AffectNet','Aff-Wild2','DFEW'],
+  tools:['OpenFace 2.0','MediaPipe Face Mesh','openSMILE','wav2vec 2.0','PyTorch'],
+  matrix:{hu:'Adatszett (színészi/természetes) · modalitások · címkézés (kategória vagy valencia–arousal) · fúzió típusa · validáció (alany-független?) · metrika (UAR, F1, CCC) · unimodális vs. multimodális eredmény · korlát',en:'Dataset (acted/natural) · modalities · labels (categorical or valence–arousal) · fusion type · validation (subject-independent?) · metric (UAR, F1, CCC) · unimodal vs. multimodal result · limitation'},
+  watch:{hu:'A színészi adatszetteken (RAVDESS, CREMA-D) mért pontosság nem vihető át természetes helyzetekre. Az érzelmet nem „olvassuk ki”, hanem kifejezéseket és jeleket becsülünk: így is fogalmazzatok. Oktatási és munkahelyi alkalmazás az EU AI Act alapján tiltott.',en:'Accuracy on acted datasets (RAVDESS, CREMA-D) does not transfer to natural settings. We do not "read" emotions, we estimate expressions and signals: phrase it that way. Educational and workplace use is prohibited under the EU AI Act.'}}
+];
+let team=0;
+function buildQuery(c){
+  const grp=(s)=>s.split(',').map(x=>x.trim()).filter(Boolean);
+  const parts=c.slice(0,3).map(grp).filter(g=>g.length).map(g=>g.length>1?'('+g.join(' OR ')+')':g[0]);
+  let q=parts.join('\nAND ');
+  const nots=grp(c[3]||'');
+  if(nots.length) q+=(q?'\n':'')+'AND NOT ('+nots.join(' OR ')+')';
+  return q||'—';
+}
+function renderTeams(){
+  const tabs=document.getElementById('teamtabs');
+  tabs.innerHTML=TEAMS.map((t,i)=>`<button role="tab" aria-selected="${i===team}" data-i="${i}"><small>${esc(t.tag)}</small><b>${esc(T(t.name))}</b></button>`).join('');
+  tabs.querySelectorAll('button').forEach(b=>b.onclick=()=>{team=+b.dataset.i;renderTeams();});
+  const t=TEAMS[team], q=buildQuery(t.concepts);
+  const H=lang==='hu';
+  document.getElementById('teampanel').innerHTML=`
+   <div class="card teamhead"><span class="pill">${esc(t.tag)}</span><h3>${esc(T(t.name))}</h3><p class="rq">${esc(T(t.rq))}</p></div>
+   <div class="grid2">
+    <div class="card stack"><h4>${H?'Szakirodalmi témakörök (Related Work alfejezetek)':'Literature themes (Related Work subsections)'}</h4><ol>${T(t.themes).map(x=>`<li>${esc(x)}</li>`).join('')}</ol></div>
+    <div class="card stack"><h4>${H?'Kiinduló keresőkifejezés':'Starter search string'}</h4><pre class="q" id="tq">${esc(q)}</pre>
+     <div class="copyrow"><button class="btn" id="tqcopy">${H?'Másolás':'Copy'}</button><button class="btn" id="tqload">${H?'Szerkesztés az építőben':'Edit in builder'}</button><span class="copied" id="tqcopied" hidden></span></div></div>
+   </div>
+   <div class="card stack"><h4>${H?'Példa kulcsirodalom (ellenőrizzétek és bővítsétek!)':'Example key literature (verify and extend!)'}</h4>
+    <ol class="lit">${t.lit.map(l=>`<li>${esc(l[0])}<span class="why">${esc(T(l[1]))}</span></li>`).join('')}</ol></div>
+   <div class="grid2">
+    <div class="card stack"><h4>${H?'Adatszettek, amelyeket érdemes megvizsgálni':'Datasets worth examining'}</h4><div class="tags">${t.data.map(d=>`<span class="tag">${esc(T(d))}</span>`).join('')}</div>
+     <p style="font-size:.82rem;color:var(--muted)">${H?'Mindegyiknél: licenc, hozzáférés, alanyok, címkézés. Nem biztos, hogy mind illik a kérdésetekhez, ezt is dokumentáljátok.':'For each: licence, access, subjects, labels. Not all will fit your question; document that too.'}</p></div>
+    <div class="card stack"><h4>${H?'Eszközök, modellek, SDK-k':'Tools, models, SDKs'}</h4><div class="tags">${t.tools.map(d=>`<span class="tag">${esc(T(d))}</span>`).join('')}</div></div>
+   </div>
+   <div class="card stack"><h4>${H?'Javasolt mátrix-oszlopok':'Suggested matrix columns'}</h4><p class="mono" style="font-size:.82rem;max-width:none">${esc(T(t.matrix))}</p></div>
+   <div class="note warn"><b>${H?'Mire figyeljetek:':'Watch out:'}</b> ${esc(T(t.watch))}</div>`;
+  document.getElementById('tqcopy').onclick=()=>copy(q,'tqcopied');
+  document.getElementById('tqload').onclick=()=>{loadExample(team);go('process');setTimeout(()=>document.getElementById('builder').scrollIntoView({behavior:'smooth'}),50);};
+}
+
+/* ---------- BUILDER ---------- */
+const qin=['qc1','qc2','qc3','qc4'].map(id=>document.getElementById(id));
+function updQ(){document.getElementById('qout').textContent=buildQuery(qin.map(i=>i.value));}
+qin.forEach(i=>i.addEventListener('input',updQ));
+function loadExample(i){TEAMS[i].concepts.forEach((c,k)=>qin[k].value=c);document.getElementById('qteam').value=String(i);updQ();}
+function renderSel(){const s=document.getElementById('qteam');const v=s.value;s.innerHTML=TEAMS.map((t,i)=>`<option value="${i}">${esc(t.tag)}: ${esc(T(t.name))}</option>`).join('');s.value=v||'0';}
+document.getElementById('qteam').addEventListener('change',e=>loadExample(+e.target.value));
+document.getElementById('qcopy').onclick=()=>copy(document.getElementById('qout').textContent,'qcopied');
+
+/* ---------- COPY ---------- */
+function copy(text,flagId){
+  const f=document.getElementById(flagId);
+  const done=(ok)=>{f.hidden=false;f.textContent=ok?(lang==='hu'?'Másolva':'Copied'):(lang==='hu'?'Jelöljétek ki és másoljátok kézzel':'Select and copy manually');setTimeout(()=>f.hidden=true,2200);};
+  try{navigator.clipboard.writeText(text).then(()=>done(true),()=>done(false));}catch(e){done(false);}
+}
+document.getElementById('mailcopy').onclick=()=>copy('biro.attila@uni-obuda.hu','mailcopied');
+
+/* ---------- BIB EXAMPLES ---------- */
+const BIB=[
+ {h:{hu:'Konferenciacikk',en:'Conference paper'},ieee:'Y. Gong, J. Yu, and J. Glass, “VocalSound: A dataset for improving human vocal sounds recognition,” in <i>Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)</i>, 2022.',
+  bib:`@inproceedings{gong2022vocalsound,
+  author    = {Gong, Yuan and Yu, Jin and Glass, James},
+  title     = {{VocalSound}: A Dataset for Improving Human Vocal Sounds Recognition},
+  booktitle = {Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)},
+  year      = {2022}
+}`},
+ {h:{hu:'Preprint (arXiv)',en:'Preprint (arXiv)'},ieee:'V. Bazarevsky, I. Grishchenko, K. Raveendran, T. Zhu, F. Zhang, and M. Grundmann, “BlazePose: On-device real-time body pose tracking,” 2020, <i>arXiv:2006.10204</i>.',
+  bib:`@misc{bazarevsky2020blazepose,
+  author        = {Bazarevsky, Valentin and Grishchenko, Ivan and Raveendran, Karthik
+                   and Zhu, Tyler and Zhang, Fan and Grundmann, Matthias},
+  title         = {{BlazePose}: On-device Real-time Body Pose Tracking},
+  year          = {2020},
+  eprint        = {2006.10204},
+  archivePrefix = {arXiv}
+}`},
+ {h:{hu:'Szoftver / GitHub-repó',en:'Software / GitHub repo'},ieee:'Intel RealSense, “librealsense: Intel RealSense SDK,” GitHub repository, ver. X.Y.Z. [Online]. Available: https://github.com/IntelRealSense/librealsense (accessed Oct. 12, 2026).',
+  bib:`@misc{librealsense,
+  author       = {{Intel RealSense}},
+  title        = {librealsense: Intel RealSense SDK},
+  howpublished = {\\url{https://github.com/IntelRealSense/librealsense}},
+  note         = {Version X.Y.Z, accessed 2026-10-12}
+}`},
+ {h:{hu:'Módszertani alapmű',en:'Methodological reference'},ieee:'M. J. Page <i>et al.</i>, “The PRISMA 2020 statement: An updated guideline for reporting systematic reviews,” <i>BMJ</i>, vol. 372, Art. no. n71, 2021, doi: 10.1136/bmj.n71.',
+  bib:`@article{page2021prisma,
+  author  = {Page, Matthew J. and others},
+  title   = {The {PRISMA} 2020 statement: an updated guideline
+             for reporting systematic reviews},
+  journal = {BMJ},
+  volume  = {372},
+  pages   = {n71},
+  year    = {2021},
+  doi     = {10.1136/bmj.n71}
+}`}
+];
+function renderBib(){
+  const g=document.getElementById('bibgrid');
+  g.innerHTML=BIB.map((b,i)=>`<div class="card stack"><h4>${esc(T(b.h))}</h4><p style="font-size:.86rem">${b.ieee}</p>
+   <details><summary style="cursor:pointer;font-size:.82rem;font-weight:600;color:var(--accent-ink)">BibTeX</summary><pre class="q" style="margin-top:.4rem">${esc(b.bib)}</pre>
+   <div class="copyrow" style="margin-top:.4rem"><button class="btn" data-b="${i}">${lang==='hu'?'BibTeX másolása':'Copy BibTeX'}</button><span class="copied" id="bc${i}" hidden></span></div></details></div>`).join('');
+  g.querySelectorAll('button[data-b]').forEach(b=>b.onclick=()=>copy(BIB[+b.dataset.b].bib,'bc'+b.dataset.b));
+}
+
+/* ---------- CHECKLIST ---------- */
+const CHK=[
+ {hu:'Egy mondatos kutatási kérdés és 3–4 fő fogalom rögzítve',en:'One-sentence research question and 3–4 core concepts recorded'},
+ {hu:'Keresési napló: legalább 3 adatbázis, lekérdezés, dátum, találatszám',en:'Search log: at least 3 databases, query, date, hit count'},
+ {hu:'Bevonási és kizárási kritériumok leírva, kizárási okok rögzítve',en:'Inclusion and exclusion criteria written, exclusion reasons recorded'},
+ {hu:'Hólabda-keresés (visszafelé és előre) elvégezve',en:'Backward and forward snowballing done'},
+ {hu:'Közös Zotero-könyvtár, egységes címkék és kulcsok',en:'Shared Zotero library, consistent tags and keys'},
+ {hu:'Összehasonlító mátrix kitöltve a bevont forrásokra',en:'Comparison matrix filled in for included sources'},
+ {hu:'Adatszett-lista licenccel, hozzáféréssel, címkézéssel',en:'Dataset list with licence, access and labels'},
+ {hu:'Kód/modell-lista (repó, licenc, utolsó frissítés), baseline kiválasztva',en:'Code/model list (repo, licence, last update), baseline chosen'},
+ {hu:'Kutatási hiány (gap) és saját hozzájárulás megfogalmazva',en:'Research gap and own contribution stated'},
+ {hu:'Related Work vázlat Overleafben, tematikus szerkezetben',en:'Related Work draft in Overleaf, structured by theme'},
+ {hu:'Minden hivatkozás DOI-n vagy kiadói oldalon ellenőrizve',en:'Every reference verified via DOI or publisher page'},
+ {hu:'Preprintek lektorált változata ellenőrizve, visszavonások kiszűrve',en:'Peer-reviewed versions of preprints checked, retractions filtered out'},
+ {hu:'Etikai és adatvédelmi kérdések átbeszélve a mentorral',en:'Ethics and data-protection issues discussed with the mentor'},
+ {hu:'AI-eszközök használata dokumentálva a helyszín szabályai szerint',en:'AI tool use documented per venue policy'}
+];
+let ticks={};
+try{ticks=JSON.parse(localStorage.getItem('lrg-chk')||'{}')||{};}catch(e){ticks={};}
+function renderChk(){
+  const c=document.getElementById('chk');
+  c.innerHTML=CHK.map((x,i)=>`<label for="ck${i}"><input type="checkbox" id="ck${i}" ${ticks[i]?'checked':''}><span>${esc(T(x))}</span></label>`).join('');
+  c.querySelectorAll('input').forEach((el,i)=>el.onchange=()=>{ticks[i]=el.checked;save();prog();});
+  prog();
+}
+function save(){try{localStorage.setItem('lrg-chk',JSON.stringify(ticks));}catch(e){}}
+function prog(){const n=CHK.filter((_,i)=>ticks[i]).length;document.getElementById('progbar').style.width=(n/CHK.length*100)+'%';document.getElementById('progtxt').textContent=n+' / '+CHK.length;}
+document.getElementById('chkreset').onclick=()=>{ticks={};save();renderChk();};
+
+/* ---------- TABS + LANG ---------- */
+const ids=['intro','process','sources','synthesis','quality','refs','teams','checklist'];
+function go(id){
+  if(!ids.includes(id)) id='intro';
+  ids.forEach(x=>document.getElementById(x).hidden=(x!==id));
+  document.querySelectorAll('#rail button').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===id));
+  try{history.replaceState(null,'','#'+id);}catch(e){}
+  window.scrollTo({top:0});
+}
+document.querySelectorAll('#rail button').forEach(b=>b.onclick=()=>go(b.dataset.tab));
+function setLang(l){
+  lang=l; app.className='lang-'+l; document.documentElement.lang=l;
+  document.getElementById('btn-hu').setAttribute('aria-pressed',l==='hu');
+  document.getElementById('btn-en').setAttribute('aria-pressed',l==='en');
+  try{localStorage.setItem('lrg-lang',l);}catch(e){}
+  renderSteps(); renderTeams(); renderSel(); renderBib(); renderChk();
+}
+document.querySelectorAll('.langsw button').forEach(b=>b.onclick=()=>setLang(b.dataset.set));
+setLang(lang);
+loadExample(0);
+go((location.hash||'').replace('#','')||'intro');
+})();
+</script>
+
+</body></html>
