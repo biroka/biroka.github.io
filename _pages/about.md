@@ -74,6 +74,7 @@ Academic Profiles
 [ <a target="_blank" href="https://m2.mtmt.hu/api/author/10098709?&labelLang=eng">MTMT2</a> ]
 [ <a target="_blank" href="https://www.hit.bme.hu/~ghorvath/tudometer/mtoscoring/10098709">Tud-O-Méter</a> ]
 [ <a target="_blank" href="https://doktori.hu/doktori-kepzes/szemelyek/91438">Doktori.hu</a> ]
+[ <a target="_blank" href="https://topscinet.com/top_social/public_profile/U63015/">TopSciNet</a> ]
 [ <a target="_blank" href="https://scite.ai/users/attila-biro-D1xKW">scite_</a> ]
 [ <a target="_blank" href="https://www.webofscience.com/wos/author/record/2179130">WebOfScience</a> ]
 [ <a target="_blank" href="https://www.scilit.com/scholars/16248794">Scilit</a> ]
@@ -83,10 +84,6 @@ Academic Profiles
 [ <a target="_blank" href="https://www.qeios.com/profile/101667">Qeios</a> ]
 [ <a target="_blank" href="https://peerj.com/abiro">PeerJ</a> ]
 [ <a target="_blank" href="https://engage.cochrane.org/profiles/31609">Cochrane</a> ]
-[ <a target="_blank" href="https://topscinet.com/top_social/public_profile/U63015/">TopSciNet</a> ]
-
-
-
 
 
 Social Profiles
